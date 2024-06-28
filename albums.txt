@@ -542,8 +542,8 @@
 {Twice}{2020-06-01}{More & More}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2020-06-01][More & More][KR]?raw=true}
 {Twice}{2020-10-26}{Eyes Wide Open}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2020-10-26][Eyes Wide Open][KR]?raw=true}
 {Twice}{2021-06-09}{Taste of Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-06-09][Taste of Love][KR]?raw=true}
-{Twice}{2021-07-28}{Perfect World}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-07-28][Perfect World][KR]?raw=true}
-{Twice}{2021-10-1}{The Feels}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-10-1][The Feels][KR]?raw=true}
+{Twice}{2021-07-28}{Perfect World}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-07-28][Perfect World][JP]?raw=true}
+{Twice}{2021-10-01}{The Feels}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-10-01][The Feels][KR]?raw=true}
 {Twice}{2021-11-12}{Formula of Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-11-12][Formula of Love][KR]?raw=true}
 {TXT}{2019-03-04}{The Dream Chapter STAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2019-03-04][The Dream Chapter STAR][KR]?raw=true}
 {TXT}{2019-10-21}{The Dream Chapter MAGIC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2019-10-21][The Dream Chapter MAGIC][KR]?raw=true}
