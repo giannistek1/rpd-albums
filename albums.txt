@@ -114,7 +114,7 @@
 {CIX}{2019-07-23}{HELLO Chapter 1. Hello, Stranger}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2019-07-23][HELLO Chapter 1. Hello, Stranger][KR]?raw=true}
 {CIX}{2019-11-19}{HELLO Chapter 2. Hello, Strange Place}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2019-11-19][HELLO Chapter 2. Hello, Strange Place][KR]?raw=true}
 {CIX}{2020-10-27}{HELLO Chapter 3. Hello, Strange Time}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2020-10-27][HELLO Chapter 3. Hello, Strange Time][KR]?raw=true}
-{CIX}{2021-02-02}{HELLO Chapter Ø. Hello, Strange Dream}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2021-02-02][HELLO Chapter Ø. Hello, Strange Dream][KR]?raw=true}
+{CIX}{2021-02-02}{HELLO Chapter. Hello, Strange Dream}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2021-02-02][HELLO Chapter. Hello, Strange Dream][KR]?raw=true}
 {CLC}{2017-01-17}{CryStyle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CLC][2017-01-17][CryStyle][KR]?raw=true}
 {CLC}{2018-02-22}{Black Dress}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CLC][2018-02-22][Black Dress][KR]?raw=true}
 {CLC}{2019-01-30}{No.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CLC][2019-01-30][No.1][KR]?raw=true}
@@ -214,7 +214,7 @@
 {Highlight}{2017-10-16}{Celebrate}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Highlight][2017-10-16][Celebrate][KR]?raw=true}
 {HINAPIA}{2019-11-03}{New Start}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HINAPIA][2019-11-03][New Start][KR]?raw=true}
 {Hwa Sa}{2019-02-13}{TWIT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Hwa Sa][2019-02-13][TWIT][KR]?raw=true}
-{Hwa Sa}{2020-06-29}{María}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Hwa Sa][2020-06-29][María][KR]?raw=true}
+{Hwa Sa}{2020-06-29}{Mar a}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Hwa Sa][2020-06-29][Mar a][KR]?raw=true}
 {Hwa Sa}{2021-11-24}{Guilty Pleasure}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Hwa Sa][2021-11-24][Guilty Pleasure][KR]?raw=true}
 {HYOLYN}{2018-04-23}{Dally}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN][2018-04-23][Dally][KR]?raw=true}
 {HYOLYN}{2018-07-20}{See Sea}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN][2018-07-20][See Sea][KR]?raw=true}
@@ -253,7 +253,7 @@
 {IVE}{2022-04-05}{Love Dive}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2022-04-05][Love Dive][KR]?raw=true}
 {IZ ONE}{2000-01-01}{COLOR IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2000-01-01][COLOR IZ][KR]?raw=true}
 {IZ ONE}{2000-01-01}{HEARTIZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2000-01-01][HEARTIZ][KR]?raw=true}
-{IZ ONE}{2020--12-07}{One-reeler Act IV}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020--12-07][One-reeler Act IV][KR]?raw=true}
+{IZ ONE}{2020-12-07}{One-reeler Act IV}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020--12-07][One-reeler Act IV][KR]?raw=true}
 {IZ ONE}{2020-02-17}{BLOOMIZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-02-17][BLOOMIZ][KR]?raw=true}
 {IZ ONE}{2020-06-15}{Oneiric Diary}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-06-15][Oneiric Diary][KR]?raw=true}
 {J-Hope}{2019-09-27}{Chicken Noodle Soup}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[J-Hope][2019-09-27][Chicken Noodle Soup][KR]?raw=true}
@@ -272,7 +272,7 @@
 {KAI}{2020-11-30}{KAI}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI][2020-11-30][KAI][KR]?raw=true}
 {KAI}{2021-11-30}{Peaches}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI][2021-11-30][Peaches][KR]?raw=true}
 {KARD}{2016-12-13}{Oh NaNa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2016-12-13][Oh NaNa][KR]?raw=true}
-{KARD}{2017-02-16}{Don’t Recall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-02-16][Don’t Recall][KR]?raw=true}
+{KARD}{2017-02-16}{Don t Recall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-02-16][Don t Recall][KR]?raw=true}
 {KARD}{2017-04-04}{Rumor}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-04-04][Rumor][KR]?raw=true}
 {KARD}{2017-07-19}{Hola Hola}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-07-19][Hola Hola][KR]?raw=true}
 {KARD}{2017-11-21}{You & Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-11-21][You & Me][KR]?raw=true}
@@ -334,7 +334,7 @@
 {MONSTA X}{2018-03-26}{The Connect Dejavu}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2018-03-26][The Connect Dejavu][KR]?raw=true}
 {MONSTA X}{2018-10-22}{Take.1 Are You There}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2018-10-22][Take.1 Are You There][KR]?raw=true}
 {MONSTA X}{2019-02-18}{Take.2 We Are Here}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2019-02-18][Take.2 We Are Here][KR]?raw=true}
-{MONSTA X}{2019-10-28}{Follow – Find You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2019-10-28][Follow – Find You][KR]?raw=true}
+{MONSTA X}{2019-10-28}{Follow   Find You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2019-10-28][Follow   Find You][KR]?raw=true}
 {MONSTA X}{2020-05-26}{Fantasia X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2020-05-26][Fantasia X][KR]?raw=true}
 {MONSTA X}{2020-11-02}{Fatal Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2020-11-02][Fatal Love][KR]?raw=true}
 {MONSTA X}{2021-06-01}{One of a Kind}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2021-06-01][One of a Kind][KR]?raw=true}
@@ -420,7 +420,7 @@
 {Red Velvet}{2019-08-20}{The ReVe Festival Day 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-08-20][The ReVe Festival Day 2][KR]?raw=true}
 {Red Velvet}{2019-12-23}{The ReVe Festival Finale}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-12-23][The ReVe Festival Finale][KR]?raw=true}
 {Red Velvet}{2021-08-16}{Queendom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2021-08-16][Queendom][KR]?raw=true}
-{Rosé}{2021-03-12}{-R-}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Rosé][2021-03-12][-R-][KR]?raw=true}
+{Ros }{2021-03-12}{-R-}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Ros ][2021-03-12][-R-][KR]?raw=true}
 {SECRET NUMBER}{2020-05-19}{Who Dis}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-05-19][Who Dis][KR]?raw=true}
 {SECRET NUMBER}{2020-11-04}{Got That Boom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-11-04][Got That Boom][KR]?raw=true}
 {SECRET NUMBER}{2021-10-07}{Fire Saturday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2021-10-07][Fire Saturday][KR]?raw=true}
@@ -434,7 +434,7 @@
 {Seventeen}{2019-01-21}{You Made My Dawn}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2019-01-21][You Made My Dawn][KR]?raw=true}
 {Seventeen}{2019-08-05}{HIT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2019-08-05][HIT][KR]?raw=true}
 {Seventeen}{2019-09-16}{An Ode}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2019-09-16][An Ode][KR]?raw=true}
-{Seventeen}{2020-06-22}{Henggaræ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2020-06-22][Henggaræ][KR]?raw=true}
+{Seventeen}{2020-06-22}{Henggar }{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2020-06-22][Henggar ][KR]?raw=true}
 {Seventeen}{2020-10-19}{Semicolon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2020-10-19][Semicolon][KR]?raw=true}
 {Seventeen}{2021-06-18}{Your Choice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2021-06-18][Your Choice][KR]?raw=true}
 {Seventeen}{2021-10-22}{Attacca}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2021-10-22][Attacca][KR]?raw=true}
@@ -503,7 +503,7 @@
 {Taeyeon}{2022-02-14}{INVU}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon][2022-02-14][INVU][KR]?raw=true}
 {Teen Top}{2000-01-01}{No.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2000-01-01][No.1][KR]?raw=true}
 {Teen Top}{2013-10-23}{Addition}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-10-23][Addition][KR]?raw=true}
-{Ten}{2021-08-10}{Paint Me Naked – SM STATION}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Ten][2021-08-10][Paint Me Naked – SM STATION][KR]?raw=true}
+{Ten}{2021-08-10}{Paint Me Naked   SM STATION}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Ten][2021-08-10][Paint Me Naked   SM STATION][KR]?raw=true}
 {The Boyz}{2017-12-06}{The First}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2017-12-06][The First][KR]?raw=true}
 {The Boyz}{2018-04-03}{The Start}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2018-04-03][The Start][KR]?raw=true}
 {The Boyz}{2018-09-05}{The Sphere}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2018-09-05][The Sphere][KR]?raw=true}
