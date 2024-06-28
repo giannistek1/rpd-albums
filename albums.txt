@@ -253,7 +253,7 @@
 {IVE}{2022-04-05}{Love Dive}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2022-04-05][Love Dive][KR]?raw=true}
 {IZ ONE}{2000-01-01}{COLOR IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2000-01-01][COLOR IZ][KR]?raw=true}
 {IZ ONE}{2000-01-01}{HEARTIZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2000-01-01][HEARTIZ][KR]?raw=true}
-{IZ ONE}{2020-12-07}{One-reeler Act IV}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020--12-07][One-reeler Act IV][KR]?raw=true}
+{IZ ONE}{2020-12-07}{One-reeler Act IV}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-12-07][One-reeler Act IV][KR]?raw=true}
 {IZ ONE}{2020-02-17}{BLOOMIZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-02-17][BLOOMIZ][KR]?raw=true}
 {IZ ONE}{2020-06-15}{Oneiric Diary}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-06-15][Oneiric Diary][KR]?raw=true}
 {J-Hope}{2019-09-27}{Chicken Noodle Soup}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[J-Hope][2019-09-27][Chicken Noodle Soup][KR]?raw=true}
