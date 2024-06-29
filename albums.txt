@@ -1,4 +1,3 @@
-{(G)-IDLE}{2024-01-29}{2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)-IDLE][2024-01-29][2][KR].jpg?raw=true}
 {(G)I-DLE}{2018-05-02}{I Am}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2018-05-02][I Am][KR].png?raw=true}
 {(G)I-DLE}{2018-08-14}{HANN (Alone)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2018-08-14][HANN (Alone)][KR].png?raw=true}
 {(G)I-DLE}{2019-02-26}{I Made}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2019-02-26][I Made][KR].png?raw=true}
@@ -11,6 +10,7 @@
 {(G)I-DLE}{2022-10-17}{I Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2022-10-17][I Love][KR].jpg?raw=true}
 {(G)I-DLE}{2023-05-15}{I feel}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2023-05-15][I feel][KR].jpg?raw=true}
 {(G)I-DLE}{2024-01-22}{Wife}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-01-22][Wife][KR].jpg?raw=true}
+{(G)I-DLE}{2024-01-29}{2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-01-29][2][KR].jpg?raw=true}
 {2NE1}{2011-07-24}{Im The Best}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2011-07-24][Im The Best][KR].png?raw=true}
 {2NE1}{2014-02-26}{Crush}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2014-02-26][Crush][KR].jpg?raw=true}
 {2PM}{2015-06-15}{No. 5}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2PM][2015-06-15][No. 5][KR].jfif?raw=true}
