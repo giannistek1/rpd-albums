@@ -265,6 +265,10 @@
 {ITZY}{2021-04-30}{GUESS WHO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2021-04-30][GUESS WHO][KR].jpg?raw=true}
 {ITZY}{2021-09-24}{Crazy In Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2021-09-24][Crazy In Love][KR].jpg?raw=true}
 {ITZY}{2022-01-04}{Street Dance Girls Fighter (SGF) Special}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2022-01-04][Street Dance Girls Fighter (SGF) Special][KR].jfif?raw=true}
+{ITZY}{2022-07-15}{Checkmate}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2022-07-15][Checkmate][KR].jpg?raw=true}
+{ITZY}{2022-11-30}{Cheshire}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2022-11-30][Cheshire][KR].png?raw=true}
+{ITZY}{2023-07-31}{KILL MY DOUBT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2023-07-31][KILL MY DOUBT][KR].jpg?raw=true}
+{ITZY}{2024-01-08}{BORN TO BE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2024-01-08][BORN TO BE][KR].jpg?raw=true}
 {IU}{2015-10-23}{Chat-Shire}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IU][2015-10-23][Chat-Shire][KR].jfif?raw=true}
 {IU}{2018-10-10}{BBIBBI}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IU][2018-10-10][BBIBBI][KR].jpg?raw=true}
 {IU}{2021-03-25}{Lilac}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IU][2021-03-25][Lilac][KR].jpg?raw=true}
