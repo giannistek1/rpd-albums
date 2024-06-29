@@ -304,6 +304,7 @@
 {KDA}{2020-08-27}{The Baddest}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KDA][2020-08-27][The Baddest][KR].jpg?raw=true}
 {KDA}{2020-10-28}{All Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KDA][2020-10-28][All Out][KR].jpg?raw=true}
 {Kep1er}{2022-01-03}{FIRST IMPACT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Kep1er][2022-01-03][FIRST IMPACT][KR].jfif?raw=true}
+{LE SERRAFIM}{2022-05-02}{FEARLESS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2022-05-02][FEARLESS][KR].png?raw=true}
 {LE SERRAFIM}{2022-10-17}{ANTIFRAGILE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2022-10-17][ANTIFRAGILE][KR].png?raw=true}
 {LE SERRAFIM}{2023-05-01}{UNFORGIVEN}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2023-05-01][UNFORGIVEN][KR].webp?raw=true}
 {LE SERRAFIM}{2023-06-27}{Eve, Psyche & The Bluebeards Wife}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2023-06-27][Eve, Psyche & The Bluebeards Wife][KR].jpg?raw=true}
