@@ -9,6 +9,7 @@
 {(G)I-DLE}{2022-03-14}{I Never Die}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2022-03-14][I Never Die][KR].jpg?raw=true}
 {(G)I-DLE}{2022-10-17}{I Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2022-10-17][I Love][KR].jpg?raw=true}
 {(G)I-DLE}{2023-05-15}{I feel}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2023-05-15][I feel][KR].jpg?raw=true}
+{(G)I-DLE}{2023-10-06}{HEAT}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2023-10-06][HEAT][EN].png?raw=true}
 {(G)I-DLE}{2024-01-22}{Wife}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-01-22][Wife][KR].jpg?raw=true}
 {(G)I-DLE}{2024-01-29}{2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-01-29][2][KR].jpg?raw=true}
 {2NE1}{2011-07-24}{Im The Best}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2011-07-24][Im The Best][KR].png?raw=true}
@@ -31,6 +32,14 @@
 {aespa}{2020-11-17}{Black Mamba}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2020-11-17][Black Mamba][KR].png?raw=true}
 {aespa}{2021-05-17}{Next Level}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2021-05-17][Next Level][KR].png?raw=true}
 {aespa}{2021-10-05}{Savage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2021-10-05][Savage][KR].jpg?raw=true}
+{aespa}{2022-06-01}{Illusion}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2022-06-01][Illusion][KR].jpg?raw=true}
+{aespa}{2022-07-08}{Girls}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2022-07-08][Girls][KR].jpg?raw=true}
+{aespa}{2023-03-30}{Hold On Tight}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2023-03-30][Hold On Tight][EN].jpg?raw=true}
+{aespa}{2023-05-08}{MY WORLD}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2023-05-08][MY WORLD][KR].png?raw=true}
+{aespa}{2023-08-18}{Better Things}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2023-08-18][Better Things][KR].jpg?raw=true}
+{aespa}{2023-11-10}{Drama}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2023-11-10][Drama][KR].jpg?raw=true}
+{aespa}{2024-05-13}{Supernova}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2024-05-13][Supernova][KR].jpg?raw=true}
+{aespa}{2024-05-27}{Armageddon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2024-05-27][Armageddon][KR].jpg?raw=true}
 {Agust D}{2020-05-22}{D-2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Agust D][2020-05-22][D-2][KR].jpg?raw=true}
 {AOA}{2014-01-16}{Miniskirt}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[AOA][2014-01-16][Miniskirt][KR].jpg?raw=true}
 {AOA}{2014-11-11}{Like A Cat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[AOA][2014-11-11][Like A Cat][KR].jpg?raw=true}
