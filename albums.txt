@@ -304,6 +304,11 @@
 {KDA}{2020-08-27}{The Baddest}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KDA][2020-08-27][The Baddest][KR].jpg?raw=true}
 {KDA}{2020-10-28}{All Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KDA][2020-10-28][All Out][KR].jpg?raw=true}
 {Kep1er}{2022-01-03}{FIRST IMPACT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Kep1er][2022-01-03][FIRST IMPACT][KR].jfif?raw=true}
+{LE SERRAFIM}{2022-10-17}{ANTIFRAGILE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2022-10-17][ANTIFRAGILE][KR].png?raw=true}
+{LE SERRAFIM}{2023-05-01}{UNFORGIVEN}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2023-05-01][UNFORGIVEN][KR].webp?raw=true}
+{LE SERRAFIM}{2023-06-27}{Eve, Psyche & The Bluebeards Wife}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2023-06-27][Eve, Psyche & The Bluebeards Wife][KR].jpg?raw=true}
+{LE SERRAFIM}{2023-10-27}{Perfect Night}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2023-10-27][Perfect Night][KR].jpg?raw=true}
+{LE SERRAFIM}{2024-02-19}{EASY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2024-02-19][EASY][KR].webp?raw=true}
 {Lee Jinhyuk}{2019-11-04}{S.O.L}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Lee Jinhyuk][2019-11-04][S.O.L][KR].jpg?raw=true}
 {LISA}{2021-09-10}{LALISA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LISA][2021-09-10][LALISA][KR].jpg?raw=true}
 {LOONA}{2017-05-23}{Kim Lip}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2017-05-23][Kim Lip][KR].png?raw=true}
