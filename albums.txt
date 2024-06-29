@@ -269,6 +269,15 @@
 {IU}{2021-03-25}{Lilac}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IU][2021-03-25][Lilac][KR].jpg?raw=true}
 {IVE}{2021-12-01}{ELEVEN}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2021-12-01][ELEVEN][KR].png?raw=true}
 {IVE}{2022-04-05}{Love Dive}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2022-04-05][Love Dive][KR].webp?raw=true}
+{IVE}{2022-08-22}{After LIKE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2022-08-22][After LIKE][KR].png?raw=true}
+{IVE}{2023-04-10}{Ive IVE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-04-10][Ive IVE][KR].jpg?raw=true}
+{IVE}{2023-05-27}{KITSCH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-05-27][KITSCH][KR].jpg?raw=true}
+{IVE}{2023-07-13}{I WANT (IVE x PEPSI)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-07-13][I WANT (IVE x PEPSI)][KR].webp?raw=true}
+{IVE}{2023-10-06}{Off the Record}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-10-06][Off the Record][KR].jpg?raw=true}
+{IVE}{2023-10-13}{IVE MINE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-10-13][IVE MINE][KR].png?raw=true}
+{IVE}{2024-01-19}{All Night}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-01-19][All Night][EN].jpg?raw=true}
+{IVE}{2024-04-29}{IVE SWITCH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-04-29][IVE SWITCH][KR].webp?raw=true}
+{IVE}{2024-06-28}{SUMMER FESTA (IVE x PEPSI)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-06-28][SUMMER FESTA (IVE x PEPSI)][KR].jpg?raw=true}
 {IZ ONE}{2018-10-19}{COLOR IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2018-10-19][COLOR IZ][KR].jpg?raw=true}
 {IZ ONE}{2019-04-01}{HEARTIZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2019-04-01][HEARTIZ][KR].png?raw=true}
 {IZ ONE}{2020-02-17}{BLOOMIZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-02-17][BLOOMIZ][KR].png?raw=true}
