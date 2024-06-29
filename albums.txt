@@ -31,7 +31,7 @@
 {aespa}{2020-11-17}{Black Mamba}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2020-11-17][Black Mamba][KR].png?raw=true}
 {aespa}{2021-05-17}{Next Level}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2021-05-17][Next Level][KR].png?raw=true}
 {aespa}{2021-10-05}{Savage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2021-10-05][Savage][KR].jpg?raw=true}
-{aespa}{2021-12-20}{Dreams Come True SM Station}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2021-12-20][Dreams Come True SM Station][KR].jfif?raw=true}
+{aespa}{2021-12-20}{Dreams Come True}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2021-12-20][Dreams Come True][KR].jfif?raw=true}
 {aespa}{2022-06-01}{Illusion}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2022-06-01][Illusion][KR].jpg?raw=true}
 {aespa}{2022-07-08}{Girls}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2022-07-08][Girls][KR].jpg?raw=true}
 {aespa}{2023-03-30}{Hold On Tight}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2023-03-30][Hold On Tight][EN].jpg?raw=true}
