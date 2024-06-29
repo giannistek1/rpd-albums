@@ -253,6 +253,7 @@
 {iKON}{2018-08-02}{New Kids Continue}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[iKON][2018-08-02][New Kids Continue][KR].png?raw=true}
 {iKON}{2020-02-06}{i DECIDE.}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[iKON][2020-02-06][i DECIDE.][KR].png?raw=true}
 {iKON}{2021-03-03}{Why Why Why}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[iKON][2021-03-03][Why Why Why][KR].png?raw=true}
+{ILLIT}{2024-03-27}{SUPER REAL ME}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ILLIT][2024-03-27][SUPER REAL ME][KR].png?raw=true}
 {Infinite}{2015-06-13}{Reality}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Infinite][2015-06-13][Reality][KR].jpg?raw=true}
 {Infinite}{2016-09-19}{Infinite Only}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Infinite][2016-09-19][Infinite Only][KR].jpg?raw=true}
 {Irene & Seulgi}{2020-07-06}{MONSTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Irene & Seulgi][2020-07-06][MONSTER][KR].png?raw=true}
@@ -295,6 +296,7 @@
 {Jessi}{2021-03-17}{What Type of X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2021-03-17][What Type of X][KR].jfif?raw=true}
 {Jessi}{2021-10-12}{Cold Blooded}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2021-10-12][Cold Blooded][KR].jfif?raw=true}
 {JIHYO (TWICE)}{2023-08-18}{ZONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JIHYO (TWICE)][2023-08-18][ZONE][KR].png?raw=true}
+{JISOO (BLACKPINK)}{2023-03-31}{Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JISOO (BLACKPINK)][2023-03-31][Me][KR].jpg?raw=true}
 {JUST B}{2021-06-30}{Just Burn}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JUST B][2021-06-30][Just Burn][KR].jpeg?raw=true}
 {JUST B}{2021-10-27}{Just Beat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JUST B][2021-10-27][Just Beat][KR].jfif?raw=true}
 {KAI}{2020-11-30}{KAI}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI][2020-11-30][KAI][KR].png?raw=true}
@@ -579,6 +581,9 @@
 {Twice}{2021-07-28}{Perfect World}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-07-28][Perfect World][JP].png?raw=true}
 {Twice}{2021-10-01}{The Feels}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-10-01][The Feels][KR].jpeg?raw=true}
 {Twice}{2021-11-12}{Formula of Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-11-12][Formula of Love][KR].jpg?raw=true}
+{TWICE}{2022-08-26}{Between 1&2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWICE][2022-08-26][Between 1&2][KR].png?raw=true}
+{TWICE}{2023-01-20}{Moonlight Sunrise}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[TWICE][2023-01-20][Moonlight Sunrise][EN].jpeg?raw=true}
+{TWICE}{2024-02-23}{With YOU-th}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWICE][2024-02-23][With YOU-th][KR].png?raw=true}
 {TXT}{2019-03-04}{The Dream Chapter STAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2019-03-04][The Dream Chapter STAR][KR].png?raw=true}
 {TXT}{2019-10-21}{The Dream Chapter MAGIC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2019-10-21][The Dream Chapter MAGIC][KR].png?raw=true}
 {TXT}{2020-05-18}{The Dream Chapter ETERNITY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2020-05-18][The Dream Chapter ETERNITY][KR].jpeg?raw=true}
