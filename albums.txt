@@ -303,8 +303,8 @@
 {IVE}{2024-04-29}{IVE SWITCH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-04-29][IVE SWITCH][KR].webp?raw=true}
 {IVE}{2024-06-28}{SUMMER FESTA (IVE x PEPSI)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-06-28][SUMMER FESTA (IVE x PEPSI)][KR].jpg?raw=true}
 {IZ ONE}{2018-10-19}{COLOR IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2018-10-19][COLOR IZ][KR].jpg?raw=true}
-{IZ ONE}{2019-04-01}{HEARTIZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2019-04-01][HEARTIZ][KR].png?raw=true}
-{IZ ONE}{2020-02-17}{BLOOMIZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-02-17][BLOOMIZ][KR].png?raw=true}
+{IZ ONE}{2019-04-01}{HEART IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2019-04-01][HEART IZ][KR].png?raw=true}
+{IZ ONE}{2020-02-17}{BLOOM IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-02-17][BLOOM IZ][KR].png?raw=true}
 {IZ ONE}{2020-06-15}{Oneiric Diary}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-06-15][Oneiric Diary][KR].png?raw=true}
 {IZ ONE}{2020-12-07}{One-reeler Act IV}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-12-07][One-reeler Act IV][KR].jpg?raw=true}
 {J-Hope}{2019-09-27}{Chicken Noodle Soup}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[J-Hope][2019-09-27][Chicken Noodle Soup][KR].jpg?raw=true}
