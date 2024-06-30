@@ -381,6 +381,7 @@
 {MCND}{2021-01-08}{MCND AGE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MCND][2021-01-08][MCND AGE][KR].jpeg?raw=true}
 {MCND}{2021-08-31}{THE EARTH SECRET MISSION Chapter 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MCND][2021-08-31][THE EARTH SECRET MISSION Chapter 1][KR].jpeg?raw=true}
 {MIRAE}{2021-08-25}{Splash}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MIRAE][2021-08-25][Splash][KR].jfif?raw=true}
+{MISAMO (TWICE)}{2023-07-26}{Masterpiece}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MISAMO (TWICE)][2023-07-26][Masterpiece][KR].jpg?raw=true}
 {MOMOLAND & Natti Natasha}{2022-01-14}{Yummy Yummy Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MOMOLAND & Natti Natasha][2022-01-14][Yummy Yummy Love][KR].jfif?raw=true}
 {MOMOLAND}{2016-11-10}{Welcome to MOMOLAND}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MOMOLAND][2016-11-10][Welcome to MOMOLAND][KR].png?raw=true}
 {MOMOLAND}{2017-04-26}{Wonderful Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MOMOLAND][2017-04-26][Wonderful Love][KR].png?raw=true}
@@ -485,6 +486,7 @@
 {OnlyOneOf}{2024-01-10}{Things I Cant Say LOve}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OnlyOneOf][2024-01-10][Things I Cant Say LOve][KR].jpg?raw=true}
 {Orange Caramel}{2014-03-12}{Catallena}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Orange Caramel][2014-03-12][Catallena][KR].jpg?raw=true}
 {P1Harmony}{2022-01-03}{Disharmony Find Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[P1Harmony][2022-01-03][Disharmony Find Out][KR].webp?raw=true}
+{P1Harmony}{2024-02-05}{Killin It}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[P1Harmony][2024-02-05][Killin It][KR].png?raw=true}
 {PENTAGON}{2018-04-02}{Positive}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[PENTAGON][2018-04-02][Positive][KR].png?raw=true}
 {PENTAGON}{2018-09-10}{Thumbs Up!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[PENTAGON][2018-09-10][Thumbs Up!][KR].png?raw=true}
 {PENTAGON}{2019-03-27}{Genie us}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[PENTAGON][2019-03-27][Genie us][KR].png?raw=true}
@@ -520,6 +522,10 @@
 {Red Velvet}{2019-08-20}{The ReVe Festival Day 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-08-20][The ReVe Festival Day 2][KR].png?raw=true}
 {Red Velvet}{2019-12-23}{The ReVe Festival Finale}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-12-23][The ReVe Festival Finale][KR].png?raw=true}
 {Red Velvet}{2021-08-16}{Queendom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2021-08-16][Queendom][KR].jfif?raw=true}
+{Red Velvet}{2022-03-21}{The ReVe Festival Finale 2022 – Feel My Rhythm}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2022-03-21][The ReVe Festival Finale 2022 – Feel My Rhythm][KR].jpg?raw=true}
+{Red Velvet}{2022-11-28}{The Reve festival 2022 – Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2022-11-28][The Reve festival 2022 – Birthday][KR].png?raw=true}
+{Red Velvet}{2023-11-13}{Chill Kill}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2023-11-13][Chill Kill][KR].png?raw=true}
+{Red Velvet}{2024-06-24}{Cosmic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2024-06-24][Cosmic][KR].webp?raw=true}
 {RIIZE}{2023-09-04}{Get A Guitar}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2023-09-04][Get A Guitar][KR].png?raw=true}
 {RIIZE}{2023-10-27}{Talk Saxy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2023-10-27][Talk Saxy][KR].jpg?raw=true}
 {RIIZE}{2024-01-05}{Love 119}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-01-05][Love 119][KR].webp?raw=true}
@@ -530,6 +536,7 @@
 {SECRET NUMBER}{2020-05-19}{Who Dis}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-05-19][Who Dis][KR].jpeg?raw=true}
 {SECRET NUMBER}{2020-11-04}{Got That Boom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-11-04][Got That Boom][KR].jpeg?raw=true}
 {SECRET NUMBER}{2021-10-07}{Fire Saturday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2021-10-07][Fire Saturday][KR].jpeg?raw=true}
+{SEO SOOJIN}{2024-05-23}{RIZZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SEO SOOJIN][2024-05-23][RIZZ][KR].jpg?raw=true}
 {Seventeen}{2015-05-29}{17 Carat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2015-05-29][17 Carat][KR].png?raw=true}
 {Seventeen}{2015-09-10}{Boys Be}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2015-09-10][Boys Be][KR].png?raw=true}
 {Seventeen}{2016-04-25}{Love & Letter}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2016-04-25][Love & Letter][KR].png?raw=true}
@@ -544,6 +551,7 @@
 {Seventeen}{2020-10-19}{Semicolon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2020-10-19][Semicolon][KR].jpg?raw=true}
 {Seventeen}{2021-06-18}{Your Choice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2021-06-18][Your Choice][KR].jpg?raw=true}
 {Seventeen}{2021-10-22}{Attacca}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2021-10-22][Attacca][KR].jpg?raw=true}
+{Seventeen}{2024-04-29}{17 IS RIGHT HERE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2024-04-29][17 IS RIGHT HERE][KR].jpg?raw=true}
 {SF9}{2017-10-12}{Knights of the sun}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SF9][2017-10-12][Knights of the sun][KR].jpg?raw=true}
 {SF9}{2018-02-26}{MAMMA MIA!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SF9][2018-02-26][MAMMA MIA!][KR].jpg?raw=true}
 {SF9}{2018-07-31}{Sensuons}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SF9][2018-07-31][Sensuons][KR].jpg?raw=true}
@@ -672,9 +680,18 @@
 {TXT}{2020-10-26}{Minisode 1 Blue Hour}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2020-10-26][Minisode 1 Blue Hour][KR].png?raw=true}
 {TXT}{2021-05-31}{The Chaos Chapter FREEZE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2021-05-31][The Chaos Chapter FREEZE][KR].jpg?raw=true}
 {TXT}{2021-08-17}{The Chaos Chapter FIGHT or ESCAPE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2021-08-17][The Chaos Chapter FIGHT or ESCAPE][KR].jpg?raw=true}
+{TXT}{2022-05-09}{Minisode 2 Thursdays Child}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2022-05-09][Minisode 2 Thursdays Child][KR].jpg?raw=true}
+{TXT}{2023-01-27}{The Name Chapter TEMPTATION}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2023-01-27][The Name Chapter TEMPTATION][KR].png?raw=true}
+{TXT}{2023-07-07}{Do It Like That with Jonas Brother}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2023-07-07][Do It Like That with Jonas Brother][EN].png?raw=true}
+{TXT}{2023-09-15}{Back for More with Anitta}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2023-09-15][Back for More with Anitta][EN].jpg?raw=true}
+{TXT}{2023-10-13}{The Name Chapter FREEFALL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2023-10-13][The Name Chapter FREEFALL][KR].png?raw=true}
+{TXT}{2024-04-01}{minisode 3 TOMORROW}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2024-04-01][minisode 3 TOMORROW][KR].jpg?raw=true}
 {VICTON}{2019-11-04}{Nostalgia}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VICTON][2019-11-04][Nostalgia][KR].png?raw=true}
 {VICTON}{2021-01-11}{Voice The Future is Now}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VICTON][2021-01-11][Voice The Future is Now][KR].png?raw=true}
 {VIVIZ}{2022-02-09}{Beam of Prism}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-02-09][Beam of Prism][KR].jpg?raw=true}
+{VIVIZ}{2022-06-07}{Summer Vibe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-06-07][Summer Vibe][KR].png?raw=true}
+{VIVIZ}{2023-01-31}{VarioUS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2023-01-31][VarioUS][KR].png?raw=true}
+{VIVIZ}{2023-11-02}{VERSUS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2023-11-02][VERSUS][KR].jpg?raw=true}
 {VIXX}{2012-05-24}{SUPER HERO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIXX][2012-05-24][SUPER HERO][KR].jpg?raw=true}
 {VIXX}{2012-08-14}{Rock Ur Body}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIXX][2012-08-14][Rock Ur Body][KR].jpg?raw=true}
 {VIXX}{2013-01-17}{On & On}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIXX][2013-01-17][On & On][KR].jpg?raw=true}
