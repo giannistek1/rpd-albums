@@ -605,6 +605,10 @@
 {TREASURE}{2020-11-06}{The First Step Chapter Three}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TREASURE][2020-11-06][The First Step Chapter Three][KR].png?raw=true}
 {TREASURE}{2021-01-11}{The First Step Treasure Effect}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TREASURE][2021-01-11][The First Step Treasure Effect][KR].png?raw=true}
 {TREASURE}{2022-02-15}{The Second Step Chapter One}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TREASURE][2022-02-15][The Second Step Chapter One][KR].jfif?raw=true}
+{TREASURE}{2022-10-04}{THE SECOND STEP CHAPTER TWO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TREASURE][2022-10-04][THE SECOND STEP CHAPTER TWO][KR].jpg?raw=true}
+{TREASURE}{2023-06-29}{MOVE (T5)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TREASURE][2023-06-29][MOVE (T5)][KR].jpg?raw=true}
+{TREASURE}{2023-07-28}{REBOOT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TREASURE][2023-07-28][REBOOT][KR].jpg?raw=true}
+{TREASURE}{2024-05-28}{KING KONG}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TREASURE][2024-05-28][KING KONG][KR].jpg?raw=true}
 {Triple H}{2017-05-01}{199X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Triple H][2017-05-01][199X][KR].png?raw=true}
 {Triple H}{2018-07-18}{REtro Futurism}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Triple H][2018-07-18][REtro Futurism][KR].png?raw=true}
 {Trouble Maker}{2011-12-01}{Trouble Maker}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Trouble Maker][2011-12-01][Trouble Maker][KR].jfif?raw=true}
