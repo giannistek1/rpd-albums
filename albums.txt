@@ -497,6 +497,12 @@
 {Red Velvet}{2019-08-20}{The ReVe Festival Day 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-08-20][The ReVe Festival Day 2][KR].png?raw=true}
 {Red Velvet}{2019-12-23}{The ReVe Festival Finale}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-12-23][The ReVe Festival Finale][KR].png?raw=true}
 {Red Velvet}{2021-08-16}{Queendom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2021-08-16][Queendom][KR].jfif?raw=true}
+{RIIZE}{2023-09-04}{Get A Guitar}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2023-09-04][Get A Guitar][KR].png?raw=true}
+{RIIZE}{2023-10-27}{Talk Saxy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2023-10-27][Talk Saxy][KR].jpg?raw=true}
+{RIIZE}{2024-01-05}{Love 119}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-01-05][Love 119][KR].webp?raw=true}
+{RIIZE}{2024-04-03}{Siren}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-04-03][Siren][KR].jpg?raw=true}
+{RIIZE}{2024-04-18}{Impossible}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-04-18][Impossible][KR].htm?raw=true}
+{RIIZE}{2024-06-17}{RIIZING}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-06-17][RIIZING][KR].jpg?raw=true}
 {Rosé}{2021-03-12}{-R-}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Rosé][2021-03-12][-R-][KR].jpg?raw=true}
 {SECRET NUMBER}{2020-05-19}{Who Dis}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-05-19][Who Dis][KR].jpeg?raw=true}
 {SECRET NUMBER}{2020-11-04}{Got That Boom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-11-04][Got That Boom][KR].jpeg?raw=true}
