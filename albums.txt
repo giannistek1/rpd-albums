@@ -615,11 +615,11 @@
 {SuperM}{2020-09-25}{Super One}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SuperM][2020-09-25][Super One][KR].png?raw=true}
 {T-ARA}{2011-06-29}{John Travolta Wannabe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[T-ARA][2011-06-29][John Travolta Wannabe][KR].png?raw=true}
 {T-ARA}{2014-09-11}{And & End}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[T-ARA][2014-09-11][And & End][KR].jpg?raw=true}
-{Taemin (SHINee)}{2017-10-16}{Move}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taemin (SHINee)][2017-10-16][Move][KR].png?raw=true}
-{Taemin (SHINee)}{2019-02-11}{WANT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taemin (SHINee)][2019-02-11][WANT][KR].png?raw=true}
-{Taemin (SHINee)}{2020-09-07}{Never Gonna Dance Again Act 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taemin (SHINee)][2020-09-07][Never Gonna Dance Again Act 1][KR].png?raw=true}
-{Taemin (SHINee)}{2020-11-09}{Never Gonna Dance Again Act 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taemin (SHINee)][2020-11-09][Never Gonna Dance Again Act 2][KR].png?raw=true}
-{Taemin (SHINee)}{2021-05-18}{Advice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taemin (SHINee)][2021-05-18][Advice][KR].jfif?raw=true}
+{TAEMIN  (SHINee)}{2020-11-09}{Never Gonna Dance Again Act 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN  (SHINee)][2020-11-09][Never Gonna Dance Again Act 2][KR].png?raw=true}
+{TAEMIN (SHINee)}{2017-10-16}{Move}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2017-10-16][Move][KR].png?raw=true}
+{TAEMIN (SHINee)}{2019-02-11}{WANT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2019-02-11][WANT][KR].png?raw=true}
+{TAEMIN (SHINee)}{2020-09-07}{Never Gonna Dance Again Act 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2020-09-07][Never Gonna Dance Again Act 1][KR].png?raw=true}
+{TAEMIN (SHINee)}{2021-05-18}{Advice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2021-05-18][Advice][KR].jfif?raw=true}
 {TAEMIN (SHINee)}{2023-10-30}{Guilty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2023-10-30][Guilty][KR].jpg?raw=true}
 {Taeyeon}{2021-07-06}{Weekend}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon][2021-07-06][Weekend][KR].jfif?raw=true}
 {Taeyeon}{2022-02-14}{INVU}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon][2022-02-14][INVU][KR].jfif?raw=true}
