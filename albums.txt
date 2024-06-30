@@ -302,6 +302,9 @@
 {Jessi}{2021-10-12}{Cold Blooded}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2021-10-12][Cold Blooded][KR].jfif?raw=true}
 {JIHYO (TWICE)}{2023-08-18}{ZONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JIHYO (TWICE)][2023-08-18][ZONE][KR].png?raw=true}
 {JISOO (BLACKPINK)}{2023-03-31}{Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JISOO (BLACKPINK)][2023-03-31][Me][KR].jpg?raw=true}
+{Jungkook (BTS)}{2023-07-14}{Seven}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-07-14][Seven][EN].jpeg?raw=true}
+{Jungkook (BTS)}{2023-09-29}{3D}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-09-29][3D][EN].png?raw=true}
+{Jungkook (BTS)}{2023-11-03}{Golden}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-11-03][Golden][EN].png?raw=true}
 {JUST B}{2021-06-30}{Just Burn}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JUST B][2021-06-30][Just Burn][KR].jpeg?raw=true}
 {JUST B}{2021-10-27}{Just Beat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JUST B][2021-10-27][Just Beat][KR].jfif?raw=true}
 {KAI}{2020-11-30}{KAI}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI][2020-11-30][KAI][KR].png?raw=true}
@@ -435,6 +438,10 @@
 {ONEUS}{2021-05-11}{Binary Code}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2021-05-11][Binary Code][KR].png?raw=true}
 {ONEUS}{2021-08-05}{ONEUS Theatre}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2021-08-05][ONEUS Theatre][KR].jfif?raw=true}
 {ONEUS}{2021-11-09}{Blood Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2021-11-09][Blood Moon][KR].jpg?raw=true}
+{ONEUS}{2022-05-17}{TRICKSTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2022-05-17][TRICKSTER][KR].jpg?raw=true}
+{ONEUS}{2022-09-05}{MALUS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2022-09-05][MALUS][KR].png?raw=true}
+{ONEUS}{2023-05-08}{PYGMALION}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2023-05-08][PYGMALION][KR].jpg?raw=true}
+{ONEUS}{2023-09-26}{La Dolce Vita}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2023-09-26][La Dolce Vita][KR].webp?raw=true}
 {OnlyOneOf}{2020-01-30}{unknown art pop 2.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OnlyOneOf][2020-01-30][unknown art pop 2.1][KR].png?raw=true}
 {OnlyOneOf}{2021-04-08}{Instinct Part. 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OnlyOneOf][2021-04-08][Instinct Part. 1][KR].jfif?raw=true}
 {Orange Caramel}{2014-03-12}{Catallena}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Orange Caramel][2014-03-12][Catallena][KR].jpg?raw=true}
@@ -659,6 +666,14 @@
 {WJSN}{2019-06-04}{For The Summer}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WJSN][2019-06-04][For The Summer][KR].png?raw=true}
 {WJSN}{2021-03-31}{UNNATURAL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WJSN][2021-03-31][UNNATURAL][KR].png?raw=true}
 {X1}{2019-08-27}{Quantum Leap}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[X1][2019-08-27][Quantum Leap][KR].jpeg?raw=true}
+{XG}{2022-03-18}{Tippy Toes}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2022-03-18][Tippy Toes][KR].jpg?raw=true}
+{XG}{2022-06-29}{MASCARA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2022-06-29][MASCARA][KR].jpg?raw=true}
+{XG}{2023-01-25}{SHOOTING STAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-01-25][SHOOTING STAR][KR].jpg?raw=true}
+{XG}{2023-06-30}{GRL GVNG}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-06-30][GRL GVNG][KR].jpg?raw=true}
+{XG}{2023-08-04}{TGIF}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-08-04][TGIF][KR].jpg?raw=true}
+{XG}{2023-08-23}{NEW DANCE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-08-23][NEW DANCE][KR].jpg?raw=true}
+{XG}{2023-09-27}{NEW DNA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-09-27][NEW DNA][KR].jpg?raw=true}
+{XG}{2024-05-21}{Woke Up}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2024-05-21][Woke Up][KR].jpg?raw=true}
 {Yena}{2022-01-17}{Smiley}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yena][2022-01-17][Smiley][KR].jfif?raw=true}
 {Yuju}{2022-01-18}{REC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yuju][2022-01-18][REC][KR].jpg?raw=true}
 {ZEROBASEONE}{2023-07-10}{YOUTH IN THE SHADE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2023-07-10][YOUTH IN THE SHADE][KR].jpg?raw=true}
