@@ -28,6 +28,8 @@
 {A.C.E}{2020-09-02}{HZJM The Butterfly Phantasy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[A.C.E][2020-09-02][HZJM The Butterfly Phantasy][KR].jpg?raw=true}
 {A.C.E}{2021-06-23}{Siren Dawn}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[A.C.E][2021-06-23][Siren Dawn][KR].jfif?raw=true}
 {A.C.E}{2021-09-02}{Changer Dear Eris}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[A.C.E][2021-09-02][Changer Dear Eris][KR].jpg?raw=true}
+{ACE}{2024-02-22}{My Girl My Choice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ACE][2024-02-22][My Girl My Choice][KR].webp?raw=true}
+{ACE}{2024-05-31}{Supernatural}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ACE][2024-05-31][Supernatural][KR].jpg?raw=true}
 {aespa}{2020-11-17}{Black Mamba}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2020-11-17][Black Mamba][KR].png?raw=true}
 {aespa}{2021-05-17}{Next Level}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2021-05-17][Next Level][KR].png?raw=true}
 {aespa}{2021-10-05}{Savage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2021-10-05][Savage][KR].jpg?raw=true}
@@ -101,7 +103,12 @@
 {Blackpink}{2020-06-16}{How You Like That}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2020-06-16][How You Like That][KR].png?raw=true}
 {Blackpink}{2020-08-28}{Ice Cream (with Selena Gomez)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2020-08-28][Ice Cream (with Selena Gomez)][KR].png?raw=true}
 {Blackpink}{2020-10-02}{The Album}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2020-10-02][The Album][KR].png?raw=true}
+{BLACKPINK}{2022-08-19}{Pink Venom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BLACKPINK][2022-08-19][Pink Venom][KR].jpg?raw=true}
+{BLACKPINK}{2022-09-16}{Born Pink}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BLACKPINK][2022-09-16][Born Pink][KR].jpeg?raw=true}
 {Block B}{2017-11-07}{Montage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Block B][2017-11-07][Montage][KR].png?raw=true}
+{BOYNEXTDOOR}{2023-05-30}{WHO!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2023-05-30][WHO!][KR].jpg?raw=true}
+{BOYNEXTDOOR}{2023-09-04}{WHY..}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2023-09-04][WHY..][KR].jpg?raw=true}
+{BOYNEXTDOOR}{2024-04-15}{HOW}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2024-04-15][HOW][KR].jpg?raw=true}
 {Brave Girls}{2017-03-07}{Rollin}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Brave Girls][2017-03-07][Rollin][KR].jpeg?raw=true}
 {Brown Eyed Girls}{2009-07-21}{Sound G}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Brown Eyed Girls][2009-07-21][Sound G][KR].png?raw=true}
 {BTS}{2013-06-12}{2 Cool 4 Skool}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2013-06-12][2 Cool 4 Skool][KR].jpg?raw=true}
@@ -181,6 +188,8 @@
 {EVERGLOW}{2020-09-21}{-77.82X-78.29}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2020-09-21][-77.82X-78.29][KR].png?raw=true}
 {EVERGLOW}{2021-05-25}{Last Melody}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2021-05-25][Last Melody][KR].jpeg?raw=true}
 {EVERGLOW}{2021-12-01}{RETURN OF THE GIRL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2021-12-01][RETURN OF THE GIRL][KR].jpg?raw=true}
+{EVERGLOW}{2023-08-18}{ALL MY GIRLS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2023-08-18][ALL MY GIRLS][KR].png?raw=true}
+{EVERGLOW}{2024-06-10}{ZOMBIE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2024-06-10][ZOMBIE][KR].jpg?raw=true}
 {EXID}{2014-08-26}{Up & Down}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EXID][2014-08-26][Up & Down][KR].jpg?raw=true}
 {EXID}{2015-04-12}{Ah Yeah}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EXID][2015-04-12][Ah Yeah][KR].png?raw=true}
 {EXID}{2017-11-07}{Full Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EXID][2017-11-07][Full Moon][KR].jpg?raw=true}
