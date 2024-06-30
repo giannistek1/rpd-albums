@@ -170,6 +170,11 @@
 {ENHYPEN}{2021-08-11}{Billy Poco}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2021-08-11][Billy Poco][KR].png?raw=true}
 {ENHYPEN}{2021-10-12}{Dimension Dilemma}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2021-10-12][Dimension Dilemma][KR].jpeg?raw=true}
 {ENHYPEN}{2022-01-10}{Dimension Answer}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2022-01-10][Dimension Answer][KR].png?raw=true}
+{ENHYPEN}{2022-07-04}{Manifesto Day 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2022-07-04][Manifesto Day 1][KR].jpg?raw=true}
+{ENHYPEN}{2023-05-22}{Dark Blood}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2023-05-22][Dark Blood][KR].jpg?raw=true}
+{ENHYPEN}{2023-07-30}{Criminal Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2023-07-30][Criminal Love][KR].webp?raw=true}
+{ENHYPEN}{2023-11-17}{ORANGE BLOOD}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2023-11-17][ORANGE BLOOD][KR].jpg?raw=true}
+{ENHYPEN}{2024-05-13}{MEMORABILIA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2024-05-13][MEMORABILIA][KR].jpg?raw=true}
 {EVERGLOW}{2019-03-19}{Arrival of Everglow}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2019-03-19][Arrival of Everglow][KR].jpeg?raw=true}
 {EVERGLOW}{2019-08-19}{Hush}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2019-08-19][Hush][KR].jpg?raw=true}
 {EVERGLOW}{2020-02-03}{Reminiscence}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2020-02-03][Reminiscence][KR].png?raw=true}
