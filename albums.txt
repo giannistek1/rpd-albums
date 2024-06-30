@@ -566,6 +566,11 @@
 {Stray Kids}{2021-08-23}{NOEASY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2021-08-23][NOEASY][KR].jpeg?raw=true}
 {Stray Kids}{2021-11-29}{Christmas EveL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2021-11-29][Christmas EveL][KR].png?raw=true}
 {STRAY KIDS}{2022-03-19}{ODDINARY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STRAY KIDS][2022-03-19][ODDINARY][KR].jpg?raw=true}
+{Stray Kids}{2022-10-07}{Maxident}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2022-10-07][Maxident][KR].jpg?raw=true}
+{Stray Kids}{2023-06-02}{5 STAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2023-06-02][5 STAR][KR].jpg?raw=true}
+{Stray Kids}{2023-11-10}{ROCK-STAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2023-11-10][ROCK-STAR][KR].jpg?raw=true}
+{Stray Kids}{2024-05-10}{Lose My Breath}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2024-05-10][Lose My Breath][KR].jpg?raw=true}
+{Stray Kids}{2024-07-19}{ATE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2024-07-19][ATE][KR].webp?raw=true}
 {SUNMI}{2013-08-26}{24 Hours}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI][2013-08-26][24 Hours][KR].png?raw=true}
 {SUNMI}{2014-02-17}{Full Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI][2014-02-17][Full Moon][KR].jpg?raw=true}
 {SUNMI}{2017-08-22}{SUNMI SPECIAL EDITION GASHINA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI][2017-08-22][SUNMI SPECIAL EDITION GASHINA][KR].png?raw=true}
