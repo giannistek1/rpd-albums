@@ -84,6 +84,7 @@
 {ATEEZ}{2024-03-31}{GOLDEN HOUR Part.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ATEEZ][2024-03-31][GOLDEN HOUR Part.1][KR].jpg?raw=true}
 {B.A.P}{2013-02-12}{One Shot}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[B.A.P][2013-02-12][One Shot][KR].jpg?raw=true}
 {B.A.P}{2017-03-07}{Rose}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[B.A.P][2017-03-07][Rose][KR].png?raw=true}
+{BADVILLAIN}{2024-06-03}{OVERSTEP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BADVILLAIN][2024-06-03][OVERSTEP][KR].jpg?raw=true}
 {Baekhyun}{2020-05-25}{Delight}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Baekhyun][2020-05-25][Delight][KR].jpeg?raw=true}
 {BEAST}{2011-05-17}{Fiction and Fact}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2011-05-17][Fiction and Fact][KR].jfif?raw=true}
 {BIGBANG}{2012-02-29}{Alive (Kor. Version)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BIGBANG][2012-02-29][Alive (Kor. Version)][KR].jpg?raw=true}
@@ -407,7 +408,20 @@
 {NCT U}{2020-11-23}{NCT Resonance Pt. 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT U][2020-11-23][NCT Resonance Pt. 2][KR].jpg?raw=true}
 {NCT U}{2021-12-14}{Universe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT U][2021-12-14][Universe][KR].jpg?raw=true}
 {NCT x aespa}{2021-12-27}{2021 Winter SMTOWN SMCU EXPRESS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT x aespa][2021-12-27][2021 Winter SMTOWN SMCU EXPRESS][KR].jfif?raw=true}
+{NewJeans}{2022-08-01}{New Jeans}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2022-08-01][New Jeans][KR].jpg?raw=true}
+{NewJeans}{2022-12-19}{Ditto}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2022-12-19][Ditto][KR].png?raw=true}
+{NewJeans}{2023-01-02}{OMG}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2023-01-02][OMG][KR].jpg?raw=true}
+{NewJeans}{2023-07-07}{NewJeans Super Shy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2023-07-07][NewJeans Super Shy][KR].jpg?raw=true}
+{NewJeans}{2023-07-21}{Get Up}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2023-07-21][Get Up][KR].png?raw=true}
+{NewJeans}{2024-05-24}{How Sweet}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2024-05-24][How Sweet][KR].jpg?raw=true}
 {NMIXX}{2022-02-22}{Ad Mare}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2022-02-22][Ad Mare][KR].webp?raw=true}
+{NMIXX}{2022-09-19}{ENTWURF}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2022-09-19][ENTWURF][KR].png?raw=true}
+{NMIXX}{2023-03-13}{Young, Dumb, Stupid}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-03-13][Young, Dumb, Stupid][KR].jpg?raw=true}
+{NMIXX}{2023-03-20}{expergo}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-03-20][expergo][KR].png?raw=true}
+{NMIXX}{2023-06-03}{Roller Coaster}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-06-03][Roller Coaster][KR].png?raw=true}
+{NMIXX}{2023-07-11}{A Midsummer NMIXXs Dream}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-07-11][A Midsummer NMIXXs Dream][KR].png?raw=true}
+{NMIXX}{2023-12-04}{Soñar (Breaker)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-12-04][Soñar (Breaker)][KR].jpg?raw=true}
+{NMIXX}{2024-01-15}{Fe3O4 BREAK}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2024-01-15][Fe3O4 BREAK][KR].webp?raw=true}
 {OH MY GIRL}{2019-05-08}{The Fifth Season}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OH MY GIRL][2019-05-08][The Fifth Season][KR].png?raw=true}
 {OH MY GIRL}{2020-04-27}{Nonstop}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OH MY GIRL][2020-04-27][Nonstop][KR].png?raw=true}
 {OH MY GIRL}{2021-05-10}{Dear OHMYGIRL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OH MY GIRL][2021-05-10][Dear OHMYGIRL][KR].jpg?raw=true}
@@ -495,6 +509,8 @@
 {SHINee}{2021-02-22}{Dont Call Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SHINee][2021-02-22][Dont Call Me][KR].jpeg?raw=true}
 {SHINee}{2021-04-12}{Atlantis}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SHINee][2021-04-12][Atlantis][KR].jpeg?raw=true}
 {SISTAR}{2014-07-21}{Touch N Move}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SISTAR][2014-07-21][Touch N Move][KR].png?raw=true}
+{Solar (MAMAMOO)}{2020-04-23}{Spit It Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (MAMAMOO)][2020-04-23][Spit It Out][KR].webp?raw=true}
+{Solar (MAMAMOO)}{2024-04-30}{COLOURS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (MAMAMOO)][2024-04-30][COLOURS][KR].jpg?raw=true}
 {SOMI}{2019-06-13}{Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2019-06-13][Birthday][KR].jpg?raw=true}
 {SOMI}{2020-07-22}{What You Waiting For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2020-07-22][What You Waiting For][KR].jpg?raw=true}
 {SOMI}{2021-08-02}{Dumb Dumb}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2021-08-02][Dumb Dumb][KR].jpg?raw=true}
@@ -539,6 +555,7 @@
 {Taemin (SHINee)}{2020-09-07}{Never Gonna Dance Again Act 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taemin (SHINee)][2020-09-07][Never Gonna Dance Again Act 1][KR].png?raw=true}
 {Taemin (SHINee)}{2020-11-09}{Never Gonna Dance Again Act 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taemin (SHINee)][2020-11-09][Never Gonna Dance Again Act 2][KR].png?raw=true}
 {Taemin (SHINee)}{2021-05-18}{Advice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taemin (SHINee)][2021-05-18][Advice][KR].jfif?raw=true}
+{TAEMIN (SHINee)}{2023-10-30}{Guilty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2023-10-30][Guilty][KR].jpg?raw=true}
 {Taeyeon}{2021-07-06}{Weekend}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon][2021-07-06][Weekend][KR].jfif?raw=true}
 {Taeyeon}{2022-02-14}{INVU}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon][2022-02-14][INVU][KR].jfif?raw=true}
 {Teen Top}{2013-02-25}{No.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-02-25][No.1][KR].jfif?raw=true}
@@ -644,4 +661,8 @@
 {X1}{2019-08-27}{Quantum Leap}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[X1][2019-08-27][Quantum Leap][KR].jpeg?raw=true}
 {Yena}{2022-01-17}{Smiley}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yena][2022-01-17][Smiley][KR].jfif?raw=true}
 {Yuju}{2022-01-18}{REC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yuju][2022-01-18][REC][KR].jpg?raw=true}
+{ZEROBASEONE}{2023-07-10}{YOUTH IN THE SHADE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2023-07-10][YOUTH IN THE SHADE][KR].jpg?raw=true}
+{ZEROBASEONE}{2023-11-06}{MELTING POINT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2023-11-06][MELTING POINT][KR].jpg?raw=true}
+{ZEROBASEONE}{2024-04-24}{SWEAT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2024-04-24][SWEAT][KR].jpg?raw=true}
+{ZEROBASEONE}{2024-05-13}{You had me at HELLO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2024-05-13][You had me at HELLO][KR].png?raw=true}
 {ZICO}{2020-01-13}{Any song}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZICO][2020-01-13][Any song][KR].jfif?raw=true}
