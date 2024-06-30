@@ -623,7 +623,8 @@
 {TAEMIN (SHINee)}{2023-10-30}{Guilty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2023-10-30][Guilty][KR].jpg?raw=true}
 {Taeyeon}{2021-07-06}{Weekend}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon][2021-07-06][Weekend][KR].jfif?raw=true}
 {Taeyeon}{2022-02-14}{INVU}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon][2022-02-14][INVU][KR].jfif?raw=true}
-{Teen Top}{2013-02-25}{No.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-02-25][No.1][KR].jfif?raw=true}
+{TAEYONG (NCT 127)}{2023-06-05}{SHALALA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEYONG (NCT 127)][2023-06-05][SHALALA][KR].jpg?raw=true}
+{Teen Top}{2013-02-25}{No. 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-02-25][No. 1][KR].jfif?raw=true}
 {Teen Top}{2013-10-23}{Addition}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-10-23][Addition][KR].jfif?raw=true}
 {Ten}{2021-08-10}{Paint Me Naked – SM STATION}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Ten][2021-08-10][Paint Me Naked – SM STATION][KR].jpg?raw=true}
 {The Boyz}{2017-12-06}{The First}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2017-12-06][The First][KR].png?raw=true}
@@ -746,6 +747,9 @@
 {XG}{2023-09-27}{NEW DNA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-09-27][NEW DNA][KR].jpg?raw=true}
 {XG}{2024-05-21}{Woke Up}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2024-05-21][Woke Up][KR].jpg?raw=true}
 {Yena}{2022-01-17}{Smiley}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yena][2022-01-17][Smiley][KR].jfif?raw=true}
+{YOUNG POSSE}{2023-10-18}{MACARONI CHEESE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2023-10-18][MACARONI CHEESE][KR].png?raw=true}
+{YOUNG POSSE}{2024-02-04}{YOUNG POSSE UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2024-02-04][YOUNG POSSE UP][KR].png?raw=true}
+{YOUNG POSSE}{2024-03-20}{XXL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2024-03-20][XXL][KR].jpg?raw=true}
 {Yuju}{2022-01-18}{REC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yuju][2022-01-18][REC][KR].jpg?raw=true}
 {ZEROBASEONE}{2023-07-10}{YOUTH IN THE SHADE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2023-07-10][YOUTH IN THE SHADE][KR].jpg?raw=true}
 {ZEROBASEONE}{2023-11-06}{MELTING POINT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2023-11-06][MELTING POINT][KR].jpg?raw=true}
