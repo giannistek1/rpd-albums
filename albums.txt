@@ -547,7 +547,7 @@
 {Seventeen}{2019-01-21}{You Made My Dawn}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2019-01-21][You Made My Dawn][KR].png?raw=true}
 {Seventeen}{2019-08-05}{HIT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2019-08-05][HIT][KR].jpg?raw=true}
 {Seventeen}{2019-09-16}{An Ode}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2019-09-16][An Ode][KR].png?raw=true}
-{Seventeen}{2020-06-22}{Henggaræ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2020-06-22][Henggaræ][KR].jpg?raw=true}
+{Seventeen}{2020-06-22}{Henggarae}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2020-06-22][Henggarae][KR].jpg?raw=true}
 {Seventeen}{2020-10-19}{Semicolon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2020-10-19][Semicolon][KR].jpg?raw=true}
 {Seventeen}{2021-06-18}{Your Choice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2021-06-18][Your Choice][KR].jpg?raw=true}
 {Seventeen}{2021-10-22}{Attacca}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Seventeen][2021-10-22][Attacca][KR].jpg?raw=true}
