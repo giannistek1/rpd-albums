@@ -523,7 +523,7 @@
 {Red Velvet}{2019-12-23}{The ReVe Festival Finale}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-12-23][The ReVe Festival Finale][KR].png?raw=true}
 {Red Velvet}{2021-08-16}{Queendom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2021-08-16][Queendom][KR].jfif?raw=true}
 {Red Velvet}{2022-03-21}{The ReVe Festival Finale 2022 – Feel My Rhythm}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2022-03-21][The ReVe Festival Finale 2022 – Feel My Rhythm][KR].jpg?raw=true}
-{Red Velvet}{2022-11-28}{The Reve festival 2022 – Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2022-11-28][The Reve festival 2022 – Birthday][KR].png?raw=true}
+{Red Velvet}{2022-11-28}{The Reve festival 2022 Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2022-11-28][The Reve festival 2022 Birthday][KR].png?raw=true}
 {Red Velvet}{2023-11-13}{Chill Kill}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2023-11-13][Chill Kill][KR].png?raw=true}
 {Red Velvet}{2024-06-24}{Cosmic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2024-06-24][Cosmic][KR].webp?raw=true}
 {RIIZE}{2023-09-04}{Get A Guitar}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2023-09-04][Get A Guitar][KR].png?raw=true}
