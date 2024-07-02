@@ -626,7 +626,8 @@
 {TAEYONG (NCT 127)}{2023-06-05}{SHALALA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEYONG (NCT 127)][2023-06-05][SHALALA][KR].jpg?raw=true}
 {Teen Top}{2013-02-25}{No. 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-02-25][No. 1][KR].jfif?raw=true}
 {Teen Top}{2013-10-23}{Addition}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-10-23][Addition][KR].jfif?raw=true}
-{Ten}{2021-08-10}{Paint Me Naked – SM STATION}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Ten][2021-08-10][Paint Me Naked – SM STATION][KR].jpg?raw=true}
+{TEN & YANGYANG (WayV)}{2021-08-17}{Low Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TEN & YANGYANG (WayV)][2021-08-17][Low Low][KR].jpeg?raw=true}
+{TEN (NCT 127)}{2021-08-10}{Paint Me Naked}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TEN (NCT 127)][2021-08-10][Paint Me Naked][KR].jpg?raw=true}
 {The Boyz}{2017-12-06}{The First}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2017-12-06][The First][KR].png?raw=true}
 {The Boyz}{2018-04-03}{The Start}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2018-04-03][The Start][KR].png?raw=true}
 {The Boyz}{2018-09-05}{The Sphere}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2018-09-05][The Sphere][KR].png?raw=true}
@@ -708,7 +709,6 @@
 {Wanna One}{2017-11-13}{Nothing Without You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Wanna One][2017-11-13][Nothing Without You][KR].jpeg?raw=true}
 {Wanna One}{2018-03-19}{I Promise You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Wanna One][2018-03-19][I Promise You][KR].jpeg?raw=true}
 {Wanna One}{2018-06-04}{Undivided}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Wanna One][2018-06-04][Undivided][KR].jpeg?raw=true}
-{WayV-TEN&YANGYANG}{2021-08-17}{Low Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WayV-TEN&YANGYANG][2021-08-17][Low Low][KR].jpeg?raw=true}
 {WayV}{2019-05-09}{Take Off}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WayV][2019-05-09][Take Off][KR].png?raw=true}
 {WayV}{2019-10-19}{Take Over The Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WayV][2019-10-19][Take Over The Moon][KR].png?raw=true}
 {WayV}{2019-11-05}{Love Talk (English Version)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WayV][2019-11-05][Love Talk (English Version)][KR].png?raw=true}
