@@ -208,7 +208,16 @@
 {EXO}{2018-12-13}{Love Shot}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EXO][2018-12-13][Love Shot][KR].png?raw=true}
 {EXO}{2019-11-27}{Obsession}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EXO][2019-11-27][Obsession][KR].png?raw=true}
 {EXO}{2021-06-07}{Dont Fight the Feeling}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EXO][2021-06-07][Dont Fight the Feeling][KR].png?raw=true}
+{f(x)}{2009-09-01}{LA chA TA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2009-09-01][LA chA TA][KR].webp?raw=true}
+{f(x)}{2009-10-08}{Chocolate Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2009-10-08][Chocolate Love][KR].webp?raw=true}
+{f(x)}{2009-11-04}{Chu}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2009-11-04][Chu][KR].webp?raw=true}
+{f(x)}{2010-05-04}{Nu ABO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2010-05-04][Nu ABO][KR].webp?raw=true}
+{f(x)}{2011-04-20}{Pinocchio}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2011-04-20][Pinocchio][KR].jpg?raw=true}
+{f(x)}{2011-06-14}{Hot Summer}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2011-06-14][Hot Summer][KR].webp?raw=true}
 {f(x)}{2012-06-10}{Electric Shock}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2012-06-10][Electric Shock][KR].png?raw=true}
+{f(x)}{2013-07-09}{Pink Tape}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2013-07-09][Pink Tape][KR].webp?raw=true}
+{f(x)}{2014-07-07}{Red Light}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2014-07-07][Red Light][KR].jpg?raw=true}
+{f(x)}{2015-10-27}{4 Walls}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2015-10-27][4 Walls][KR].jpg?raw=true}
 {fromis_9}{2018-06-05}{To. Day}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[fromis_9][2018-06-05][To. Day][KR].jpeg?raw=true}
 {fromis_9}{2018-10-10}{From.9}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[fromis_9][2018-10-10][From.9][KR].jpeg?raw=true}
 {fromis_9}{2019-06-04}{FUN FACTORY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[fromis_9][2019-06-04][FUN FACTORY][KR].jpeg?raw=true}
