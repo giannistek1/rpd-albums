@@ -165,7 +165,7 @@
 {Dreamcatcher}{2018-01-12}{Full Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2018-01-12][Full Moon][KR].jpg?raw=true}
 {Dreamcatcher}{2018-05-10}{Escape the ERA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2018-05-10][Escape the ERA][KR].jpg?raw=true}
 {Dreamcatcher}{2018-09-20}{Alone In The City}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2018-09-20][Alone In The City][KR].jpg?raw=true}
-{Dreamcatcher}{2019-01-16}{Over the Sky}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2019-01-16][Over the Sky][KR].jpg?raw=true}
+{Dreamcatcher}{2019-01-16}{Over the Sky}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2019-01-16][Over the Sky][JP].jpg?raw=true}
 {Dreamcatcher}{2019-02-13}{The End of Nightmare}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2019-02-13][The End of Nightmare][KR].jpg?raw=true}
 {Dreamcatcher}{2019-09-18}{Raid of Dream}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2019-09-18][Raid of Dream][KR].jpg?raw=true}
 {Dreamcatcher}{2020-02-18}{Dystopia The Tree of Language}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2020-02-18][Dystopia The Tree of Language][KR].jpg?raw=true}
@@ -690,6 +690,8 @@
 {TWICE}{2022-08-26}{Between 1&2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWICE][2022-08-26][Between 1&2][KR].png?raw=true}
 {TWICE}{2023-01-20}{Moonlight Sunrise}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[TWICE][2023-01-20][Moonlight Sunrise][EN].jpeg?raw=true}
 {TWICE}{2024-02-23}{With YOU-th}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWICE][2024-02-23][With YOU-th][KR].png?raw=true}
+{TWS}{2024-01-22}{Sparkling Blue}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWS][2024-01-22][Sparkling Blue][KR].png?raw=true}
+{TWS}{2024-06-24}{SUMMER BEAT!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWS][2024-06-24][SUMMER BEAT!][KR].webp?raw=true}
 {TXT}{2019-03-04}{The Dream Chapter STAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2019-03-04][The Dream Chapter STAR][KR].png?raw=true}
 {TXT}{2019-10-21}{The Dream Chapter MAGIC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2019-10-21][The Dream Chapter MAGIC][KR].png?raw=true}
 {TXT}{2020-05-18}{The Dream Chapter ETERNITY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2020-05-18][The Dream Chapter ETERNITY][KR].jpeg?raw=true}
