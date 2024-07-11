@@ -324,7 +324,7 @@
 {IZ ONE}{2020-02-17}{BLOOM IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-02-17][BLOOM IZ][KR].png?raw=true}
 {IZ ONE}{2020-06-15}{Oneiric Diary}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-06-15][Oneiric Diary][KR].png?raw=true}
 {IZ ONE}{2020-12-07}{One-reeler Act IV}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-12-07][One-reeler Act IV][KR].jpg?raw=true}
-{J-Hope}{2019-09-27}{Chicken Noodle Soup}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[J-Hope][2019-09-27][Chicken Noodle Soup][KR].jpg?raw=true}
+{J-Hope (BTS)}{2019-09-27}{Chicken Noodle Soup}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[J-Hope (BTS)][2019-09-27][Chicken Noodle Soup][KR].jpg?raw=true}
 {J.Y. Park}{2015-04-12}{24 34}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[J.Y. Park][2015-04-12][24 34][KR].jfif?raw=true}
 {J.Y. Park}{2019-12-01}{Fever}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[J.Y. Park][2019-12-01][Fever][KR].jpg?raw=true}
 {J.Y. Park}{2020-08-12}{When We Disco}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[J.Y. Park][2020-08-12][When We Disco][KR].jpg?raw=true}
