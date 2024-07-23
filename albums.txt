@@ -421,7 +421,7 @@
 {MONSTA X}{2018-03-26}{The Connect Dejavu}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2018-03-26][The Connect Dejavu][KR].jpg?raw=true}
 {MONSTA X}{2018-10-22}{Take.1 Are You There}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2018-10-22][Take.1 Are You There][KR].png?raw=true}
 {MONSTA X}{2019-02-18}{Take.2 We Are Here}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2019-02-18][Take.2 We Are Here][KR].png?raw=true}
-{MONSTA X}{2019-10-28}{Follow – Find You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2019-10-28][Follow – Find You][KR].jpg?raw=true}
+{MONSTA X}{2019-10-28}{Follow - Find You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2019-10-28][Follow - Find You][KR].jpg?raw=true}
 {MONSTA X}{2020-05-26}{Fantasia X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2020-05-26][Fantasia X][KR].png?raw=true}
 {MONSTA X}{2020-11-02}{Fatal Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2020-11-02][Fatal Love][KR].jpg?raw=true}
 {MONSTA X}{2021-06-01}{One of a Kind}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[MONSTA X][2021-06-01][One of a Kind][KR].png?raw=true}
