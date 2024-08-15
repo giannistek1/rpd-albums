@@ -54,7 +54,6 @@
 {AOA}{2018-05-28}{Bingle Bangle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[AOA][2018-05-28][Bingle Bangle][KR].jpg?raw=true}
 {AOA}{2019-11-26}{New Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[AOA][2019-11-26][New Moon][KR].jpg?raw=true}
 {Apink}{2013-07-05}{Secret Garden}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Apink][2013-07-05][Secret Garden][KR].jpg?raw=true}
-{Apink}{2014-03-13}{Pink Blossom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Apink][2014-03-13][Pink Blossom][KR].jpg?raw=true}
 {Apink}{2014-03-31}{PINK BLOSSOM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Apink][2014-03-31][PINK BLOSSOM][KR].jpg?raw=true}
 {Apink}{2014-11-24}{Pink Luv}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Apink][2014-11-24][Pink Luv][KR].jpg?raw=true}
 {Apink}{2015-07-16}{Pink MEMORY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Apink][2015-07-16][Pink MEMORY][KR].jpg?raw=true}
@@ -97,7 +96,7 @@
 {BEAST}{2011-05-17}{Fiction and Fact}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2011-05-17][Fiction and Fact][KR].jfif?raw=true}
 {BIGBANG}{2012-02-29}{Alive (Kor. Version)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BIGBANG][2012-02-29][Alive (Kor. Version)][KR].jpg?raw=true}
 {BIGBANG}{2015-06-01}{A}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BIGBANG][2015-06-01][A][KR].jpg?raw=true}
-{Billie Eilish}{2020-11-12}{Therefore I Am}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Billie Eilish][2020-11-12][Therefore I Am][KR].jfif?raw=true}
+{Billie Eilish}{2020-11-12}{Therefore I Am}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Billie Eilish][2020-11-12][Therefore I Am][EN].jfif?raw=true}
 {Blackpink}{2016-08-08}{Square One}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2016-08-08][Square One][KR].jpg?raw=true}
 {Blackpink}{2016-11-01}{Square Two}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2016-11-01][Square Two][KR].png?raw=true}
 {Blackpink}{2017-06-22}{As If Its Your Last}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2017-06-22][As If Its Your Last][KR].png?raw=true}
@@ -129,8 +128,8 @@
 {BTS}{2018-08-24}{Love Yourself Answer}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2018-08-24][Love Yourself Answer][KR].jpg?raw=true}
 {BTS}{2019-04-12}{Map of the Soul Persona}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2019-04-12][Map of the Soul Persona][KR].jpg?raw=true}
 {BTS}{2020-01-17}{Map of the Soul 7}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2020-01-17][Map of the Soul 7][KR].jpg?raw=true}
-{BTS}{2020-08-21}{Dynamite}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2020-08-21][Dynamite][KR].jpg?raw=true}
-{BTS}{2021-05-21}{Butter}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2021-05-21][Butter][KR].jpg?raw=true}
+{BTS}{2020-08-21}{Dynamite}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2020-08-21][Dynamite][EN].jpg?raw=true}
+{BTS}{2021-05-21}{Butter}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2021-05-21][Butter][EN].jpg?raw=true}
 {BTS}{2021-07-09}{Permission to Dance}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2021-07-09][Permission to Dance][KR].jfif?raw=true}
 {Cherry Bullet}{2022-03-02}{Cherry Wish}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Cherry Bullet][2022-03-02][Cherry Wish][KR].png?raw=true}
 {CHUNG HA}{2017-06-07}{Hands on Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CHUNG HA][2017-06-07][Hands on Me][KR].jpg?raw=true}
