@@ -585,6 +585,7 @@
 {SHINee}{2015-05-18}{Odd}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SHINee][2015-05-18][Odd][KR].jpeg?raw=true}
 {SHINee}{2021-02-22}{Dont Call Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SHINee][2021-02-22][Dont Call Me][KR].jpeg?raw=true}
 {SHINee}{2021-04-12}{Atlantis}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SHINee][2021-04-12][Atlantis][KR].jpeg?raw=true}
+{SHINHWA}{1998-05-09}{Resolver}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SHINHWA][1998-05-09][Resolver][KR].jpg?raw=true}
 {SISTAR}{2014-07-21}{Touch N Move}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SISTAR][2014-07-21][Touch N Move][KR].png?raw=true}
 {Solar (MAMAMOO)}{2020-04-23}{Spit It Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (MAMAMOO)][2020-04-23][Spit It Out][KR].webp?raw=true}
 {Solar (MAMAMOO)}{2024-04-30}{COLOURS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (MAMAMOO)][2024-04-30][COLOURS][KR].jpg?raw=true}
