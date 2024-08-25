@@ -46,6 +46,7 @@
 {aespa}{2024-05-27}{Armageddon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2024-05-27][Armageddon][KR].jpg?raw=true}
 {aespa}{2024-07-03}{Hot Mess}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[aespa][2024-07-03][Hot Mess][JP].jpg?raw=true}
 {Agust D (BTS)}{2020-05-22}{D-2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Agust D (BTS)][2020-05-22][D-2][KR].jpg?raw=true}
+{Ailee}{2012-10-16}{Invitation}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Ailee][2012-10-16][Invitation][KR].jpg?raw=true}
 {AOA}{2014-01-16}{Miniskirt}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[AOA][2014-01-16][Miniskirt][KR].jpg?raw=true}
 {AOA}{2014-11-11}{Like A Cat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[AOA][2014-11-11][Like A Cat][KR].jpg?raw=true}
 {AOA}{2015-06-22}{Heart Attack}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[AOA][2015-06-22][Heart Attack][KR].jpg?raw=true}
