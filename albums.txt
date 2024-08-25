@@ -359,6 +359,8 @@
 {KARD}{2019-09-22}{Dumb Litty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2019-09-22][Dumb Litty][KR].png?raw=true}
 {KARD}{2020-02-12}{Red Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2020-02-12][Red Moon][KR].png?raw=true}
 {KARD}{2020-08-26}{Way with words}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2020-08-26][Way with words][KR].png?raw=true}
+{KATSEYE}{2024-06-28}{Debut}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[KATSEYE][2024-06-28][Debut][EN].jpg?raw=true}
+{KATSEYE}{2024-07-26}{Touch}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[KATSEYE][2024-07-26][Touch][EN].jpg?raw=true}
 {KDA}{2018-11-03}{Popstars}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KDA][2018-11-03][Popstars][KR].jpg?raw=true}
 {KDA}{2020-08-27}{The Baddest}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KDA][2020-08-27][The Baddest][KR].jpg?raw=true}
 {KDA}{2020-10-28}{All Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KDA][2020-10-28][All Out][KR].jpg?raw=true}
