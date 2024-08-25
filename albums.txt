@@ -106,8 +106,8 @@
 {Blackpink}{2020-06-16}{How You Like That}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2020-06-16][How You Like That][KR].png?raw=true}
 {Blackpink}{2020-08-28}{Ice Cream (with Selena Gomez)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2020-08-28][Ice Cream (with Selena Gomez)][KR].png?raw=true}
 {Blackpink}{2020-10-02}{The Album}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2020-10-02][The Album][KR].png?raw=true}
-{BLACKPINK}{2022-08-19}{Pink Venom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BLACKPINK][2022-08-19][Pink Venom][KR].jpg?raw=true}
-{BLACKPINK}{2022-09-16}{Born Pink}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BLACKPINK][2022-09-16][Born Pink][KR].jpeg?raw=true}
+{Blackpink}{2022-08-19}{Pink Venom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2022-08-19][Pink Venom][KR].jpg?raw=true}
+{Blackpink}{2022-09-16}{Born Pink}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2022-09-16][Born Pink][KR].jpeg?raw=true}
 {Block B}{2017-11-07}{Montage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Block B][2017-11-07][Montage][KR].png?raw=true}
 {BOYNEXTDOOR}{2023-05-30}{WHO!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2023-05-30][WHO!][KR].jpg?raw=true}
 {BOYNEXTDOOR}{2023-09-04}{WHY..}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2023-09-04][WHY..][KR].jpg?raw=true}
@@ -334,13 +334,13 @@
 {Jackson Wang (GOT7)}{2020-03-20}{100 Ways}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jackson Wang (GOT7)][2020-03-20][100 Ways][KR].jpg?raw=true}
 {Jackson Wang (GOT7)}{2020-09-04}{Pretty Please}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jackson Wang (GOT7)][2020-09-04][Pretty Please][KR].jpg?raw=true}
 {Jay Park}{2015-05-22}{Mommae}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jay Park][2015-05-22][Mommae][KR].png?raw=true}
-{JENNIE (BLACKPINK)}{2018-11-12}{SOLO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JENNIE (BLACKPINK)][2018-11-12][SOLO][KR].jpeg?raw=true}
-{JENNIE (BLACKPINK)}{2023-10-06}{You & Me}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[JENNIE (BLACKPINK)][2023-10-06][You & Me][EN].png?raw=true}
+{JENNIE (Blackpink)}{2018-11-12}{SOLO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JENNIE (Blackpink)][2018-11-12][SOLO][KR].jpeg?raw=true}
+{JENNIE (Blackpink)}{2023-10-06}{You & Me}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[JENNIE (Blackpink)][2023-10-06][You & Me][EN].png?raw=true}
 {Jessi}{2020-07-30}{Nuna}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2020-07-30][Nuna][KR].jpg?raw=true}
 {Jessi}{2021-03-17}{What Type of X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2021-03-17][What Type of X][KR].jfif?raw=true}
 {Jessi}{2021-10-12}{Cold Blooded}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2021-10-12][Cold Blooded][KR].jfif?raw=true}
 {JIHYO (Twice)}{2023-08-18}{ZONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JIHYO (Twice)][2023-08-18][ZONE][KR].png?raw=true}
-{JISOO (BLACKPINK)}{2023-03-31}{Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JISOO (BLACKPINK)][2023-03-31][Me][KR].jpg?raw=true}
+{JISOO (Blackpink)}{2023-03-31}{Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JISOO (Blackpink)][2023-03-31][Me][KR].jpg?raw=true}
 {Jungkook (BTS)}{2023-07-14}{Seven}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-07-14][Seven][EN].jpeg?raw=true}
 {Jungkook (BTS)}{2023-09-29}{3D}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-09-29][3D][EN].png?raw=true}
 {Jungkook (BTS)}{2023-11-03}{Golden}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-11-03][Golden][EN].png?raw=true}
@@ -371,7 +371,7 @@
 {LE SERRAFIM}{2023-10-27}{Perfect Night}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2023-10-27][Perfect Night][KR].jpg?raw=true}
 {LE SERRAFIM}{2024-02-19}{EASY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2024-02-19][EASY][KR].webp?raw=true}
 {Lee Jinhyuk}{2019-11-04}{S.O.L}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Lee Jinhyuk][2019-11-04][S.O.L][KR].jpg?raw=true}
-{LISA (BLACKPINK)}{2021-09-10}{LALISA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LISA (BLACKPINK)][2021-09-10][LALISA][KR].jpg?raw=true}
+{LISA (Blackpink)}{2021-09-10}{LALISA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LISA (Blackpink)][2021-09-10][LALISA][KR].jpg?raw=true}
 {LOONA}{2017-05-23}{Kim Lip}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2017-05-23][Kim Lip][KR].png?raw=true}
 {LOONA}{2018-08-20}{Plus Plus}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2018-08-20][Plus Plus][KR].png?raw=true}
 {LOONA}{2019-02-19}{X X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2019-02-19][X X][KR].png?raw=true}
@@ -549,7 +549,7 @@
 {RIIZE}{2024-04-03}{Siren}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-04-03][Siren][KR].jpg?raw=true}
 {RIIZE}{2024-04-18}{Impossible}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-04-18][Impossible][KR].jpg?raw=true}
 {RIIZE}{2024-06-17}{RIIZING}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-06-17][RIIZING][KR].jpg?raw=true}
-{Rose (BLACKPINK)}{2021-03-12}{-R-}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Rose (BLACKPINK)][2021-03-12][-R-][KR].jpg?raw=true}
+{Rose (Blackpink)}{2021-03-12}{-R-}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Rose (Blackpink)][2021-03-12][-R-][KR].jpg?raw=true}
 {SECRET NUMBER}{2020-05-19}{Who Dis}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-05-19][Who Dis][KR].jpeg?raw=true}
 {SECRET NUMBER}{2020-11-04}{Got That Boom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-11-04][Got That Boom][KR].jpeg?raw=true}
 {SECRET NUMBER}{2021-10-07}{Fire Saturday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2021-10-07][Fire Saturday][KR].jpeg?raw=true}
