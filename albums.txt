@@ -349,8 +349,9 @@
 {JUST B}{2021-10-27}{Just Beat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JUST B][2021-10-27][Just Beat][KR].jfif?raw=true}
 {KAI (EXO)}{2020-11-30}{KAI}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI (EXO)][2020-11-30][KAI][KR].png?raw=true}
 {KAI (EXO)}{2021-11-30}{Peaches}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI (EXO)][2021-11-30][Peaches][KR].jpg?raw=true}
+{KAI, SEULGI, JENO, KARINA}{2022-12-26}{2022 Winter SMTOWN SMCU PALACE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI, SEULGI, JENO, KARINA][2022-12-26][2022 Winter SMTOWN SMCU PALACE][KR].jpg?raw=true}
 {KARD}{2016-12-13}{Oh NaNa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2016-12-13][Oh NaNa][KR].png?raw=true}
-{KARD}{2017-02-16}{Dont Recall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-02-16][Dont Recall][KR].png?raw=true}
+{KARD}{2017-02-16}{Dont Recall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-02-16][Dont Recall][KR].png?raw=true}
 {KARD}{2017-04-04}{Rumor}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-04-04][Rumor][KR].png?raw=true}
 {KARD}{2017-07-19}{Hola Hola}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-07-19][Hola Hola][KR].png?raw=true}
 {KARD}{2017-11-21}{You & Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-11-21][You & Me][KR].png?raw=true}
@@ -473,7 +474,7 @@
 {NMIXX}{2023-03-20}{expergo}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-03-20][expergo][KR].png?raw=true}
 {NMIXX}{2023-06-03}{Roller Coaster}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-06-03][Roller Coaster][KR].png?raw=true}
 {NMIXX}{2023-07-11}{A Midsummer NMIXXs Dream}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-07-11][A Midsummer NMIXXs Dream][KR].png?raw=true}
-{NMIXX}{2023-12-04}{Soñar (Breaker)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-12-04][Soñar (Breaker)][KR].jpg?raw=true}
+{NMIXX}{2023-12-04}{Sonar (Breaker)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-12-04][Sonar (Breaker)][KR].jpg?raw=true}
 {NMIXX}{2024-01-15}{Fe3O4 BREAK}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2024-01-15][Fe3O4 BREAK][KR].webp?raw=true}
 {OH MY GIRL}{2019-05-08}{The Fifth Season}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OH MY GIRL][2019-05-08][The Fifth Season][KR].png?raw=true}
 {OH MY GIRL}{2020-04-27}{Nonstop}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OH MY GIRL][2020-04-27][Nonstop][KR].png?raw=true}
@@ -541,7 +542,7 @@
 {Red Velvet}{2019-08-20}{The ReVe Festival Day 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-08-20][The ReVe Festival Day 2][KR].png?raw=true}
 {Red Velvet}{2019-12-23}{The ReVe Festival Finale}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2019-12-23][The ReVe Festival Finale][KR].png?raw=true}
 {Red Velvet}{2021-08-16}{Queendom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2021-08-16][Queendom][KR].jfif?raw=true}
-{Red Velvet}{2022-03-21}{The ReVe Festival Finale 2022  Feel My Rhythm}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2022-03-21][The ReVe Festival Finale 2022  Feel My Rhythm][KR].jpg?raw=true}
+{Red Velvet}{2022-03-21}{The ReVe Festival Finale 2022 � Feel My Rhythm}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2022-03-21][The ReVe Festival Finale 2022 � Feel My Rhythm][KR].jpg?raw=true}
 {Red Velvet}{2022-11-28}{The Reve festival 2022 Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2022-11-28][The Reve festival 2022 Birthday][KR].png?raw=true}
 {Red Velvet}{2023-11-13}{Chill Kill}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2023-11-13][Chill Kill][KR].png?raw=true}
 {Red Velvet}{2024-06-24}{Cosmic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Red Velvet][2024-06-24][Cosmic][KR].jpg?raw=true}
