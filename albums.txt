@@ -649,7 +649,7 @@
 {Teen Top}{2013-02-25}{No. 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-02-25][No. 1][KR].jfif?raw=true}
 {Teen Top}{2013-10-23}{Addition}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-10-23][Addition][KR].jfif?raw=true}
 {TEN & YANGYANG (WayV)}{2021-08-17}{Low Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TEN & YANGYANG (WayV)][2021-08-17][Low Low][KR].jpeg?raw=true}
-{TEN (NCT 127)}{2021-08-10}{Paint Me Naked}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TEN (NCT 127)][2021-08-10][Paint Me Naked][KR].jpg?raw=true}
+{TEN (NCT)}{2021-08-10}{Paint Me Naked}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TEN (NCT)][2021-08-10][Paint Me Naked][KR].jpg?raw=true}
 {The Boyz}{2017-12-06}{The First}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2017-12-06][The First][KR].png?raw=true}
 {The Boyz}{2018-04-03}{The Start}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2018-04-03][The Start][KR].png?raw=true}
 {The Boyz}{2018-09-05}{The Sphere}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[The Boyz][2018-09-05][The Sphere][KR].png?raw=true}
