@@ -247,6 +247,7 @@
 {Girls Generation (SNSD)}{2015-04-10}{Catch Me If You Can}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Girls Generation (SNSD)][2015-04-10][Catch Me If You Can][KR].png?raw=true}
 {Girls Generation (SNSD)}{2015-08-19}{Lion Heart}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Girls Generation (SNSD)][2015-08-19][Lion Heart][KR].jpg?raw=true}
 {Girls Generation (SNSD)}{2022-08-05}{Forever 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Girls Generation (SNSD)][2022-08-05][Forever 1][KR].png?raw=true}
+{GISELLE (aespa)}{2020-11-17}{aespa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[GISELLE (aespa)][2020-11-17][aespa][KR].jpg?raw=true}
 {GOT The Beat}{2022-01-03}{Step Back}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[GOT The Beat][2022-01-03][Step Back][KR].png?raw=true}
 {GOT7}{2014-01-20}{Got it}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[GOT7][2014-01-20][Got it][KR].jpg?raw=true}
 {GOT7}{2014-06-23}{Got Heart}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[GOT7][2014-06-23][Got Heart][KR].jpg?raw=true}
@@ -360,6 +361,7 @@
 {KARD}{2019-09-22}{Dumb Litty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2019-09-22][Dumb Litty][KR].png?raw=true}
 {KARD}{2020-02-12}{Red Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2020-02-12][Red Moon][KR].png?raw=true}
 {KARD}{2020-08-26}{Way with words}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2020-08-26][Way with words][KR].png?raw=true}
+{KARINA (aespa)}{2020-11-17}{aespa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARINA (aespa)][2020-11-17][aespa][KR].jpg?raw=true}
 {KATSEYE}{2024-06-28}{Debut}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[KATSEYE][2024-06-28][Debut][EN].jpg?raw=true}
 {KATSEYE}{2024-07-26}{Touch}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[KATSEYE][2024-07-26][Touch][EN].jpg?raw=true}
 {KDA}{2018-11-03}{Popstars}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KDA][2018-11-03][Popstars][KR].jpg?raw=true}
