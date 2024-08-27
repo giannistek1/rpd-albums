@@ -93,7 +93,7 @@
 {BABYMONSTER}{2024-04-01}{BABYMONS7ER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BABYMONSTER][2024-04-01][BABYMONS7ER][KR].jpg?raw=true}
 {BABYMONSTER}{2024-07-01}{FOREVER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BABYMONSTER][2024-07-01][FOREVER][KR].jpg?raw=true}
 {BADVILLAIN}{2024-06-03}{OVERSTEP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BADVILLAIN][2024-06-03][OVERSTEP][KR].jpg?raw=true}
-{Baekhyun}{2020-05-25}{Delight}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Baekhyun][2020-05-25][Delight][KR].jpeg?raw=true}
+{Baekhyun (EXO)}{2020-05-25}{Delight}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Baekhyun (EXO)][2020-05-25][Delight][KR].jpeg?raw=true}
 {BEAST}{2011-05-17}{Fiction and Fact}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2011-05-17][Fiction and Fact][KR].jfif?raw=true}
 {BIGBANG}{2012-02-29}{Alive (Kor. Version)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BIGBANG][2012-02-29][Alive (Kor. Version)][KR].jpg?raw=true}
 {BIGBANG}{2015-06-01}{A}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BIGBANG][2015-06-01][A][KR].jpg?raw=true}
