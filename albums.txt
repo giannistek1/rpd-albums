@@ -273,7 +273,7 @@
 {HYOLYN}{2018-04-23}{Dally}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN][2018-04-23][Dally][KR].jpg?raw=true}
 {HYOLYN}{2018-07-20}{See Sea}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN][2018-07-20][See Sea][KR].jfif?raw=true}
 {HYOLYN}{2022-01-12}{Layin Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN][2022-01-12][Layin Low][KR].jfif?raw=true}
-{HYOYEON}{2020-07-22}{DESSERT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOYEON][2020-07-22][DESSERT][KR].jpg?raw=true}
+{HYOYEON (SNSD)}{2020-07-22}{DESSERT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOYEON (SNSD)][2020-07-22][DESSERT][KR].jpg?raw=true}
 {HyunA & Dawn}{2021-09-09}{1 1 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HyunA & Dawn][2021-09-09][1 1 1][KR].jpg?raw=true}
 {HyunA}{2011-07-05}{Bubble Pop!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HyunA][2011-07-05][Bubble Pop!][KR].png?raw=true}
 {HyunA}{2014-07-28}{A Talk}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HyunA][2014-07-28][A Talk][KR].png?raw=true}
