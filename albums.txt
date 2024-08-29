@@ -265,11 +265,11 @@
 {H.I.N.P}{2018-08-18}{30 Girls 6 Concepts}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[H.I.N.P][2018-08-18][30 Girls 6 Concepts][KR].jfif?raw=true}
 {Highlight}{2017-10-16}{Celebrate}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Highlight][2017-10-16][Celebrate][KR].jfif?raw=true}
 {HINAPIA}{2019-11-03}{New Start}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HINAPIA][2019-11-03][New Start][KR].jpg?raw=true}
-{HWASA (MAMAMOO)}{2019-02-13}{TWIT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (MAMAMOO)][2019-02-13][TWIT][KR].jpg?raw=true}
-{HWASA (MAMAMOO)}{2020-06-29}{Maria}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (MAMAMOO)][2020-06-29][Maria][KR].jpg?raw=true}
-{HWASA (MAMAMOO)}{2021-11-24}{Guilty Pleasure}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (MAMAMOO)][2021-11-24][Guilty Pleasure][KR].jfif?raw=true}
-{HWASA (MAMAMOO)}{2023-09-06}{I Love My Body}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (MAMAMOO)][2023-09-06][I Love My Body][KR].webp?raw=true}
-{HWASA (MAMAMOO)}{2023-10-04}{Chili}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (MAMAMOO)][2023-10-04][Chili][KR].jpg?raw=true}
+{HWASA (Mamamoo)}{2019-02-13}{TWIT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2019-02-13][TWIT][KR].jpg?raw=true}
+{HWASA (Mamamoo)}{2020-06-29}{Maria}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2020-06-29][Maria][KR].jpg?raw=true}
+{HWASA (Mamamoo)}{2021-11-24}{Guilty Pleasure}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2021-11-24][Guilty Pleasure][KR].jfif?raw=true}
+{HWASA (Mamamoo)}{2023-09-06}{I Love My Body}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2023-09-06][I Love My Body][KR].webp?raw=true}
+{HWASA (Mamamoo)}{2023-10-04}{Chili}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2023-10-04][Chili][KR].jpg?raw=true}
 {HYOLYN}{2018-04-23}{Dally}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN][2018-04-23][Dally][KR].jpg?raw=true}
 {HYOLYN}{2018-07-20}{See Sea}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN][2018-07-20][See Sea][KR].jfif?raw=true}
 {HYOLYN}{2022-01-12}{Layin Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN][2022-01-12][Layin Low][KR].jfif?raw=true}
@@ -593,8 +593,8 @@
 {SHINee}{2021-04-12}{Atlantis}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SHINee][2021-04-12][Atlantis][KR].jpeg?raw=true}
 {SHINHWA}{1998-05-09}{Resolver}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SHINHWA][1998-05-09][Resolver][KR].jpg?raw=true}
 {SISTAR}{2014-07-21}{Touch N Move}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SISTAR][2014-07-21][Touch N Move][KR].png?raw=true}
-{Solar (MAMAMOO)}{2020-04-23}{Spit It Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (MAMAMOO)][2020-04-23][Spit It Out][KR].webp?raw=true}
-{Solar (MAMAMOO)}{2024-04-30}{COLOURS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (MAMAMOO)][2024-04-30][COLOURS][KR].jpg?raw=true}
+{Solar (Mamamoo)}{2020-04-23}{Spit It Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (Mamamoo)][2020-04-23][Spit It Out][KR].webp?raw=true}
+{Solar (Mamamoo)}{2024-04-30}{COLOURS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (Mamamoo)][2024-04-30][COLOURS][KR].jpg?raw=true}
 {SOMI}{2019-06-13}{Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2019-06-13][Birthday][KR].jpg?raw=true}
 {SOMI}{2020-07-22}{What You Waiting For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2020-07-22][What You Waiting For][KR].jpg?raw=true}
 {SOMI}{2021-08-02}{Dumb Dumb}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2021-08-02][Dumb Dumb][KR].jpg?raw=true}
