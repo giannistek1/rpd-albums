@@ -294,7 +294,7 @@
 {ILLIT}{2024-03-27}{SUPER REAL ME}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ILLIT][2024-03-27][SUPER REAL ME][KR].png?raw=true}
 {Infinite}{2015-06-13}{Reality}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Infinite][2015-06-13][Reality][KR].jpg?raw=true}
 {Infinite}{2016-09-19}{Infinite Only}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Infinite][2016-09-19][Infinite Only][KR].jpg?raw=true}
-{Irene & Seulgi}{2020-07-06}{MONSTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Irene & Seulgi][2020-07-06][MONSTER][KR].png?raw=true}
+{Irene & Seulgi (Red Velvet)}{2020-07-06}{MONSTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Irene & Seulgi (Red Velvet)][2020-07-06][MONSTER][KR].png?raw=true}
 {ITZY}{2019-02-12}{ITz Different}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2019-02-12][ITz Different][KR].png?raw=true}
 {ITZY}{2019-07-29}{ITz Icy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2019-07-29][ITz Icy][KR].png?raw=true}
 {ITZY}{2020-03-20}{ITz Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2020-03-20][ITz Me][KR].png?raw=true}
