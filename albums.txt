@@ -110,6 +110,7 @@
 {Blackpink}{2022-08-19}{Pink Venom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2022-08-19][Pink Venom][KR].jpg?raw=true}
 {Blackpink}{2022-09-16}{Born Pink}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Blackpink][2022-09-16][Born Pink][KR].jpeg?raw=true}
 {Block B}{2017-11-07}{Montage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Block B][2017-11-07][Montage][KR].png?raw=true}
+{BoA}{2000-08-25}{ID; Peace B}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BoA][2000-08-25][ID; Peace B][KR].jpg?raw=true}
 {BOYNEXTDOOR}{2023-05-30}{WHO!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2023-05-30][WHO!][KR].jpg?raw=true}
 {BOYNEXTDOOR}{2023-09-04}{WHY..}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2023-09-04][WHY..][KR].jpg?raw=true}
 {BOYNEXTDOOR}{2024-04-15}{HOW}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2024-04-15][HOW][KR].jpg?raw=true}
