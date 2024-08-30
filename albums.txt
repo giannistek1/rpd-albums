@@ -190,7 +190,7 @@
 {EVERGLOW}{2019-03-19}{Arrival of Everglow}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2019-03-19][Arrival of Everglow][KR].jpeg?raw=true}
 {EVERGLOW}{2019-08-19}{Hush}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2019-08-19][Hush][KR].jpg?raw=true}
 {EVERGLOW}{2020-02-03}{Reminiscence}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2020-02-03][Reminiscence][KR].png?raw=true}
-{EVERGLOW}{2020-09-21}{-77.82X-78.29}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2020-09-21][-77.82X-78.29][KR].png?raw=true}
+{EVERGLOW}{2020-09-21}{test}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2020-09-21][test][KR].png?raw=true}
 {EVERGLOW}{2021-05-25}{Last Melody}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2021-05-25][Last Melody][KR].jpeg?raw=true}
 {EVERGLOW}{2021-12-01}{RETURN OF THE GIRL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2021-12-01][RETURN OF THE GIRL][KR].jpg?raw=true}
 {EVERGLOW}{2023-08-18}{ALL MY GIRLS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[EVERGLOW][2023-08-18][ALL MY GIRLS][KR].png?raw=true}
