@@ -700,6 +700,7 @@
 {Twice}{2021-11-12}{Formula of Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2021-11-12][Formula of Love][KR].jpg?raw=true}
 {Twice}{2022-08-26}{Between 1&2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2022-08-26][Between 1&2][KR].png?raw=true}
 {Twice}{2023-01-20}{Moonlight Sunrise}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2023-01-20][Moonlight Sunrise][EN].jpeg?raw=true}
+{Twice}{2023-03-10}{READY TO BE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2023-03-10][READY TO BE][KR].jpg?raw=true}
 {Twice}{2024-02-23}{With YOU-th}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2024-02-23][With YOU-th][KR].png?raw=true}
 {TWS}{2024-01-22}{Sparkling Blue}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWS][2024-01-22][Sparkling Blue][KR].png?raw=true}
 {TWS}{2024-06-24}{SUMMER BEAT!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWS][2024-06-24][SUMMER BEAT!][KR].webp?raw=true}
