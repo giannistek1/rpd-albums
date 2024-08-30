@@ -615,6 +615,7 @@
 {Stray Kids}{2023-11-10}{ROCK-STAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2023-11-10][ROCK-STAR][KR].jpg?raw=true}
 {Stray Kids}{2024-05-10}{Lose My Breath}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2024-05-10][Lose My Breath][KR].jpg?raw=true}
 {Stray Kids}{2024-07-19}{ATE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2024-07-19][ATE][KR].webp?raw=true}
+{SUNMI (Wonder Girls)}{2013-08-26}{24 Hours}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI (Wonder Girls)][2013-08-26][24 Hours][KR].png?raw=true}
 {SUNMI (Wonder Girls)}{2014-02-17}{Full Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI (Wonder Girls)][2014-02-17][Full Moon][KR].jpg?raw=true}
 {SUNMI (Wonder Girls)}{2017-08-22}{SUNMI SPECIAL EDITION GASHINA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI (Wonder Girls)][2017-08-22][SUNMI SPECIAL EDITION GASHINA][KR].png?raw=true}
 {SUNMI (Wonder Girls)}{2018-01-18}{Heroine}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI (Wonder Girls)][2018-01-18][Heroine][KR].png?raw=true}
@@ -625,7 +626,6 @@
 {SUNMI (Wonder Girls)}{2020-06-29}{pporappippam}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI (Wonder Girls)][2020-06-29][pporappippam][KR].png?raw=true}
 {SUNMI (Wonder Girls)}{2021-02-23}{TAIL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI (Wonder Girls)][2021-02-23][TAIL][KR].jpg?raw=true}
 {SUNMI (Wonder Girls)}{2021-08-06}{1 6}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI (Wonder Girls)][2021-08-06][1 6][KR].jfif?raw=true}
-{SUNMI}{2013-08-26}{24 Hours}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SUNMI][2013-08-26][24 Hours][KR].png?raw=true}
 {Super Junior}{2009-03-12}{Sorry, Sorry}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Super Junior][2009-03-12][Sorry, Sorry][KR].png?raw=true}
 {Super Junior}{2010-05-13}{Bonamana}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Super Junior][2010-05-13][Bonamana][KR].png?raw=true}
 {Super Junior}{2011-08-03}{Mr. Simple}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Super Junior][2011-08-03][Mr. Simple][KR].jpg?raw=true}
