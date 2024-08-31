@@ -377,6 +377,7 @@
 {Kep1er}{2022-01-03}{FIRST IMPACT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Kep1er][2022-01-03][FIRST IMPACT][KR].jfif?raw=true}
 {KISS OF LIFE}{2023-07-05}{KISS OF LIFE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KISS OF LIFE][2023-07-05][KISS OF LIFE][KR].webp?raw=true}
 {KISS OF LIFE}{2024-04-03}{Midas Touch}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KISS OF LIFE][2024-04-03][Midas Touch][KR].webp?raw=true}
+{KISS OF LIFE}{2024-07-01}{Sticky}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KISS OF LIFE][2024-07-01][Sticky][KR].jpg?raw=true}
 {LE SERRAFIM}{2022-05-02}{FEARLESS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2022-05-02][FEARLESS][KR].png?raw=true}
 {LE SERRAFIM}{2022-10-17}{ANTIFRAGILE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2022-10-17][ANTIFRAGILE][KR].png?raw=true}
 {LE SERRAFIM}{2023-05-01}{UNFORGIVEN}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SERRAFIM][2023-05-01][UNFORGIVEN][KR].webp?raw=true}
@@ -726,6 +727,7 @@
 {VICTON}{2021-01-11}{Voice The Future is Now}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VICTON][2021-01-11][Voice The Future is Now][KR].png?raw=true}
 {VIVIZ}{2022-02-09}{Beam of Prism}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-02-09][Beam of Prism][KR].jpg?raw=true}
 {VIVIZ}{2022-06-07}{Summer Vibe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-06-07][Summer Vibe][KR].png?raw=true}
+{VIVIZ}{2022-07-06}{Summer Vibe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-07-06][Summer Vibe][KR].png?raw=true}
 {VIVIZ}{2023-01-31}{VarioUS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2023-01-31][VarioUS][KR].png?raw=true}
 {VIVIZ}{2023-11-02}{VERSUS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2023-11-02][VERSUS][KR].jpg?raw=true}
 {VIXX}{2012-05-24}{SUPER HERO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIXX][2012-05-24][SUPER HERO][KR].jpg?raw=true}
