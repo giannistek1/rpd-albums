@@ -114,6 +114,7 @@
 {BOYNEXTDOOR}{2023-05-30}{WHO!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2023-05-30][WHO!][KR].jpg?raw=true}
 {BOYNEXTDOOR}{2023-09-04}{WHY..}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2023-09-04][WHY..][KR].jpg?raw=true}
 {BOYNEXTDOOR}{2024-04-15}{HOW}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYNEXTDOOR][2024-04-15][HOW][KR].jpg?raw=true}
+{BOYS PLANET (ZEROBASEONE)}{2023-04-21}{BOYS PLANET - FINAL TOP9 BATTLE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BOYS PLANET (ZEROBASEONE)][2023-04-21][BOYS PLANET - FINAL TOP9 BATTLE][KR].jpg?raw=true}
 {Brave Girls}{2017-03-07}{Rollin}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Brave Girls][2017-03-07][Rollin][KR].jpeg?raw=true}
 {Brown Eyed Girls}{2009-07-21}{Sound G}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Brown Eyed Girls][2009-07-21][Sound G][KR].png?raw=true}
 {BTS}{2013-06-12}{2 Cool 4 Skool}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BTS][2013-06-12][2 Cool 4 Skool][KR].jpg?raw=true}
