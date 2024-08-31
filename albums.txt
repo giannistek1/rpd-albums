@@ -790,5 +790,6 @@
 {ZEROBASEONE}{2023-11-06}{MELTING POINT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2023-11-06][MELTING POINT][KR].jpg?raw=true}
 {ZEROBASEONE}{2024-04-24}{SWEAT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2024-04-24][SWEAT][KR].jpg?raw=true}
 {ZEROBASEONE}{2024-05-13}{You had me at HELLO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2024-05-13][You had me at HELLO][KR].png?raw=true}
+{ZEROBASEONE}{2024-08-24}{Cinema Paradise}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZEROBASEONE][2024-08-24][Cinema Paradise][KR].jpg?raw=true}
 {ZICO}{2020-01-13}{Any song}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZICO][2020-01-13][Any song][KR].jfif?raw=true}
 {ZICO}{2024-04-26}{SPOT!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ZICO][2024-04-26][SPOT!][KR].jpg?raw=true}
