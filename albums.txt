@@ -178,6 +178,10 @@
 {Dreamcatcher}{2020-08-17}{Dystopia Lose Myself}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2020-08-17][Dystopia Lose Myself][KR].png?raw=true}
 {Dreamcatcher}{2021-01-26}{Dystopia Road to Utopia}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2021-01-26][Dystopia Road to Utopia][KR].png?raw=true}
 {Dreamcatcher}{2021-07-30}{Summer Holiday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2021-07-30][Summer Holiday][KR].png?raw=true}
+{Dreamcatcher}{2022-10-22}{Apocalypse Follow Us}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2022-10-22][Apocalypse Follow Us][KR].png?raw=true}
+{Dreamcatcher}{2023-05-24}{Apocalypse From us}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2023-05-24][Apocalypse From us][KR].jpg?raw=true}
+{Dreamcatcher}{2023-11-22}{VillainS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2023-11-22][VillainS][KR].jpg?raw=true}
+{Dreamcatcher}{2024-07-10}{VirtuouS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Dreamcatcher][2024-07-10][VirtuouS][KR].jpg?raw=true}
 {ENHYPEN}{2020-11-30}{Border Day One}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2020-11-30][Border Day One][KR].jpg?raw=true}
 {ENHYPEN}{2021-04-26}{Border Carnival}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2021-04-26][Border Carnival][KR].jpeg?raw=true}
 {ENHYPEN}{2021-07-29}{Hey Tayo}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ENHYPEN][2021-07-29][Hey Tayo][KR].jpeg?raw=true}
