@@ -767,6 +767,7 @@
 {WJSN}{2018-09-19}{WJ Please}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WJSN][2018-09-19][WJ Please][KR].png?raw=true}
 {WJSN}{2019-06-04}{For The Summer}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WJSN][2019-06-04][For The Summer][KR].png?raw=true}
 {WJSN}{2021-03-31}{UNNATURAL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WJSN][2021-03-31][UNNATURAL][KR].png?raw=true}
+{Wonder Girls}{2008-09-22}{The Wonder Years Trilogy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Wonder Girls][2008-09-22][The Wonder Years Trilogy][KR].jpg?raw=true}
 {X1}{2019-08-27}{Quantum Leap}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[X1][2019-08-27][Quantum Leap][KR].jpeg?raw=true}
 {XG}{2022-03-18}{Tippy Toes}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2022-03-18][Tippy Toes][KR].jpg?raw=true}
 {XG}{2022-06-29}{MASCARA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2022-06-29][MASCARA][KR].jpg?raw=true}
