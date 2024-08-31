@@ -708,6 +708,7 @@
 {Twice}{2022-08-26}{Between 1&2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2022-08-26][Between 1&2][KR].png?raw=true}
 {Twice}{2023-01-20}{Moonlight Sunrise}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2023-01-20][Moonlight Sunrise][EN].jpeg?raw=true}
 {Twice}{2023-03-10}{READY TO BE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2023-03-10][READY TO BE][KR].jpg?raw=true}
+{Twice}{2024-02-02}{I GOT YOU}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2024-02-02][I GOT YOU][EN].png?raw=true}
 {Twice}{2024-02-23}{With YOU-th}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Twice][2024-02-23][With YOU-th][KR].png?raw=true}
 {TWS}{2024-01-22}{Sparkling Blue}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWS][2024-01-22][Sparkling Blue][KR].png?raw=true}
 {TWS}{2024-06-24}{SUMMER BEAT!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TWS][2024-06-24][SUMMER BEAT!][KR].webp?raw=true}
@@ -728,6 +729,7 @@
 {VIVIZ}{2022-02-09}{Beam of Prism}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-02-09][Beam of Prism][KR].jpg?raw=true}
 {VIVIZ}{2022-06-07}{Summer Vibe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-06-07][Summer Vibe][KR].png?raw=true}
 {VIVIZ}{2022-07-06}{Summer Vibe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-07-06][Summer Vibe][KR].png?raw=true}
+{VIVIZ}{2022-10-27}{Rum Pum Pum}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-10-27][Rum Pum Pum][KR].jpg?raw=true}
 {VIVIZ}{2023-01-31}{VarioUS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2023-01-31][VarioUS][KR].png?raw=true}
 {VIVIZ}{2023-11-02}{VERSUS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2023-11-02][VERSUS][KR].jpg?raw=true}
 {VIXX}{2012-05-24}{SUPER HERO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIXX][2012-05-24][SUPER HERO][KR].jpg?raw=true}
