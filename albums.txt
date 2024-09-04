@@ -785,6 +785,10 @@
 {XG}{2023-08-23}{NEW DANCE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-08-23][NEW DANCE][KR].jpg?raw=true}
 {XG}{2023-09-27}{NEW DNA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-09-27][NEW DNA][KR].jpg?raw=true}
 {XG}{2024-05-21}{Woke Up}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2024-05-21][Woke Up][KR].jpg?raw=true}
+{xikers}{2023-03-30}{HOUSE OF TRICKY Doorbell Ringing}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2023-03-30][HOUSE OF TRICKY Doorbell Ringing][KR].jpg?raw=true}
+{xikers}{2023-08-02}{HOUSE OF TRICKY HOW TO PLAY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2023-08-02][HOUSE OF TRICKY HOW TO PLAY][KR].jpg?raw=true}
+{xikers}{2024-03-08}{HOUSE OF TRICKY Trial And Error}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2024-03-08][HOUSE OF TRICKY Trial And Error][KR].jpg?raw=true}
+{xikers}{2024-08-07}{Tsuki (Lunatic)}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2024-08-07][Tsuki (Lunatic)][JP].webp?raw=true}
 {Yena}{2022-01-17}{Smiley}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yena][2022-01-17][Smiley][KR].jfif?raw=true}
 {YOUNG POSSE}{2023-10-18}{MACARONI CHEESE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2023-10-18][MACARONI CHEESE][KR].png?raw=true}
 {YOUNG POSSE}{2024-02-04}{YOUNG POSSE UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2024-02-04][YOUNG POSSE UP][KR].png?raw=true}
