@@ -96,7 +96,7 @@
 {Baekhyun (EXO)}{2020-05-25}{Delight}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Baekhyun (EXO)][2020-05-25][Delight][KR].jpeg?raw=true}
 {BEAST}{2011-05-17}{Fiction and Fact}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2011-05-17][Fiction and Fact][KR].jfif?raw=true}
 {BEAST}{2012-07-22}{Midnight Sun}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2012-07-22][Midnight Sun][KR].jpeg?raw=true}
-{BEAST}{2013-07-19}{Hard to love, How to love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2013-07-19][Hard to love, How to love][KR].jpeg?raw=true}
+{BEAST}{2013-07-19}{Hard to love, How to love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2013-07-19][Hard to love, How to love][KR].png?raw=true}
 {BIGBANG}{2012-02-29}{Alive (Kor. Version)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BIGBANG][2012-02-29][Alive (Kor. Version)][KR].jpg?raw=true}
 {BIGBANG}{2015-06-01}{A}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BIGBANG][2015-06-01][A][KR].jpg?raw=true}
 {Billie Eilish}{2020-11-12}{Therefore I Am}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Billie Eilish][2020-11-12][Therefore I Am][EN].jfif?raw=true}
