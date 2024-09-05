@@ -465,6 +465,7 @@
 {NCT 127}{2021-10-25}{Favorite}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT 127][2021-10-25][Favorite][KR].jpg?raw=true}
 {NCT 127}{2022-09-16}{2 Baddies}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT 127][2022-09-16][2 Baddies][KR].webp?raw=true}
 {NCT 127}{2023-09-06}{Fact Check}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT 127][2023-09-06][Fact Check][KR].jpeg?raw=true}
+{NCT DOJAEJUNG}{2023-04-17}{PERFUME}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT DOJAEJUNG][2023-04-17][PERFUME][KR].jpg?raw=true}
 {NCT Dream}{2016-08-17}{Chewing Gum}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2016-08-17][Chewing Gum][KR].png?raw=true}
 {NCT Dream}{2017-02-09}{The First}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2017-02-09][The First][KR].png?raw=true}
 {NCT Dream}{2017-08-17}{We Young}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2017-08-17][We Young][KR].png?raw=true}
