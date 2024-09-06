@@ -327,6 +327,7 @@
 {ITZY}{2023-07-31}{KILL MY DOUBT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2023-07-31][KILL MY DOUBT][KR].jpg?raw=true}
 {ITZY}{2023-09-27}{Ringo}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2023-09-27][Ringo][JP].jpg?raw=true}
 {ITZY}{2024-01-08}{BORN TO BE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2024-01-08][BORN TO BE][KR].jpg?raw=true}
+{ITZY}{2024-05-15}{Algorhythm}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[ITZY][2024-05-15][Algorhythm][JP].webp?raw=true}
 {IU}{2015-10-23}{Chat-Shire}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IU][2015-10-23][Chat-Shire][KR].jfif?raw=true}
 {IU}{2018-10-10}{BBIBBI}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IU][2018-10-10][BBIBBI][KR].jpg?raw=true}
 {IU}{2021-03-25}{Lilac}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IU][2021-03-25][Lilac][KR].jpg?raw=true}
@@ -360,6 +361,7 @@
 {Jessi}{2021-10-12}{Cold Blooded}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2021-10-12][Cold Blooded][KR].jfif?raw=true}
 {JIHYO (Twice)}{2023-08-18}{ZONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JIHYO (Twice)][2023-08-18][ZONE][KR].png?raw=true}
 {JISOO (Blackpink)}{2023-03-31}{Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JISOO (Blackpink)][2023-03-31][Me][KR].jpg?raw=true}
+{Joy (Red Velvet)}{2021-05-31}{Hello}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Joy (Red Velvet)][2021-05-31][Hello][KR].jpg?raw=true}
 {Jungkook (BTS)}{2023-07-14}{Seven}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-07-14][Seven][EN].jpeg?raw=true}
 {Jungkook (BTS)}{2023-09-29}{3D}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-09-29][3D][EN].png?raw=true}
 {Jungkook (BTS)}{2023-11-03}{Golden}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[Jungkook (BTS)][2023-11-03][Golden][EN].png?raw=true}
@@ -492,6 +494,7 @@
 {NewJeans}{2023-07-07}{NewJeans Super Shy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2023-07-07][NewJeans Super Shy][KR].jpg?raw=true}
 {NewJeans}{2023-07-21}{Get Up}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2023-07-21][Get Up][KR].png?raw=true}
 {NewJeans}{2024-05-24}{How Sweet}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2024-05-24][How Sweet][KR].jpg?raw=true}
+{NewJeans}{2024-06-21}{Supernatural}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[NewJeans][2024-06-21][Supernatural][JP].png?raw=true}
 {NMIXX}{2022-02-22}{Ad Mare}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2022-02-22][Ad Mare][KR].webp?raw=true}
 {NMIXX}{2022-09-19}{ENTWURF}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2022-09-19][ENTWURF][KR].png?raw=true}
 {NMIXX}{2023-03-13}{Young, Dumb, Stupid}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NMIXX][2023-03-13][Young, Dumb, Stupid][KR].jpg?raw=true}
