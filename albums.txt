@@ -629,6 +629,12 @@
 {STAYC}{2021-04-08}{STAYDOM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2021-04-08][STAYDOM][KR].jpg?raw=true}
 {STAYC}{2021-09-06}{STEREOTYPE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2021-09-06][STEREOTYPE][KR].jpeg?raw=true}
 {STAYC}{2022-02-21}{YOUNG-LUV.COM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2022-02-21][YOUNG-LUV.COM][KR].jfif?raw=true}
+{STAYC}{2022-07-19}{WE NEED LOVE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2022-07-19][WE NEED LOVE][KR].webp?raw=true}
+{STAYC}{2022-11-16}{POPPY}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2022-11-16][POPPY][JP].jpg?raw=true}
+{STAYC}{2023-02-14}{Teddy Bear}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2023-02-14][Teddy Bear][KR].png?raw=true}
+{STAYC}{2023-08-16}{TEENFRESH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2023-08-16][TEENFRESH][KR].png?raw=true}
+{STAYC}{2023-12-06}{LIT}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2023-12-06][LIT][JP].jpg?raw=true}
+{STAYC}{2024-07-01}{Metamorphic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2024-07-01][Metamorphic][KR].jpg?raw=true}
 {Stray Kids}{2018-03-25}{SKZ2020}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2018-03-25][SKZ2020][KR].png?raw=true}
 {Stray Kids}{2020-06-17}{GO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2020-06-17][GO][KR].png?raw=true}
 {Stray Kids}{2020-09-14}{In Life}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2020-09-14][In Life][KR].png?raw=true}
