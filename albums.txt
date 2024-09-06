@@ -396,6 +396,8 @@
 {LE SSERAFIM}{2024-02-19}{EASY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SSERAFIM][2024-02-19][EASY][KR].webp?raw=true}
 {Lee Jinhyuk (UP10TION)}{2019-11-04}{S.O.L}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Lee Jinhyuk (UP10TION)][2019-11-04][S.O.L][KR].jpg?raw=true}
 {LISA (Blackpink)}{2021-09-10}{LALISA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LISA (Blackpink)][2021-09-10][LALISA][KR].jpg?raw=true}
+{LISA (Blackpink)}{2024-06-27}{ROCKSTAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LISA (Blackpink)][2024-06-27][ROCKSTAR][KR].jpg?raw=true}
+{LISA (Blackpink)}{2024-08-15}{New Woman (feat. Rosalia)}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[LISA (Blackpink)][2024-08-15][New Woman (feat. Rosalia)][EN].jpg?raw=true}
 {LOONA}{2017-05-23}{Kim Lip}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2017-05-23][Kim Lip][KR].png?raw=true}
 {LOONA}{2018-08-20}{Plus Plus}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2018-08-20][Plus Plus][KR].png?raw=true}
 {LOONA}{2019-02-19}{X X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2019-02-19][X X][KR].png?raw=true}
@@ -623,7 +625,7 @@
 {STAYC}{2021-04-08}{STAYDOM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2021-04-08][STAYDOM][KR].jpg?raw=true}
 {STAYC}{2021-09-06}{STEREOTYPE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2021-09-06][STEREOTYPE][KR].jpeg?raw=true}
 {STAYC}{2022-02-21}{YOUNG-LUV.COM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2022-02-21][YOUNG-LUV.COM][KR].jfif?raw=true}
-{Stray Kids}{2017-10-06}{SKZ2020}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2017-10-06][SKZ2020][KR].png?raw=true}
+{Stray Kids}{2018-03-25}{SKZ2020}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2018-03-25][SKZ2020][KR].png?raw=true}
 {Stray Kids}{2020-06-17}{GO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2020-06-17][GO][KR].png?raw=true}
 {Stray Kids}{2020-09-14}{In Life}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2020-09-14][In Life][KR].png?raw=true}
 {Stray Kids}{2021-08-23}{NOEASY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Stray Kids][2021-08-23][NOEASY][KR].jpeg?raw=true}
@@ -664,6 +666,7 @@
 {TAEMIN (SHINee)}{2020-11-09}{Never Gonna Dance Again Act 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2020-11-09][Never Gonna Dance Again Act 2][KR].png?raw=true}
 {TAEMIN (SHINee)}{2021-05-18}{Advice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2021-05-18][Advice][KR].jpg?raw=true}
 {TAEMIN (SHINee)}{2023-10-30}{Guilty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2023-10-30][Guilty][KR].jpg?raw=true}
+{Taeyang (BIGBANG)}{2014-06-03}{Rise}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyang (BIGBANG)][2014-06-03][Rise][KR].jpg?raw=true}
 {Taeyeon (SNSD)}{2021-07-06}{Weekend}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon (SNSD)][2021-07-06][Weekend][KR].jfif?raw=true}
 {Taeyeon (SNSD)}{2022-02-14}{INVU}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon (SNSD)][2022-02-14][INVU][KR].jfif?raw=true}
 {TAEYONG (NCT 127)}{2023-06-05}{SHALALA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEYONG (NCT 127)][2023-06-05][SHALALA][KR].jpg?raw=true}
