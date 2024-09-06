@@ -667,6 +667,9 @@
 {TAEMIN (SHINee)}{2021-05-18}{Advice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2021-05-18][Advice][KR].jpg?raw=true}
 {TAEMIN (SHINee)}{2023-10-30}{Guilty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEMIN (SHINee)][2023-10-30][Guilty][KR].jpg?raw=true}
 {Taeyang (BIGBANG)}{2014-06-03}{Rise}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyang (BIGBANG)][2014-06-03][Rise][KR].jpg?raw=true}
+{Taeyang (BIGBANG)}{2023-04-25}{Shoong!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyang (BIGBANG)][2023-04-25][Shoong!][KR].jpg?raw=true}
+{Taeyeon (SNSD)}{2016-06-28}{Why}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon (SNSD)][2016-06-28][Why][KR].jpg?raw=true}
+{Taeyeon (SNSD)}{2018-10-28}{Purpose}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon (SNSD)][2018-10-28][Purpose][KR].png?raw=true}
 {Taeyeon (SNSD)}{2021-07-06}{Weekend}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon (SNSD)][2021-07-06][Weekend][KR].jfif?raw=true}
 {Taeyeon (SNSD)}{2022-02-14}{INVU}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon (SNSD)][2022-02-14][INVU][KR].jfif?raw=true}
 {TAEYONG (NCT 127)}{2023-06-05}{SHALALA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEYONG (NCT 127)][2023-06-05][SHALALA][KR].jpg?raw=true}
