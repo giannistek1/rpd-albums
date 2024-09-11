@@ -751,6 +751,7 @@
 {TXT}{2023-09-15}{Back for More with Anitta}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2023-09-15][Back for More with Anitta][EN].jpg?raw=true}
 {TXT}{2023-10-13}{The Name Chapter FREEFALL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2023-10-13][The Name Chapter FREEFALL][KR].png?raw=true}
 {TXT}{2024-04-01}{minisode 3 TOMORROW}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TXT][2024-04-01][minisode 3 TOMORROW][KR].jpg?raw=true}
+{TZUYU (Twice)}{2024-09-06}{abouTZU}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TZUYU (Twice)][2024-09-06][abouTZU][KR].jpg?raw=true}
 {VICTON}{2019-11-04}{Nostalgia}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VICTON][2019-11-04][Nostalgia][KR].png?raw=true}
 {VICTON}{2021-01-11}{Voice The Future is Now}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VICTON][2021-01-11][Voice The Future is Now][KR].png?raw=true}
 {VIVIZ}{2022-02-09}{Beam of Prism}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[VIVIZ][2022-02-09][Beam of Prism][KR].jpg?raw=true}
