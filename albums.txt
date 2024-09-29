@@ -371,6 +371,12 @@
 {Jay Park}{2015-05-22}{Mommae}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jay Park][2015-05-22][Mommae][KR].png?raw=true}
 {JENNIE (Blackpink)}{2018-11-12}{SOLO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JENNIE (Blackpink)][2018-11-12][SOLO][KR].jpeg?raw=true}
 {JENNIE (Blackpink)}{2023-10-06}{You & Me}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[JENNIE (Blackpink)][2023-10-06][You & Me][EN].png?raw=true}
+{JEON SOMI}{2019-06-13}{Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JEON SOMI][2019-06-13][Birthday][KR].jpg?raw=true}
+{JEON SOMI}{2020-07-22}{What You Waiting For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JEON SOMI][2020-07-22][What You Waiting For][KR].jpg?raw=true}
+{JEON SOMI}{2021-08-02}{Dumb Dumb}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JEON SOMI][2021-08-02][Dumb Dumb][KR].jpg?raw=true}
+{JEON SOMI}{2021-10-29}{XOXO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JEON SOMI][2021-10-29][XOXO][KR].jpeg?raw=true}
+{JEON SOMI}{2023-08-07}{Game Plan}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JEON SOMI][2023-08-07][Game Plan][KR].jpg?raw=true}
+{JEON SOMI}{2024-08-02}{Ice Cream}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JEON SOMI][2024-08-02][Ice Cream][KR].jpg?raw=true}
 {Jessi}{2020-07-30}{Nuna}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2020-07-30][Nuna][KR].jpg?raw=true}
 {Jessi}{2021-03-17}{What Type of X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2021-03-17][What Type of X][KR].jfif?raw=true}
 {Jessi}{2021-10-12}{Cold Blooded}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Jessi][2021-10-12][Cold Blooded][KR].jfif?raw=true}
@@ -638,10 +644,6 @@
 {SISTAR}{2014-07-21}{Touch N Move}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SISTAR][2014-07-21][Touch N Move][KR].png?raw=true}
 {Solar (Mamamoo)}{2020-04-23}{Spit It Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (Mamamoo)][2020-04-23][Spit It Out][KR].webp?raw=true}
 {Solar (Mamamoo)}{2024-04-30}{COLOURS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Solar (Mamamoo)][2024-04-30][COLOURS][KR].jpg?raw=true}
-{SOMI}{2019-06-13}{Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2019-06-13][Birthday][KR].jpg?raw=true}
-{SOMI}{2020-07-22}{What You Waiting For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2020-07-22][What You Waiting For][KR].jpg?raw=true}
-{SOMI}{2021-08-02}{Dumb Dumb}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2021-08-02][Dumb Dumb][KR].jpg?raw=true}
-{SOMI}{2021-10-29}{XOXO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SOMI][2021-10-29][XOXO][KR].jpeg?raw=true}
 {Sparkling}{2021-05-28}{Diamond (Imitation X SPARKLING)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Sparkling][2021-05-28][Diamond (Imitation X SPARKLING)][KR].jfif?raw=true}
 {STAYC}{2020-11-12}{Star To A Young Culture}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2020-11-12][Star To A Young Culture][KR].jpg?raw=true}
 {STAYC}{2021-04-08}{STAYDOM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[STAYC][2021-04-08][STAYDOM][KR].jpg?raw=true}
