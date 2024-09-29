@@ -838,6 +838,9 @@
 {xikers}{2024-03-08}{HOUSE OF TRICKY Trial And Error}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2024-03-08][HOUSE OF TRICKY Trial And Error][KR].jpg?raw=true}
 {xikers}{2024-08-07}{Tsuki (Lunatic)}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2024-08-07][Tsuki (Lunatic)][JP].webp?raw=true}
 {Yena}{2022-01-17}{Smiley}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yena][2022-01-17][Smiley][KR].jfif?raw=true}
+{YENA}{2022-08-03}{SMARTPHONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA][2022-08-03][SMARTPHONE][KR].jpg?raw=true}
+{YENA}{2023-06-27}{HATE XX}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA][2023-06-27][HATE XX][KR].jpg?raw=true}
+{YENA}{2024-01-15}{GOOD MORNING}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA][2024-01-15][GOOD MORNING][KR].png?raw=true}
 {YOUNG POSSE}{2023-10-18}{MACARONI CHEESE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2023-10-18][MACARONI CHEESE][KR].png?raw=true}
 {YOUNG POSSE}{2024-02-04}{YOUNG POSSE UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2024-02-04][YOUNG POSSE UP][KR].png?raw=true}
 {YOUNG POSSE}{2024-03-20}{XXL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2024-03-20][XXL][KR].jpg?raw=true}
