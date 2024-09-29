@@ -156,6 +156,9 @@
 {CHUNG HA}{2021-01-17}{Querencia}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CHUNG HA][2021-01-17][Querencia][KR].jpg?raw=true}
 {CHUNG HA}{2021-11-27}{Dream of You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CHUNG HA][2021-11-27][Dream of You][KR].jfif?raw=true}
 {CHUNG HA}{2021-11-29}{Killing Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CHUNG HA][2021-11-29][Killing Me][KR].jfif?raw=true}
+{CHUNG HA}{2022-07-11}{Bare&Rare}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CHUNG HA][2022-07-11][Bare&Rare][KR].jpg?raw=true}
+{CHUNG HA}{2024-03-11}{EENIE MEENIE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CHUNG HA][2024-03-11][EENIE MEENIE][KR].jpg?raw=true}
+{CHUNG HA}{2024-08-30}{Algorithm}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CHUNG HA][2024-08-30][Algorithm][KR].jpg?raw=true}
 {CIX}{2019-07-23}{HELLO Chapter 1. Hello, Stranger}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2019-07-23][HELLO Chapter 1. Hello, Stranger][KR].png?raw=true}
 {CIX}{2019-11-19}{HELLO Chapter 2. Hello, Strange Place}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2019-11-19][HELLO Chapter 2. Hello, Strange Place][KR].png?raw=true}
 {CIX}{2020-10-27}{HELLO Chapter 3. Hello, Strange Time}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2020-10-27][HELLO Chapter 3. Hello, Strange Time][KR].png?raw=true}
@@ -345,6 +348,7 @@
 {IVE}{2022-04-05}{Love Dive}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2022-04-05][Love Dive][KR].webp?raw=true}
 {IVE}{2022-08-22}{After LIKE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2022-08-22][After LIKE][KR].png?raw=true}
 {IVE}{2023-04-10}{Ive IVE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-04-10][Ive IVE][KR].jpg?raw=true}
+{IVE}{2023-05-09}{WAVE}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-05-09][WAVE][JP].png?raw=true}
 {IVE}{2023-05-27}{KITSCH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-05-27][KITSCH][KR].jpg?raw=true}
 {IVE}{2023-07-13}{I WANT (IVE x PEPSI)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-07-13][I WANT (IVE x PEPSI)][KR].webp?raw=true}
 {IVE}{2023-10-06}{Off the Record}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2023-10-06][Off the Record][KR].jpg?raw=true}
@@ -352,6 +356,7 @@
 {IVE}{2024-01-19}{All Night}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-01-19][All Night][EN].jpg?raw=true}
 {IVE}{2024-04-29}{IVE SWITCH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-04-29][IVE SWITCH][KR].webp?raw=true}
 {IVE}{2024-06-28}{SUMMER FESTA (IVE x PEPSI)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-06-28][SUMMER FESTA (IVE x PEPSI)][KR].jpg?raw=true}
+{IVE}{2024-08-07}{CRUSH}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[IVE][2024-08-07][CRUSH][JP].jpg?raw=true}
 {IZ ONE}{2018-10-19}{COLOR IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2018-10-19][COLOR IZ][KR].jpg?raw=true}
 {IZ ONE}{2019-04-01}{HEART IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2019-04-01][HEART IZ][KR].png?raw=true}
 {IZ ONE}{2020-02-17}{BLOOM IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[IZ ONE][2020-02-17][BLOOM IZ][KR].png?raw=true}
@@ -379,6 +384,7 @@
 {JUST B}{2021-10-27}{Just Beat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[JUST B][2021-10-27][Just Beat][KR].jfif?raw=true}
 {KAI (EXO)}{2020-11-30}{KAI}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI (EXO)][2020-11-30][KAI][KR].png?raw=true}
 {KAI (EXO)}{2021-11-30}{Peaches}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI (EXO)][2021-11-30][Peaches][KR].jpg?raw=true}
+{KAI (EXO)}{2023-03-13}{ROVER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI (EXO)][2023-03-13][ROVER][KR].jpg?raw=true}
 {KAI, SEULGI, JENO, KARINA}{2022-12-26}{2022 Winter SMTOWN SMCU PALACE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KAI, SEULGI, JENO, KARINA][2022-12-26][2022 Winter SMTOWN SMCU PALACE][KR].jpg?raw=true}
 {KARD}{2016-12-13}{Oh NaNa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2016-12-13][Oh NaNa][KR].png?raw=true}
 {KARD}{2017-02-16}{Dont Recall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2017-02-16][Dont Recall][KR].png?raw=true}
@@ -406,6 +412,7 @@
 {LE SSERAFIM}{2023-06-27}{Eve, Psyche & The Bluebeards Wife}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SSERAFIM][2023-06-27][Eve, Psyche & The Bluebeards Wife][KR].jpg?raw=true}
 {LE SSERAFIM}{2023-10-27}{Perfect Night}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SSERAFIM][2023-10-27][Perfect Night][KR].jpg?raw=true}
 {LE SSERAFIM}{2024-02-19}{EASY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SSERAFIM][2024-02-19][EASY][KR].webp?raw=true}
+{LE SSERAFIM}{2024-08-30}{CRAZY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LE SSERAFIM][2024-08-30][CRAZY][KR].jpg?raw=true}
 {Lee Jinhyuk (UP10TION)}{2019-11-04}{S.O.L}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Lee Jinhyuk (UP10TION)][2019-11-04][S.O.L][KR].jpg?raw=true}
 {LISA (Blackpink)}{2021-09-10}{LALISA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LISA (Blackpink)][2021-09-10][LALISA][KR].jpg?raw=true}
 {LISA (Blackpink)}{2024-06-27}{ROCKSTAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LISA (Blackpink)][2024-06-27][ROCKSTAR][KR].jpg?raw=true}
