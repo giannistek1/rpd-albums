@@ -504,6 +504,10 @@
 {NCT Dream}{2020-04-29}{Reload}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2020-04-29][Reload][KR].jpg?raw=true}
 {NCT Dream}{2021-05-10}{Hot Sauce}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2021-05-10][Hot Sauce][KR].jpg?raw=true}
 {NCT Dream}{2021-06-28}{Hello Future}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2021-06-28][Hello Future][KR].jpg?raw=true}
+{NCT Dream}{2022-03-28}{Glitch Mode}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2022-03-28][Glitch Mode][KR].jpg?raw=true}
+{NCT Dream}{2022-05-30}{Beatbox}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2022-05-30][Beatbox][KR].webp?raw=true}
+{NCT Dream}{2022-12-16}{Candy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2022-12-16][Candy][KR].jpg?raw=true}
+{NCT Dream}{2023-07-17}{ISTJ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2023-07-17][ISTJ][KR].png?raw=true}
 {NCT Dream}{2024-03-24}{Dream()scape}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT Dream][2024-03-24][Dream()scape][KR].webp?raw=true}
 {NCT U}{2018-03-04}{NCT 2018 Empathy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT U][2018-03-04][NCT 2018 Empathy][KR].jpg?raw=true}
 {NCT U}{2020-10-12}{NCT Resonance Pt. 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[NCT U][2020-10-12][NCT Resonance Pt. 1][KR].png?raw=true}
