@@ -836,7 +836,9 @@
 {XG}{2023-08-04}{TGIF}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-08-04][TGIF][JP].jpg?raw=true}
 {XG}{2023-08-23}{NEW DANCE}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-08-23][NEW DANCE][JP].jpg?raw=true}
 {XG}{2023-09-27}{NEW DNA}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2023-09-27][NEW DNA][JP].jpg?raw=true}
+{XG}{2024-04-12}{UNDEFEATED}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2024-04-12][UNDEFEATED][JP].jpg?raw=true}
 {XG}{2024-05-21}{Woke Up}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2024-05-21][Woke Up][JP].jpg?raw=true}
+{XG}{2024-07-26}{Something Aint Right}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[XG][2024-07-26][Something Aint Right][JP].jpg?raw=true}
 {xikers}{2023-03-30}{HOUSE OF TRICKY Doorbell Ringing}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2023-03-30][HOUSE OF TRICKY Doorbell Ringing][KR].jpg?raw=true}
 {xikers}{2023-08-02}{HOUSE OF TRICKY HOW TO PLAY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2023-08-02][HOUSE OF TRICKY HOW TO PLAY][KR].jpg?raw=true}
 {xikers}{2024-03-08}{HOUSE OF TRICKY Trial And Error}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[xikers][2024-03-08][HOUSE OF TRICKY Trial And Error][KR].jpg?raw=true}
