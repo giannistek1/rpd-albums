@@ -14,6 +14,7 @@
 {(G)I-DLE}{2024-01-29}{2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-01-29][2][KR].jpg?raw=true}
 {(G)I-DLE}{2024-07-08}{I Sway}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-07-08][I Sway][KR].jpg?raw=true}
 {2NE1}{2011-07-24}{Im The Best}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2011-07-24][Im The Best][KR].png?raw=true}
+{2NE1}{2012-07-05}{I Love You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2012-07-05][I Love You][KR].jpg?raw=true}
 {2NE1}{2014-02-26}{Crush}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2014-02-26][Crush][KR].jpg?raw=true}
 {2PM}{2015-06-15}{No. 5}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2PM][2015-06-15][No. 5][KR].jfif?raw=true}
 {3YE}{2019-05-21}{DMT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[3YE][2019-05-21][DMT][KR].png?raw=true}
@@ -610,6 +611,7 @@
 {RIIZE}{2024-04-03}{Siren}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-04-03][Siren][KR].jpg?raw=true}
 {RIIZE}{2024-04-18}{Impossible}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-04-18][Impossible][KR].jpg?raw=true}
 {RIIZE}{2024-06-17}{RIIZING}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-06-17][RIIZING][KR].jpg?raw=true}
+{RIIZE}{2024-09-05}{Lucky}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/[RIIZE][2024-09-05][Lucky][JP].jpg?raw=true}
 {Rose (Blackpink)}{2021-03-12}{-R-}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Rose (Blackpink)][2021-03-12][-R-][KR].jpg?raw=true}
 {SECRET NUMBER}{2020-05-19}{Who Dis}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-05-19][Who Dis][KR].jpeg?raw=true}
 {SECRET NUMBER}{2020-11-04}{Got That Boom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[SECRET NUMBER][2020-11-04][Got That Boom][KR].jpeg?raw=true}
@@ -709,6 +711,7 @@
 {Taeyeon (SNSD)}{2021-07-06}{Weekend}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon (SNSD)][2021-07-06][Weekend][KR].jfif?raw=true}
 {Taeyeon (SNSD)}{2022-02-14}{INVU}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Taeyeon (SNSD)][2022-02-14][INVU][KR].jfif?raw=true}
 {TAEYONG (NCT 127)}{2023-06-05}{SHALALA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEYONG (NCT 127)][2023-06-05][SHALALA][KR].jpg?raw=true}
+{TAEYONG (NCT)}{2024-02-26}{TAP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TAEYONG (NCT)][2024-02-26][TAP][KR].jpg?raw=true}
 {Teen Top}{2013-02-25}{No. 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-02-25][No. 1][KR].jfif?raw=true}
 {Teen Top}{2013-10-23}{Addition}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Teen Top][2013-10-23][Addition][KR].jfif?raw=true}
 {TEN & YANGYANG (WayV)}{2021-08-17}{Low Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[TEN & YANGYANG (WayV)][2021-08-17][Low Low][KR].jpeg?raw=true}
