@@ -13,6 +13,7 @@
 {(G)I-DLE}{2024-01-22}{Wife}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-01-22][Wife][KR].jpg?raw=true}
 {(G)I-DLE}{2024-01-29}{2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-01-29][2][KR].jpg?raw=true}
 {(G)I-DLE}{2024-07-08}{I Sway}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[(G)I-DLE][2024-07-08][I Sway][KR].jpg?raw=true}
+{2NE1}{2008-07-08}{2NE1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2008-07-08][2NE1][KR].jpg?raw=true}
 {2NE1}{2011-07-24}{Im The Best}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2011-07-24][Im The Best][KR].png?raw=true}
 {2NE1}{2012-07-05}{I Love You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2012-07-05][I Love You][KR].jpg?raw=true}
 {2NE1}{2014-02-26}{Crush}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[2NE1][2014-02-26][Crush][KR].jpg?raw=true}
@@ -403,6 +404,10 @@
 {KARD}{2019-09-22}{Dumb Litty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2019-09-22][Dumb Litty][KR].png?raw=true}
 {KARD}{2020-02-12}{Red Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2020-02-12][Red Moon][KR].png?raw=true}
 {KARD}{2020-08-26}{Way with words}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2020-08-26][Way with words][KR].png?raw=true}
+{KARD}{2022-06-22}{RE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2022-06-22][RE][KR].png?raw=true}
+{KARD}{2023-04-10}{Without You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2023-04-10][Without You][KR].jpg?raw=true}
+{KARD}{2023-05-23}{ICKY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2023-05-23][ICKY][KR].jpg?raw=true}
+{KARD}{2023-11-14}{Where To Now (Part.1 Yellow Light)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARD][2023-11-14][Where To Now (Part.1 Yellow Light)][KR].jpg?raw=true}
 {KARINA (aespa)}{2020-11-17}{aespa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[KARINA (aespa)][2020-11-17][aespa][KR].jpg?raw=true}
 {KATSEYE}{2024-06-28}{Debut}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[KATSEYE][2024-06-28][Debut][EN].jpg?raw=true}
 {KATSEYE}{2024-07-26}{Touch}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/[KATSEYE][2024-07-26][Touch][EN].jpg?raw=true}
