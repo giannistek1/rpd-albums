@@ -545,6 +545,7 @@
 {OH MY GIRL}{2019-05-08}{The Fifth Season}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OH MY GIRL][2019-05-08][The Fifth Season][KR].png?raw=true}
 {OH MY GIRL}{2020-04-27}{Nonstop}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OH MY GIRL][2020-04-27][Nonstop][KR].png?raw=true}
 {OH MY GIRL}{2021-05-10}{Dear OHMYGIRL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OH MY GIRL][2021-05-10][Dear OHMYGIRL][KR].jpg?raw=true}
+{Oh!GG}{2018-09-05}{Lil Touch}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Oh!GG][2018-09-05][Lil Touch][KR].jpg?raw=true}
 {OMEGA X}{2021-06-30}{VAMOS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[OMEGA X][2021-06-30][VAMOS][KR].jpeg?raw=true}
 {ONEUS}{2019-01-09}{Light Us}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2019-01-09][Light Us][KR].png?raw=true}
 {ONEUS}{2019-05-29}{Raise Us}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[ONEUS][2019-05-29][Raise Us][KR].png?raw=true}
