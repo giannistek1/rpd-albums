@@ -436,6 +436,7 @@
 {LOONA}{2020-10-19}{12 00}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2020-10-19][12 00][KR].jfif?raw=true}
 {LOONA}{2021-06-18}{&}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2021-06-18][&][KR].jpg?raw=true}
 {LOONA}{2021-09-15}{StarSeed}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LOONA][2021-09-15][StarSeed][KR].jfif?raw=true}
+{LUCAS (NCT)}{2024-04-01}{Renegade}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[LUCAS (NCT)][2024-04-01][Renegade][KR].jpg?raw=true}
 {Mamamoo}{2014-06-18}{Hello}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Mamamoo][2014-06-18][Hello][KR].jpg?raw=true}
 {Mamamoo}{2015-06-19}{Pink Funky}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Mamamoo][2015-06-19][Pink Funky][KR].jpg?raw=true}
 {Mamamoo}{2016-11-07}{Memory}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Mamamoo][2016-11-07][Memory][KR].jpg?raw=true}
