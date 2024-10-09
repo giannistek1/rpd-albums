@@ -877,6 +877,7 @@
 {YENA (IZ ONE)}{2022-08-03}{SMARTPHONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA (IZ ONE)][2022-08-03][SMARTPHONE][KR].jpg?raw=true}
 {YENA (IZ ONE)}{2023-06-27}{HATE XX}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA (IZ ONE)][2023-06-27][HATE XX][KR].jpg?raw=true}
 {YENA (IZ ONE)}{2024-01-15}{GOOD MORNING}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA (IZ ONE)][2024-01-15][GOOD MORNING][KR].png?raw=true}
+{Yeonjun (TXT)}{2024-09-19}{GGUM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yeonjun (TXT)][2024-09-19][GGUM][KR].jpg?raw=true}
 {YOUNG POSSE}{2023-10-18}{MACARONI CHEESE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2023-10-18][MACARONI CHEESE][KR].png?raw=true}
 {YOUNG POSSE}{2024-02-04}{YOUNG POSSE UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2024-02-04][YOUNG POSSE UP][KR].png?raw=true}
 {YOUNG POSSE}{2024-03-20}{XXL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2024-03-20][XXL][KR].jpg?raw=true}
