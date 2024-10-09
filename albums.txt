@@ -95,6 +95,7 @@
 {BABYMONSTER}{2024-04-01}{BABYMONS7ER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BABYMONSTER][2024-04-01][BABYMONS7ER][KR].jpg?raw=true}
 {BABYMONSTER}{2024-07-01}{FOREVER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BABYMONSTER][2024-07-01][FOREVER][KR].jpg?raw=true}
 {BADVILLAIN}{2024-06-03}{OVERSTEP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BADVILLAIN][2024-06-03][OVERSTEP][KR].jpg?raw=true}
+{BADVILLAIN}{2024-06-24}{HURRICANE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BADVILLAIN][2024-06-24][HURRICANE][KR].jpg?raw=true}
 {Baekhyun (EXO)}{2020-05-25}{Delight}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Baekhyun (EXO)][2020-05-25][Delight][KR].jpeg?raw=true}
 {BEAST}{2009-10-14}{Beast Is The B2ST}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2009-10-14][Beast Is The B2ST][KR].jpg?raw=true}
 {BEAST}{2010-03-01}{Shock Of The New Era}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[BEAST][2010-03-01][Shock Of The New Era][KR].jpg?raw=true}
@@ -843,6 +844,7 @@
 {Weki Meki}{2020-02-20}{DAZZLE DAZZLE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Weki Meki][2020-02-20][DAZZLE DAZZLE][KR].png?raw=true}
 {Weki Meki}{2020-06-18}{Hide and Seek}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Weki Meki][2020-06-18][Hide and Seek][KR].png?raw=true}
 {Weki Meki}{2020-10-08}{NEW RULES}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Weki Meki][2020-10-08][NEW RULES][KR].png?raw=true}
+{Wheein (Mamamoo)}{2023-10-12}{In The Mood}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Wheein (Mamamoo)][2023-10-12][In The Mood][KR].jpg?raw=true}
 {WINNER}{2017-04-04}{Fate Number For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WINNER][2017-04-04][Fate Number For][KR].jpg?raw=true}
 {WINNER}{2017-08-04}{Our Twenty For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WINNER][2017-08-04][Our Twenty For][KR].jfif?raw=true}
 {WINNER}{2018-04-04}{EVERYD4Y}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[WINNER][2018-04-04][EVERYD4Y][KR].jfif?raw=true}
