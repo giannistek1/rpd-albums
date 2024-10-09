@@ -303,6 +303,7 @@
 {HWASA (Mamamoo)}{2021-11-24}{Guilty Pleasure}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2021-11-24][Guilty Pleasure][KR].jfif?raw=true}
 {HWASA (Mamamoo)}{2023-09-06}{I Love My Body}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2023-09-06][I Love My Body][KR].webp?raw=true}
 {HWASA (Mamamoo)}{2023-10-04}{Chili}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2023-10-04][Chili][KR].jpg?raw=true}
+{HWASA (Mamamoo)}{2024-09-19}{O!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HWASA (Mamamoo)][2024-09-19][O!][KR].jpg?raw=true}
 {HYOLYN (SISTAR)}{2018-04-23}{Dally}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN (SISTAR)][2018-04-23][Dally][KR].jpg?raw=true}
 {HYOLYN (SISTAR)}{2018-07-20}{See Sea}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN (SISTAR)][2018-07-20][See Sea][KR].jfif?raw=true}
 {HYOLYN (SISTAR)}{2022-01-12}{Layin Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[HYOLYN (SISTAR)][2022-01-12][Layin Low][KR].jfif?raw=true}
