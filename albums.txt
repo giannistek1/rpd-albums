@@ -175,6 +175,11 @@
 {CIX}{2019-11-19}{HELLO Chapter 2. Hello, Strange Place}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2019-11-19][HELLO Chapter 2. Hello, Strange Place][KR].png?raw=true}
 {CIX}{2020-10-27}{HELLO Chapter 3. Hello, Strange Time}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2020-10-27][HELLO Chapter 3. Hello, Strange Time][KR].png?raw=true}
 {CIX}{2021-02-02}{HELLO Chapter. Hello, Strange Dream}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CIX][2021-02-02][HELLO Chapter. Hello, Strange Dream][KR].png?raw=true}
+{CL (2NE1)}{2013-05-28}{The Baddest Female}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CL (2NE1)][2013-05-28][The Baddest Female][KR].jpg?raw=true}
+{CL (2NE1)}{2015-11-22}{Hello Bitches}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CL (2NE1)][2015-11-22][Hello Bitches][KR].jpg?raw=true}
+{CL (2NE1)}{2020-10-29}{+HWA+}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CL (2NE1)][2020-10-29][+HWA+][KR].jpg?raw=true}
+{CL (2NE1)}{2021-08-24}{SPICY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CL (2NE1)][2021-08-24][SPICY][KR].webp?raw=true}
+{CL (2NE1)}{2021-10-20}{Alpha}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CL (2NE1)][2021-10-20][Alpha][KR].jpg?raw=true}
 {CLC}{2017-01-17}{CryStyle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CLC][2017-01-17][CryStyle][KR].png?raw=true}
 {CLC}{2018-02-22}{Black Dress}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CLC][2018-02-22][Black Dress][KR].png?raw=true}
 {CLC}{2019-01-30}{No.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[CLC][2019-01-30][No.1][KR].jpg?raw=true}
