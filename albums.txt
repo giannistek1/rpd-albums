@@ -270,6 +270,10 @@
 {f(x)}{2013-07-09}{Pink Tape}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2013-07-09][Pink Tape][KR].webp?raw=true}
 {f(x)}{2014-07-07}{Red Light}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2014-07-07][Red Light][KR].jpg?raw=true}
 {f(x)}{2015-10-27}{4 Walls}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[f(x)][2015-10-27][4 Walls][KR].jpg?raw=true}
+{FIFTY FIFTY}{2022-11-18}{THE FIFTY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[FIFTY FIFTY][2022-11-18][THE FIFTY][KR].jpg?raw=true}
+{FIFTY FIFTY}{2023-02-24}{The Beginning Cupid}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[FIFTY FIFTY][2023-02-24][The Beginning Cupid][KR].jpg?raw=true}
+{FIFTY FIFTY}{2024-09-20}{Love Tune}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[FIFTY FIFTY][2024-09-20][Love Tune][KR].jpg?raw=true}
+{FIFTY FIFTY}{204-08-30}{Starry Night}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[FIFTY FIFTY][204-08-30][Starry Night][KR].jpg?raw=true}
 {fromis_9}{2018-06-05}{To. Day}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[fromis_9][2018-06-05][To. Day][KR].jpeg?raw=true}
 {fromis_9}{2018-10-10}{From.9}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[fromis_9][2018-10-10][From.9][KR].jpeg?raw=true}
 {fromis_9}{2019-06-04}{FUN FACTORY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[fromis_9][2019-06-04][FUN FACTORY][KR].jpeg?raw=true}
@@ -894,6 +898,7 @@
 {YENA (IZ ONE)}{2022-08-03}{SMARTPHONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA (IZ ONE)][2022-08-03][SMARTPHONE][KR].jpg?raw=true}
 {YENA (IZ ONE)}{2023-06-27}{HATE XX}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA (IZ ONE)][2023-06-27][HATE XX][KR].jpg?raw=true}
 {YENA (IZ ONE)}{2024-01-15}{GOOD MORNING}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA (IZ ONE)][2024-01-15][GOOD MORNING][KR].png?raw=true}
+{YENA}{2024-09-30}{NEMONEMO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YENA][2024-09-30][NEMONEMO][KR].jpg?raw=true}
 {Yeonjun (TXT)}{2024-09-19}{GGUM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[Yeonjun (TXT)][2024-09-19][GGUM][KR].jpg?raw=true}
 {YOUNG POSSE}{2023-10-18}{MACARONI CHEESE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2023-10-18][MACARONI CHEESE][KR].png?raw=true}
 {YOUNG POSSE}{2024-02-04}{YOUNG POSSE UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/[YOUNG POSSE][2024-02-04][YOUNG POSSE UP][KR].png?raw=true}
