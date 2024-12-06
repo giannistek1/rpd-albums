@@ -48,6 +48,7 @@
 {aespa}{2021-10-05}{Savage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2021-10-05%5D%5BSavage%5D%5BKR%5D.jpg?raw=true}
 {aespa}{2021-12-20}{Dreams Come True}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2021-12-20%5D%5BDreams Come True%5D%5BKR%5D.jfif?raw=true}
 {aespa}{2022-06-01}{Illusion}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2022-06-01%5D%5BIllusion%5D%5BKR%5D.jpg?raw=true}
+{aespa}{2022-06-24}{Lifes Too Short}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2022-06-24%5D%5BLifes Too Short%5D%5BKR%5D.jpg?raw=true}
 {aespa}{2022-07-08}{Girls}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2022-07-08%5D%5BGirls%5D%5BKR%5D.jpg?raw=true}
 {aespa}{2023-03-30}{Hold On Tight}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2023-03-30%5D%5BHold On Tight%5D%5BEN%5D.jpg?raw=true}
 {aespa}{2023-05-08}{MY WORLD}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2023-05-08%5D%5BMY WORLD%5D%5BKR%5D.png?raw=true}
@@ -56,6 +57,7 @@
 {aespa}{2024-05-13}{Supernova}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2024-05-13%5D%5BSupernova%5D%5BKR%5D.jpg?raw=true}
 {aespa}{2024-05-27}{Armageddon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2024-05-27%5D%5BArmageddon%5D%5BKR%5D.jpg?raw=true}
 {aespa}{2024-07-03}{Hot Mess}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2024-07-03%5D%5BHot Mess%5D%5BJP%5D.jpg?raw=true}
+{aespa}{2024-10-21}{Whiplash}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2024-10-21%5D%5BWhiplash%5D%5BKR%5D.jpg?raw=true}
 {Agust D (BTS)}{2020-05-22}{D-2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BAgust D (BTS)%5D%5B2020-05-22%5D%5BD-2%5D%5BKR%5D.jpg?raw=true}
 {Ailee}{2012-10-16}{Invitation}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BAilee%5D%5B2012-10-16%5D%5BInvitation%5D%5BKR%5D.jpg?raw=true}
 {AOA}{2014-01-16}{Miniskirt}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BAOA%5D%5B2014-01-16%5D%5BMiniskirt%5D%5BKR%5D.jpg?raw=true}
@@ -552,6 +554,7 @@
 {NewJeans}{2023-07-21}{Get Up}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNewJeans%5D%5B2023-07-21%5D%5BGet Up%5D%5BKR%5D.png?raw=true}
 {NewJeans}{2024-05-24}{How Sweet}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNewJeans%5D%5B2024-05-24%5D%5BHow Sweet%5D%5BKR%5D.jpg?raw=true}
 {NewJeans}{2024-06-21}{Supernatural}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNewJeans%5D%5B2024-06-21%5D%5BSupernatural%5D%5BJP%5D.png?raw=true}
+{NINGNING (aespa)}{2020-11-17}{aespa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNINGNING (aespa)%5D%5B2020-11-17%5D%5Baespa%5D%5BKR%5D.jpg?raw=true}
 {NMIXX}{2022-02-22}{Ad Mare}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2022-02-22%5D%5BAd Mare%5D%5BKR%5D.webp?raw=true}
 {NMIXX}{2022-09-19}{ENTWURF}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2022-09-19%5D%5BENTWURF%5D%5BKR%5D.png?raw=true}
 {NMIXX}{2023-03-13}{Young, Dumb, Stupid}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2023-03-13%5D%5BYoung, Dumb, Stupid%5D%5BKR%5D.jpg?raw=true}
@@ -872,6 +875,7 @@
 {WINNER}{2018-04-04}{EVERYD4Y}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWINNER%5D%5B2018-04-04%5D%5BEVERYD4Y%5D%5BKR%5D.jfif?raw=true}
 {WINNER}{2018-12-19}{Millions}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWINNER%5D%5B2018-12-19%5D%5BMillions%5D%5BKR%5D.jfif?raw=true}
 {WINNER}{2019-05-15}{We}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWINNER%5D%5B2019-05-15%5D%5BWe%5D%5BKR%5D.jfif?raw=true}
+{WINTER (aespa)}{2020-11-17}{aespa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWINTER (aespa)%5D%5B2020-11-17%5D%5Baespa%5D%5BKR%5D.jpg?raw=true}
 {WJSN CHOCOME}{2020-10-07}{Hmph!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWJSN CHOCOME%5D%5B2020-10-07%5D%5BHmph!%5D%5BKR%5D.jpg?raw=true}
 {WJSN CHOCOME}{2022-01-05}{Super Yuppers!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWJSN CHOCOME%5D%5B2022-01-05%5D%5BSuper Yuppers!%5D%5BKR%5D.jfif?raw=true}
 {WJSN THE BLACK}{2021-05-12}{My Attitude}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWJSN THE BLACK%5D%5B2021-05-12%5D%5BMy Attitude%5D%5BKR%5D.jfif?raw=true}
