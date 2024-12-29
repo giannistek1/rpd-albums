@@ -902,7 +902,7 @@
 {YENA (IZ ONE)}{2022-08-03}{SMARTPHONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYENA (IZ ONE)%5D%5B2022-08-03%5D%5BSMARTPHONE%5D%5BKR%5D.jpg?raw=true}
 {YENA (IZ ONE)}{2023-06-27}{HATE XX}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYENA (IZ ONE)%5D%5B2023-06-27%5D%5BHATE XX%5D%5BKR%5D.jpg?raw=true}
 {YENA (IZ ONE)}{2024-01-15}{GOOD MORNING}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYENA (IZ ONE)%5D%5B2024-01-15%5D%5BGOOD MORNING%5D%5BKR%5D.png?raw=true}
-{YENA}{2024-09-30}{NEMONEMO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYENA%5D%5B2024-09-30%5D%5BNEMONEMO%5D%5BKR%5D.jpg?raw=true}
+{YENA (IZ ONE)}{2024-09-30}{NEMONEMO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYENA (IZ ONE)%5D%5B2024-09-30%5D%5BNEMONEMO%5D%5BKR%5D.jpg?raw=true}
 {Yeonjun (TXT)}{2024-09-19}{GGUM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYeonjun (TXT)%5D%5B2024-09-19%5D%5BGGUM%5D%5BKR%5D.jpg?raw=true}
 {YOUNG POSSE}{2023-10-18}{MACARONI CHEESE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYOUNG POSSE%5D%5B2023-10-18%5D%5BMACARONI CHEESE%5D%5BKR%5D.png?raw=true}
 {YOUNG POSSE}{2024-02-04}{YOUNG POSSE UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYOUNG POSSE%5D%5B2024-02-04%5D%5BYOUNG POSSE UP%5D%5BKR%5D.png?raw=true}
