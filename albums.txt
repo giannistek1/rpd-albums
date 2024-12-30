@@ -771,6 +771,7 @@
 {Triple H}{2017-05-01}{199X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTriple H%5D%5B2017-05-01%5D%5B199X%5D%5BKR%5D.png?raw=true}
 {Triple H}{2018-07-18}{REtro Futurism}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTriple H%5D%5B2018-07-18%5D%5BREtro Futurism%5D%5BKR%5D.png?raw=true}
 {Trouble Maker}{2011-12-01}{Trouble Maker}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2011-12-01%5D%5BTrouble Maker%5D%5BKR%5D.jfif?raw=true}
+{Trouble Maker}{2013-10-28}{Chemistry}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2013-10-28%5D%5BChemistry%5D%5BKR%5D.jpg?raw=true}
 {True Damage}{2019-11-10}{Giants}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrue Damage%5D%5B2019-11-10%5D%5BGiants%5D%5BKR%5D.jpeg?raw=true}
 {TVXQ}{2008-09-26}{Mirotic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTVXQ%5D%5B2008-09-26%5D%5BMirotic%5D%5BKR%5D.png?raw=true}
 {Twice}{2015-10-20}{The Story Begins}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2015-10-20%5D%5BThe Story Begins%5D%5BKR%5D.jpg?raw=true}
