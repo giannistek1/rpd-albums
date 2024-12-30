@@ -650,6 +650,7 @@
 {SECRET NUMBER}{2020-11-04}{Got That Boom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSECRET NUMBER%5D%5B2020-11-04%5D%5BGot That Boom%5D%5BKR%5D.jpeg?raw=true}
 {SECRET NUMBER}{2021-10-07}{Fire Saturday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSECRET NUMBER%5D%5B2021-10-07%5D%5BFire Saturday%5D%5BKR%5D.jpeg?raw=true}
 {SEO SOOJIN}{2024-05-23}{RIZZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSEO SOOJIN%5D%5B2024-05-23%5D%5BRIZZ%5D%5BKR%5D.jpg?raw=true}
+{Seulgi (Red Velvet)}{2022-10-04}{28 Reasons}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSeulgi (Red Velvet)%5D%5B2022-10-04%5D%5B28 Reasons%5D%5BKR%5D.png?raw=true}
 {Seventeen}{2015-05-29}{17 Carat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSeventeen%5D%5B2015-05-29%5D%5B17 Carat%5D%5BKR%5D.png?raw=true}
 {Seventeen}{2015-09-10}{Boys Be}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSeventeen%5D%5B2015-09-10%5D%5BBoys Be%5D%5BKR%5D.png?raw=true}
 {Seventeen}{2016-04-25}{Love & Letter}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSeventeen%5D%5B2016-04-25%5D%5BLove & Letter%5D%5BKR%5D.png?raw=true}
@@ -686,6 +687,7 @@
 {Solar (Mamamoo)}{2020-04-23}{Spit It Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSolar (Mamamoo)%5D%5B2020-04-23%5D%5BSpit It Out%5D%5BKR%5D.webp?raw=true}
 {Solar (Mamamoo)}{2024-04-30}{COLOURS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSolar (Mamamoo)%5D%5B2024-04-30%5D%5BCOLOURS%5D%5BKR%5D.jpg?raw=true}
 {Sparkling}{2021-05-28}{Diamond (Imitation X SPARKLING)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSparkling%5D%5B2021-05-28%5D%5BDiamond (Imitation X SPARKLING)%5D%5BKR%5D.jfif?raw=true}
+{Station Young}{2018-09-28}{Wow Thing}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BStation Young%5D%5B2018-09-28%5D%5BWow Thing%5D%5BKR%5D.jpg?raw=true}
 {STAYC}{2020-11-12}{Star To A Young Culture}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSTAYC%5D%5B2020-11-12%5D%5BStar To A Young Culture%5D%5BKR%5D.jpg?raw=true}
 {STAYC}{2021-04-08}{STAYDOM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSTAYC%5D%5B2021-04-08%5D%5BSTAYDOM%5D%5BKR%5D.jpg?raw=true}
 {STAYC}{2021-09-06}{STEREOTYPE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSTAYC%5D%5B2021-09-06%5D%5BSTEREOTYPE%5D%5BKR%5D.jpeg?raw=true}
