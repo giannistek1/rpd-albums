@@ -236,6 +236,7 @@
 {ENHYPEN}{2023-11-17}{ORANGE BLOOD}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BENHYPEN%5D%5B2023-11-17%5D%5BORANGE BLOOD%5D%5BKR%5D.jpg?raw=true}
 {ENHYPEN}{2024-05-13}{MEMORABILIA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BENHYPEN%5D%5B2024-05-13%5D%5BMEMORABILIA%5D%5BKR%5D.jpg?raw=true}
 {ENHYPEN}{2024-07-12}{ROMANCE UNTOLD}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BENHYPEN%5D%5B2024-07-12%5D%5BROMANCE UNTOLD%5D%5BKR%5Djpg.jpg?raw=true}
+{ENHYPEN}{2024-11-11}{ROMANCE UNTOLD -daydream-}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BENHYPEN%5D%5B2024-11-11%5D%5BROMANCE UNTOLD -daydream-%5D%5BKR%5D.jpg?raw=true}
 {EVERGLOW}{2019-03-19}{Arrival of Everglow}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BEVERGLOW%5D%5B2019-03-19%5D%5BArrival of Everglow%5D%5BKR%5D.jpeg?raw=true}
 {EVERGLOW}{2019-08-19}{Hush}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BEVERGLOW%5D%5B2019-08-19%5D%5BHush%5D%5BKR%5D.jpg?raw=true}
 {EVERGLOW}{2020-02-03}{Reminiscence}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BEVERGLOW%5D%5B2020-02-03%5D%5BReminiscence%5D%5BKR%5D.png?raw=true}
@@ -685,6 +686,7 @@
 {SHINHWA}{1998-05-09}{Resolver}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSHINHWA%5D%5B1998-05-09%5D%5BResolver%5D%5BKR%5D.jpg?raw=true}
 {SISTAR}{2014-07-21}{Touch N Move}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSISTAR%5D%5B2014-07-21%5D%5BTouch N Move%5D%5BKR%5D.png?raw=true}
 {Solar (Mamamoo)}{2020-04-23}{Spit It Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSolar (Mamamoo)%5D%5B2020-04-23%5D%5BSpit It Out%5D%5BKR%5D.webp?raw=true}
+{Solar (Mamamoo)}{2022-03-16}{Face}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSolar (Mamamoo)%5D%5B2022-03-16%5D%5BFace%5D%5BKR%5D.jpg?raw=true}
 {Solar (Mamamoo)}{2024-04-30}{COLOURS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSolar (Mamamoo)%5D%5B2024-04-30%5D%5BCOLOURS%5D%5BKR%5D.jpg?raw=true}
 {Sparkling}{2021-05-28}{Diamond (Imitation X SPARKLING)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSparkling%5D%5B2021-05-28%5D%5BDiamond (Imitation X SPARKLING)%5D%5BKR%5D.jfif?raw=true}
 {Station Young}{2018-09-28}{Wow Thing}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BStation Young%5D%5B2018-09-28%5D%5BWow Thing%5D%5BKR%5D.jpg?raw=true}
@@ -720,6 +722,10 @@
 {SUNMI (Wonder Girls)}{2020-06-29}{pporappippam}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSUNMI (Wonder Girls)%5D%5B2020-06-29%5D%5Bpporappippam%5D%5BKR%5D.png?raw=true}
 {SUNMI (Wonder Girls)}{2021-02-23}{TAIL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSUNMI (Wonder Girls)%5D%5B2021-02-23%5D%5BTAIL%5D%5BKR%5D.jpg?raw=true}
 {SUNMI (Wonder Girls)}{2021-08-06}{1 6}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSUNMI (Wonder Girls)%5D%5B2021-08-06%5D%5B1 6%5D%5BKR%5D.jfif?raw=true}
+{SUNMI (Wonder Girls)}{2022-03-28}{Oh Sorry Ya}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSUNMI (Wonder Girls)%5D%5B2022-03-28%5D%5BOh Sorry Ya%5D%5BKR%5D.jpg?raw=true}
+{SUNMI (Wonder Girls)}{2022-06-29}{Heart Burn}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSUNMI (Wonder Girls)%5D%5B2022-06-29%5D%5BHeart Burn%5D%5BKR%5D.jpg?raw=true}
+{SUNMI (Wonder Girls)}{2023-06-13}{Balloon in Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSUNMI (Wonder Girls)%5D%5B2023-06-13%5D%5BBalloon in Love%5D%5BKR%5D.jpg?raw=true}
+{SUNMI (Wonder Girls)}{2023-10-17}{STRANGER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSUNMI (Wonder Girls)%5D%5B2023-10-17%5D%5BSTRANGER%5D%5BKR%5D.jpg?raw=true}
 {Super Junior}{2009-03-12}{Sorry, Sorry}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSuper Junior%5D%5B2009-03-12%5D%5BSorry, Sorry%5D%5BKR%5D.png?raw=true}
 {Super Junior}{2010-05-13}{Bonamana}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSuper Junior%5D%5B2010-05-13%5D%5BBonamana%5D%5BKR%5D.png?raw=true}
 {Super Junior}{2011-08-03}{Mr. Simple}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSuper Junior%5D%5B2011-08-03%5D%5BMr. Simple%5D%5BKR%5D.jpg?raw=true}
