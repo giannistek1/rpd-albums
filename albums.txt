@@ -105,6 +105,7 @@
 {BABYMONSTER}{2023-11-27}{BATTER UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBABYMONSTER%5D%5B2023-11-27%5D%5BBATTER UP%5D%5BKR%5D.jpg?raw=true}
 {BABYMONSTER}{2024-04-01}{BABYMONS7ER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBABYMONSTER%5D%5B2024-04-01%5D%5BBABYMONS7ER%5D%5BKR%5D.jpg?raw=true}
 {BABYMONSTER}{2024-07-01}{FOREVER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBABYMONSTER%5D%5B2024-07-01%5D%5BFOREVER%5D%5BKR%5D.jpg?raw=true}
+{BABYMONSTER}{2024-11-01}{DRIP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBABYMONSTER%5D%5B2024-11-01%5D%5BDRIP%5D%5BKR%5D.jpg?raw=true}
 {BADVILLAIN}{2024-06-03}{OVERSTEP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBADVILLAIN%5D%5B2024-06-03%5D%5BOVERSTEP%5D%5BKR%5D.jpg?raw=true}
 {BADVILLAIN}{2024-06-24}{HURRICANE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBADVILLAIN%5D%5B2024-06-24%5D%5BHURRICANE%5D%5BKR%5D.jpg?raw=true}
 {Baekhyun (EXO)}{2020-05-25}{Delight}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBaekhyun (EXO)%5D%5B2020-05-25%5D%5BDelight%5D%5BKR%5D.jpeg?raw=true}
@@ -347,6 +348,7 @@
 {iKON}{2020-02-06}{i DECIDE.}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BiKON%5D%5B2020-02-06%5D%5Bi DECIDE.%5D%5BKR%5D.png?raw=true}
 {iKON}{2021-03-03}{Why Why Why}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BiKON%5D%5B2021-03-03%5D%5BWhy Why Why%5D%5BKR%5D.png?raw=true}
 {ILLIT}{2024-03-27}{SUPER REAL ME}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BILLIT%5D%5B2024-03-27%5D%5BSUPER REAL ME%5D%5BKR%5D.png?raw=true}
+{ILLIT}{2024-10-21}{Ill Like You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BILLIT%5D%5B2024-10-21%5D%5BIll Like You%5D%5BKR%5D.jpg?raw=true}
 {Infinite}{2015-06-13}{Reality}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2015-06-13%5D%5BReality%5D%5BKR%5D.jpg?raw=true}
 {Infinite}{2016-09-19}{Infinite Only}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2016-09-19%5D%5BInfinite Only%5D%5BKR%5D.jpg?raw=true}
 {Irene & Seulgi (Red Velvet)}{2020-07-06}{MONSTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIrene & Seulgi (Red Velvet)%5D%5B2020-07-06%5D%5BMONSTER%5D%5BKR%5D.png?raw=true}
@@ -441,6 +443,7 @@
 {KISS OF LIFE}{2023-07-05}{KISS OF LIFE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2023-07-05%5D%5BKISS OF LIFE%5D%5BKR%5D.webp?raw=true}
 {KISS OF LIFE}{2024-04-03}{Midas Touch}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2024-04-03%5D%5BMidas Touch%5D%5BKR%5D.webp?raw=true}
 {KISS OF LIFE}{2024-07-01}{Sticky}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2024-07-01%5D%5BSticky%5D%5BKR%5D.jpg?raw=true}
+{KISS OF LIFE}{2024-10-15}{Lose Yourself}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2024-10-15%5D%5BLose Yourself%5D%5BKR%5D.jpg?raw=true}
 {LE SSERAFIM}{2022-05-02}{FEARLESS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLE SSERAFIM%5D%5B2022-05-02%5D%5BFEARLESS%5D%5BKR%5D.png?raw=true}
 {LE SSERAFIM}{2022-10-17}{ANTIFRAGILE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLE SSERAFIM%5D%5B2022-10-17%5D%5BANTIFRAGILE%5D%5BKR%5D.png?raw=true}
 {LE SSERAFIM}{2023-05-01}{UNFORGIVEN}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLE SSERAFIM%5D%5B2023-05-01%5D%5BUNFORGIVEN%5D%5BKR%5D.webp?raw=true}
@@ -892,6 +895,7 @@
 {WJSN}{2019-06-04}{For The Summer}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWJSN%5D%5B2019-06-04%5D%5BFor The Summer%5D%5BKR%5D.png?raw=true}
 {WJSN}{2021-03-31}{UNNATURAL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWJSN%5D%5B2021-03-31%5D%5BUNNATURAL%5D%5BKR%5D.png?raw=true}
 {Wonder Girls}{2008-09-22}{The Wonder Years Trilogy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWonder Girls%5D%5B2008-09-22%5D%5BThe Wonder Years Trilogy%5D%5BKR%5D.jpg?raw=true}
+{WOOAH}{2024-04-08}{BLUSH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWOOAH%5D%5B2024-04-08%5D%5BBLUSH%5D%5BKR%5D.jpg?raw=true}
 {X1}{2019-08-27}{Quantum Leap}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BX1%5D%5B2019-08-27%5D%5BQuantum Leap%5D%5BKR%5D.jpeg?raw=true}
 {XG}{2022-03-18}{Tippy Toes}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BXG%5D%5B2022-03-18%5D%5BTippy Toes%5D%5BJP%5D.jpg?raw=true}
 {XG}{2022-06-29}{MASCARA}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BXG%5D%5B2022-06-29%5D%5BMASCARA%5D%5BJP%5D.jpg?raw=true}
