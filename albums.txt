@@ -867,6 +867,10 @@
 {WayV}{2019-11-05}{Love Talk (English Version)}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWayV%5D%5B2019-11-05%5D%5BLove Talk (English Version)%5D%5BEN%5D.png?raw=true}
 {WayV}{2020-06-09}{Awaken The World}{CH}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWayV%5D%5B2020-06-09%5D%5BAwaken The World%5D%5BCH%5D.png?raw=true}
 {WayV}{2021-03-10}{Kick Back}{CH}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWayV%5D%5B2021-03-10%5D%5BKick Back%5D%5BCH%5D.jpeg?raw=true}
+{WayV}{2022-12-28}{Phantom}{CH}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWayV%5D%5B2022-12-28%5D%5BPhantom%5D%5BCH%5D.jpg?raw=true}
+{WayV}{2023-06-03}{Give Me That}{CH}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWayV%5D%5B2023-06-03%5D%5BGive Me That%5D%5BCH%5D.jpg?raw=true}
+{WayV}{2023-11-01}{On My Youth}{CH}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWayV%5D%5B2023-11-01%5D%5BOn My Youth%5D%5BCH%5D.jpg?raw=true}
+{WayV}{2024-11-24}{FREQUENCY}{CH}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWayV%5D%5B2024-11-24%5D%5BFREQUENCY%5D%5BCH%5D.jpg?raw=true}
 {Weeekly}{2020-06-30}{We Are}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWeeekly%5D%5B2020-06-30%5D%5BWe Are%5D%5BKR%5D.jpg?raw=true}
 {Weeekly}{2020-10-13}{We Can}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWeeekly%5D%5B2020-10-13%5D%5BWe Can%5D%5BKR%5D.png?raw=true}
 {Weeekly}{2021-03-17}{We Play}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWeeekly%5D%5B2021-03-17%5D%5BWe Play%5D%5BKR%5D.jpg?raw=true}
