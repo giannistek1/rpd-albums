@@ -43,6 +43,7 @@
 {A.C.E}{2021-09-02}{Changer Dear Eris}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BA.C.E%5D%5B2021-09-02%5D%5BChanger Dear Eris%5D%5BKR%5D.jpg?raw=true}
 {A.C.E}{2024-02-22}{My Girl My Choice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BA.C.E%5D%5B2024-02-22%5D%5BMy Girl My Choice%5D%5BKR%5D.webp?raw=true}
 {A.C.E}{2024-05-31}{Supernatural}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BA.C.E%5D%5B2024-05-31%5D%5BSupernatural%5D%5BEN%5D.jpg?raw=true}
+{A.C.E}{2024-11-20}{PINATA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BA.C.E%5D%5B2024-11-20%5D%5BPINATA%5D%5BKR%5D.jpg?raw=true}
 {aespa}{2020-11-17}{Black Mamba}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2020-11-17%5D%5BBlack Mamba%5D%5BKR%5D.png?raw=true}
 {aespa}{2021-05-17}{Next Level}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2021-05-17%5D%5BNext Level%5D%5BKR%5D.png?raw=true}
 {aespa}{2021-10-05}{Savage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Baespa%5D%5B2021-10-05%5D%5BSavage%5D%5BKR%5D.jpg?raw=true}
@@ -398,6 +399,7 @@
 {Jay Park}{2015-05-22}{Mommae}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJay Park%5D%5B2015-05-22%5D%5BMommae%5D%5BKR%5D.png?raw=true}
 {JENNIE (Blackpink)}{2018-11-12}{SOLO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJENNIE (Blackpink)%5D%5B2018-11-12%5D%5BSOLO%5D%5BKR%5D.jpeg?raw=true}
 {JENNIE (Blackpink)}{2023-10-06}{You & Me}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJENNIE (Blackpink)%5D%5B2023-10-06%5D%5BYou & Me%5D%5BEN%5D.png?raw=true}
+{JENNIE (Blackpink)}{2024-10-11}{Mantra}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJENNIE (Blackpink)%5D%5B2024-10-11%5D%5BMantra%5D%5BKR%5D.jpg?raw=true}
 {JEON SOMI (I.O.I)}{2019-06-13}{Birthday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJEON SOMI (I.O.I)%5D%5B2019-06-13%5D%5BBirthday%5D%5BKR%5D.jpg?raw=true}
 {JEON SOMI (I.O.I)}{2020-07-22}{What You Waiting For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJEON SOMI (I.O.I)%5D%5B2020-07-22%5D%5BWhat You Waiting For%5D%5BKR%5D.jpg?raw=true}
 {JEON SOMI (I.O.I)}{2021-08-02}{Dumb Dumb}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJEON SOMI (I.O.I)%5D%5B2021-08-02%5D%5BDumb Dumb%5D%5BKR%5D.jpg?raw=true}
