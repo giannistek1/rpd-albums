@@ -124,6 +124,7 @@
 {BIGBANG}{2012-02-29}{Alive (Kor. Version)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBIGBANG%5D%5B2012-02-29%5D%5BAlive (Kor. Version)%5D%5BKR%5D.jpg?raw=true}
 {BIGBANG}{2015-06-01}{A}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBIGBANG%5D%5B2015-06-01%5D%5BA%5D%5BKR%5D.jpg?raw=true}
 {Billie Eilish}{2020-11-12}{Therefore I Am}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBillie Eilish%5D%5B2020-11-12%5D%5BTherefore I Am%5D%5BEN%5D.jfif?raw=true}
+{Billie}{2022-02-23}{the collective soul and unconscious chapter one}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBillie%5D%5B2022-02-23%5D%5Bthe collective soul and unconscious chapter one%5D%5BKR%5D.jpg?raw=true}
 {Blackpink}{2016-08-08}{Square One}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlackpink%5D%5B2016-08-08%5D%5BSquare One%5D%5BKR%5D.jpg?raw=true}
 {Blackpink}{2016-11-01}{Square Two}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlackpink%5D%5B2016-11-01%5D%5BSquare Two%5D%5BKR%5D.png?raw=true}
 {Blackpink}{2017-06-22}{As If Its Your Last}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlackpink%5D%5B2017-06-22%5D%5BAs If Its Your Last%5D%5BKR%5D.png?raw=true}
@@ -562,6 +563,7 @@
 {NewJeans}{2024-06-21}{Supernatural}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNewJeans%5D%5B2024-06-21%5D%5BSupernatural%5D%5BJP%5D.png?raw=true}
 {NINGNING (aespa)}{2020-11-17}{aespa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNINGNING (aespa)%5D%5B2020-11-17%5D%5Baespa%5D%5BKR%5D.jpg?raw=true}
 {NMIXX}{2022-02-22}{Ad Mare}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2022-02-22%5D%5BAd Mare%5D%5BKR%5D.webp?raw=true}
+{NMIXX}{2022-05-02}{GABBYS DOLLHOUSE X NMIXX}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2022-05-02%5D%5BGABBYS DOLLHOUSE X NMIXX%5D%5BKR%5D.jpg?raw=true}
 {NMIXX}{2022-09-19}{ENTWURF}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2022-09-19%5D%5BENTWURF%5D%5BKR%5D.png?raw=true}
 {NMIXX}{2023-03-13}{Young, Dumb, Stupid}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2023-03-13%5D%5BYoung, Dumb, Stupid%5D%5BKR%5D.jpg?raw=true}
 {NMIXX}{2023-03-20}{expergo}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2023-03-20%5D%5Bexpergo%5D%5BKR%5D.png?raw=true}
@@ -569,6 +571,7 @@
 {NMIXX}{2023-07-11}{A Midsummer NMIXXs Dream}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2023-07-11%5D%5BA Midsummer NMIXXs Dream%5D%5BKR%5D.png?raw=true}
 {NMIXX}{2023-12-04}{Sonar (Breaker)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2023-12-04%5D%5BSonar (Breaker)%5D%5BKR%5D.jpg?raw=true}
 {NMIXX}{2024-01-15}{Fe3O4 BREAK}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2024-01-15%5D%5BFe3O4 BREAK%5D%5BKR%5D.webp?raw=true}
+{NMIXX}{2024-08-19}{Fe3O4 STICK OUT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2024-08-19%5D%5BFe3O4 STICK OUT%5D%5BKR%5D.jpg?raw=true}
 {NSYNC}{2000-01-17}{Bye Bye Bye}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNSYNC%5D%5B2000-01-17%5D%5BBye Bye Bye%5D%5BEN%5D.jpg?raw=true}
 {NSYNC}{2000-05-16}{Its Gonna Be Me}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNSYNC%5D%5B2000-05-16%5D%5BIts Gonna Be Me%5D%5BEN%5D.jpg?raw=true}
 {OH MY GIRL}{2015-10-08}{CLOSER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOH MY GIRL%5D%5B2015-10-08%5D%5BCLOSER%5D%5BKR%5D.jpeg?raw=true}
