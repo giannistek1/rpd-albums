@@ -444,6 +444,7 @@
 {KDA}{2020-08-27}{The Baddest}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKDA%5D%5B2020-08-27%5D%5BThe Baddest%5D%5BKR%5D.jpg?raw=true}
 {KDA}{2020-10-28}{All Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKDA%5D%5B2020-10-28%5D%5BAll Out%5D%5BKR%5D.jpg?raw=true}
 {Kep1er}{2022-01-03}{FIRST IMPACT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-01-03%5D%5BFIRST IMPACT%5D%5BKR%5D.jfif?raw=true}
+{Key (SHINee)}{2024-09-23}{Pleasure Shop}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKey (SHINee)%5D%5B2024-09-23%5D%5BPleasure Shop%5D%5BKR%5D.jpg?raw=true}
 {KISS OF LIFE}{2023-07-05}{KISS OF LIFE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2023-07-05%5D%5BKISS OF LIFE%5D%5BKR%5D.webp?raw=true}
 {KISS OF LIFE}{2024-04-03}{Midas Touch}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2024-04-03%5D%5BMidas Touch%5D%5BKR%5D.webp?raw=true}
 {KISS OF LIFE}{2024-07-01}{Sticky}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2024-07-01%5D%5BSticky%5D%5BKR%5D.jpg?raw=true}
@@ -754,6 +755,7 @@
 {TAEMIN (SHINee)}{2020-11-09}{Never Gonna Dance Again Act 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTAEMIN (SHINee)%5D%5B2020-11-09%5D%5BNever Gonna Dance Again Act 2%5D%5BKR%5D.png?raw=true}
 {TAEMIN (SHINee)}{2021-05-18}{Advice}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTAEMIN (SHINee)%5D%5B2021-05-18%5D%5BAdvice%5D%5BKR%5D.jpg?raw=true}
 {TAEMIN (SHINee)}{2023-10-30}{Guilty}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTAEMIN (SHINee)%5D%5B2023-10-30%5D%5BGuilty%5D%5BKR%5D.jpg?raw=true}
+{TAEMIN (SHINee)}{2024-08-19}{ETERNAL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTAEMIN (SHINee)%5D%5B2024-08-19%5D%5BETERNAL%5D%5BKR%5D.jpg?raw=true}
 {Taeyang (BIGBANG)}{2014-06-03}{Rise}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTaeyang (BIGBANG)%5D%5B2014-06-03%5D%5BRise%5D%5BKR%5D.jpg?raw=true}
 {Taeyang (BIGBANG)}{2023-04-25}{Shoong!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTaeyang (BIGBANG)%5D%5B2023-04-25%5D%5BShoong!%5D%5BKR%5D.jpg?raw=true}
 {Taeyeon (SNSD)}{2016-06-28}{Why}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTaeyeon (SNSD)%5D%5B2016-06-28%5D%5BWhy%5D%5BKR%5D.jpg?raw=true}
