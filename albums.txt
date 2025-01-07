@@ -452,7 +452,7 @@
 {Kep1er}{2022-09-07}{FLY-UP}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-09-07%5D%5BFLY-UP%5D%5BJP%5D.webp?raw=true}
 {Kep1er}{2022-09-23}{Sugar Rush}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-09-23%5D%5BSugar Rush%5D%5BJP%5D.jpg?raw=true}
 {Kep1er}{2022-10-13}{TROUBLESHOOTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-10-13%5D%5BTROUBLESHOOTER%5D%5BKR%5D.jpg?raw=true}
-{Kep1er}{2023-02-22}{I Do Do You}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-02-22%5D%5BI Do Do You%5D%5BJP%5D.png?raw=true}
+{Kep1er}{2023-02-22}{I Do! Do You}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-02-22%5D%5BI Do! Do You%5D%5BJP%5D.png?raw=true}
 {Kep1er}{2023-04-10}{LOVESTRUCK}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-04-10%5D%5BLOVESTRUCK%5D%5BKR%5D.webp?raw=true}
 {Kep1er}{2023-09-25}{Magic Hour}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-09-25%5D%5BMagic Hour%5D%5BKR%5D.jpg?raw=true}
 {Kep1er}{2023-11-08}{Grand Prix}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-11-08%5D%5BGrand Prix%5D%5BJP%5D.jpg?raw=true}
