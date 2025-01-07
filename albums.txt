@@ -23,7 +23,7 @@
 {2PM}{2010-10-11}{Still 0200pm}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5B2PM%5D%5B2010-10-11%5D%5BStill 0200pm%5D%5BKR%5D.jpg?raw=true}
 {2PM}{2011-06-20}{HANDS UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5B2PM%5D%5B2011-06-20%5D%5BHANDS UP%5D%5BKR%5D.jpg?raw=true}
 {2PM}{2013-05-06}{GROWN}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5B2PM%5D%5B2013-05-06%5D%5BGROWN%5D%5BKR%5D.jpg?raw=true}
-{2PM}{2014-09-15}{GO CRAZY!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5B2PM%5D%5B2014-09-15%5D%5BGO CRAZY!%5D%5BKR%5D.jpg?raw=true}
+{2PM}{2014-09-15}{GO CRAZY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5B2PM%5D%5B2014-09-15%5D%5BGO CRAZY%5D%5BKR%5D.jpg?raw=true}
 {2PM}{2015-06-15}{No. 5}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5B2PM%5D%5B2015-06-15%5D%5BNo. 5%5D%5BKR%5D.jfif?raw=true}
 {2PM}{2016-09-13}{GENTLEMENS GAME}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5B2PM%5D%5B2016-09-13%5D%5BGENTLEMENS GAME%5D%5BKR%5D.jpg?raw=true}
 {2PM}{2021-06-28}{Must}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5B2PM%5D%5B2021-06-28%5D%5BMust%5D%5BKR%5D.png?raw=true}
@@ -413,6 +413,9 @@
 {JIHYO (Twice)}{2023-08-18}{ZONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJIHYO (Twice)%5D%5B2023-08-18%5D%5BZONE%5D%5BKR%5D.png?raw=true}
 {JISOO (Blackpink)}{2023-03-31}{Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJISOO (Blackpink)%5D%5B2023-03-31%5D%5BMe%5D%5BKR%5D.jpg?raw=true}
 {Jo Yuri (IZ ONE)}{2021-10-07}{GLASSY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJo Yuri (IZ ONE)%5D%5B2021-10-07%5D%5BGLASSY%5D%5BKR%5D.jpg?raw=true}
+{Jo Yuri (IZ ONE)}{2022-06-02}{Op.22 Y-Waltz in Major}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJo Yuri (IZ ONE)%5D%5B2022-06-02%5D%5BOp.22 Y-Waltz in Major%5D%5BKR%5D.jpg?raw=true}
+{Jo Yuri (IZ ONE)}{2022-10-24}{Op.22 Y-Waltz in Minor}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJo Yuri (IZ ONE)%5D%5B2022-10-24%5D%5BOp.22 Y-Waltz in Minor%5D%5BKR%5D.png?raw=true}
+{Jo Yuri (IZ ONE)}{2023-08-09}{LOVE ALL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJo Yuri (IZ ONE)%5D%5B2023-08-09%5D%5BLOVE ALL%5D%5BKR%5D.jpg?raw=true}
 {Joy (Red Velvet)}{2021-05-31}{Hello}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJoy (Red Velvet)%5D%5B2021-05-31%5D%5BHello%5D%5BKR%5D.jpg?raw=true}
 {Jungkook (BTS)}{2023-07-14}{Seven}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJungkook (BTS)%5D%5B2023-07-14%5D%5BSeven%5D%5BEN%5D.jpeg?raw=true}
 {Jungkook (BTS)}{2023-09-29}{3D}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJungkook (BTS)%5D%5B2023-09-29%5D%5B3D%5D%5BEN%5D.png?raw=true}
