@@ -448,11 +448,17 @@
 {KDA}{2020-08-27}{The Baddest}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKDA%5D%5B2020-08-27%5D%5BThe Baddest%5D%5BKR%5D.jpg?raw=true}
 {KDA}{2020-10-28}{All Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKDA%5D%5B2020-10-28%5D%5BAll Out%5D%5BKR%5D.jpg?raw=true}
 {Kep1er}{2022-01-03}{FIRST IMPACT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-01-03%5D%5BFIRST IMPACT%5D%5BKR%5D.jfif?raw=true}
+{Kep1er}{2022-06-20}{DOUBLAST}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-06-20%5D%5BDOUBLAST%5D%5BKR%5D.webp?raw=true}
 {Kep1er}{2022-09-07}{FLY-UP}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-09-07%5D%5BFLY-UP%5D%5BJP%5D.webp?raw=true}
 {Kep1er}{2022-09-23}{Sugar Rush}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-09-23%5D%5BSugar Rush%5D%5BJP%5D.jpg?raw=true}
+{Kep1er}{2022-10-13}{TROUBLESHOOTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2022-10-13%5D%5BTROUBLESHOOTER%5D%5BKR%5D.jpg?raw=true}
 {Kep1er}{2023-02-22}{I Do Do You}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-02-22%5D%5BI Do Do You%5D%5BJP%5D.png?raw=true}
+{Kep1er}{2023-04-10}{LOVESTRUCK}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-04-10%5D%5BLOVESTRUCK%5D%5BKR%5D.webp?raw=true}
+{Kep1er}{2023-09-25}{Magic Hour}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-09-25%5D%5BMagic Hour%5D%5BKR%5D.jpg?raw=true}
 {Kep1er}{2023-11-08}{Grand Prix}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2023-11-08%5D%5BGrand Prix%5D%5BJP%5D.jpg?raw=true}
 {Kep1er}{2024-04-24}{Straight Line}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2024-04-24%5D%5BStraight Line%5D%5BJP%5D.jpg?raw=true}
+{Kep1er}{2024-06-03}{Kep1going On}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2024-06-03%5D%5BKep1going On%5D%5BKR%5D.jpg?raw=true}
+{Kep1er}{2024-11-01}{TIPI-TAP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2024-11-01%5D%5BTIPI-TAP%5D%5BKR%5D.png?raw=true}
 {Key (SHINee)}{2024-09-23}{Pleasure Shop}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKey (SHINee)%5D%5B2024-09-23%5D%5BPleasure Shop%5D%5BKR%5D.jpg?raw=true}
 {KISS OF LIFE}{2023-07-05}{KISS OF LIFE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2023-07-05%5D%5BKISS OF LIFE%5D%5BKR%5D.webp?raw=true}
 {KISS OF LIFE}{2024-04-03}{Midas Touch}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2024-04-03%5D%5BMidas Touch%5D%5BKR%5D.webp?raw=true}
