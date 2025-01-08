@@ -109,6 +109,7 @@
 {BABYMONSTER}{2024-11-01}{DRIP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBABYMONSTER%5D%5B2024-11-01%5D%5BDRIP%5D%5BKR%5D.jpg?raw=true}
 {BADVILLAIN}{2024-06-03}{OVERSTEP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBADVILLAIN%5D%5B2024-06-03%5D%5BOVERSTEP%5D%5BKR%5D.jpg?raw=true}
 {BADVILLAIN}{2024-06-24}{HURRICANE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBADVILLAIN%5D%5B2024-06-24%5D%5BHURRICANE%5D%5BKR%5D.jpg?raw=true}
+{BADVILLAIN}{2024-11-19}{ZOOM}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBADVILLAIN%5D%5B2024-11-19%5D%5BZOOM%5D%5BKR%5D.webp?raw=true}
 {Baekhyun (EXO)}{2020-05-25}{Delight}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBaekhyun (EXO)%5D%5B2020-05-25%5D%5BDelight%5D%5BKR%5D.jpeg?raw=true}
 {BEAST}{2009-10-14}{Beast Is The B2ST}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBEAST%5D%5B2009-10-14%5D%5BBeast Is The B2ST%5D%5BKR%5D.jpg?raw=true}
 {BEAST}{2010-03-01}{Shock Of The New Era}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBEAST%5D%5B2010-03-01%5D%5BShock Of The New Era%5D%5BKR%5D.jpg?raw=true}
@@ -567,6 +568,7 @@
 {NCT Dream}{2023-07-17}{ISTJ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT Dream%5D%5B2023-07-17%5D%5BISTJ%5D%5BKR%5D.png?raw=true}
 {NCT Dream}{2024-03-24}{Dream()scape}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT Dream%5D%5B2024-03-24%5D%5BDream()scape%5D%5BKR%5D.webp?raw=true}
 {NCT Dream}{2024-05-08}{Moonlight}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT Dream%5D%5B2024-05-08%5D%5BMoonlight%5D%5BJP%5D.jpg?raw=true}
+{NCT Dream}{2024-08-23}{Rains in Heaven}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT Dream%5D%5B2024-08-23%5D%5BRains in Heaven%5D%5BKR%5D.jpg?raw=true}
 {NCT U}{2018-03-04}{NCT 2018 Empathy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT U%5D%5B2018-03-04%5D%5BNCT 2018 Empathy%5D%5BKR%5D.jpg?raw=true}
 {NCT U}{2020-10-12}{NCT Resonance Pt. 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT U%5D%5B2020-10-12%5D%5BNCT Resonance Pt. 1%5D%5BKR%5D.png?raw=true}
 {NCT U}{2020-11-23}{NCT Resonance Pt. 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT U%5D%5B2020-11-23%5D%5BNCT Resonance Pt. 2%5D%5BKR%5D.jpg?raw=true}
