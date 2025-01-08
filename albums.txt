@@ -354,6 +354,7 @@
 {Infinite}{2015-06-13}{Reality}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2015-06-13%5D%5BReality%5D%5BKR%5D.jpg?raw=true}
 {Infinite}{2016-09-19}{Infinite Only}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2016-09-19%5D%5BInfinite Only%5D%5BKR%5D.jpg?raw=true}
 {Irene & Seulgi (Red Velvet)}{2020-07-06}{MONSTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIrene & Seulgi (Red Velvet)%5D%5B2020-07-06%5D%5BMONSTER%5D%5BKR%5D.png?raw=true}
+{Irene (Red Velvet)}{2024-11-26}{Like A Flower}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIrene (Red Velvet)%5D%5B2024-11-26%5D%5BLike A Flower%5D%5BKR%5D.jpg?raw=true}
 {ITZY}{2019-02-12}{ITz Different}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BITZY%5D%5B2019-02-12%5D%5BITz Different%5D%5BKR%5D.png?raw=true}
 {ITZY}{2019-07-29}{ITz Icy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BITZY%5D%5B2019-07-29%5D%5BITz Icy%5D%5BKR%5D.png?raw=true}
 {ITZY}{2020-03-20}{ITz Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BITZY%5D%5B2020-03-20%5D%5BITz Me%5D%5BKR%5D.png?raw=true}
@@ -370,6 +371,7 @@
 {ITZY}{2023-09-27}{Ringo}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BITZY%5D%5B2023-09-27%5D%5BRingo%5D%5BJP%5D.jpg?raw=true}
 {ITZY}{2024-01-08}{BORN TO BE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BITZY%5D%5B2024-01-08%5D%5BBORN TO BE%5D%5BKR%5D.jpg?raw=true}
 {ITZY}{2024-05-15}{Algorhythm}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BITZY%5D%5B2024-05-15%5D%5BAlgorhythm%5D%5BJP%5D.webp?raw=true}
+{ITZY}{2024-10-15}{GOLD}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BITZY%5D%5B2024-10-15%5D%5BGOLD%5D%5BKR%5D.jpg?raw=true}
 {IU}{2015-10-23}{Chat-Shire}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIU%5D%5B2015-10-23%5D%5BChat-Shire%5D%5BKR%5D.jfif?raw=true}
 {IU}{2018-10-10}{BBIBBI}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIU%5D%5B2018-10-10%5D%5BBBIBBI%5D%5BKR%5D.jpg?raw=true}
 {IU}{2021-03-25}{Lilac}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIU%5D%5B2021-03-25%5D%5BLilac%5D%5BKR%5D.jpg?raw=true}
