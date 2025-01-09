@@ -485,6 +485,9 @@
 {LOONA}{2020-10-19}{12 00}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLOONA%5D%5B2020-10-19%5D%5B12 00%5D%5BKR%5D.jfif?raw=true}
 {LOONA}{2021-06-18}{&}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLOONA%5D%5B2021-06-18%5D%5B&%5D%5BKR%5D.jpg?raw=true}
 {LOONA}{2021-09-15}{StarSeed}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLOONA%5D%5B2021-09-15%5D%5BStarSeed%5D%5BKR%5D.jfif?raw=true}
+{Loossemble}{2023-09-15}{Loossemble}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLoossemble%5D%5B2023-09-15%5D%5BLoossemble%5D%5BKR%5D.jpg?raw=true}
+{Loossemble}{2024-04-16}{One of a Kind}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLoossemble%5D%5B2024-04-16%5D%5BOne of a Kind%5D%5BKR%5D.webp?raw=true}
+{Loossemble}{2024-09-02}{TTYL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLoossemble%5D%5B2024-09-02%5D%5BTTYL%5D%5BKR%5D.jpg?raw=true}
 {LUCAS (NCT)}{2024-04-01}{Renegade}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLUCAS (NCT)%5D%5B2024-04-01%5D%5BRenegade%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2014-06-18}{Hello}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2014-06-18%5D%5BHello%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2015-06-19}{Pink Funky}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2015-06-19%5D%5BPink Funky%5D%5BKR%5D.jpg?raw=true}
@@ -914,7 +917,9 @@
 {Weki Meki}{2020-10-08}{NEW RULES}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWeki Meki%5D%5B2020-10-08%5D%5BNEW RULES%5D%5BKR%5D.png?raw=true}
 {Wheein (Mamamoo)}{2018-04-17}{magnolia}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWheein (Mamamoo)%5D%5B2018-04-17%5D%5Bmagnolia%5D%5BKR%5D.webp?raw=true}
 {Wheein (Mamamoo)}{2021-04-13}{Redd}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWheein (Mamamoo)%5D%5B2021-04-13%5D%5BRedd%5D%5BKR%5D.jpg?raw=true}
+{Wheein (Mamamoo)}{2022-01-16}{WHEE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWheein (Mamamoo)%5D%5B2022-01-16%5D%5BWHEE%5D%5BKR%5D.jpg?raw=true}
 {Wheein (Mamamoo)}{2023-10-12}{In The Mood}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWheein (Mamamoo)%5D%5B2023-10-12%5D%5BIn The Mood%5D%5BKR%5D.jpg?raw=true}
+{Wheein (Mamamoo)}{2024-07-12}{coco water}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWheein (Mamamoo)%5D%5B2024-07-12%5D%5Bcoco water%5D%5BKR%5D.jpg?raw=true}
 {WINNER}{2017-04-04}{Fate Number For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWINNER%5D%5B2017-04-04%5D%5BFate Number For%5D%5BKR%5D.jpg?raw=true}
 {WINNER}{2017-08-04}{Our Twenty For}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWINNER%5D%5B2017-08-04%5D%5BOur Twenty For%5D%5BKR%5D.jfif?raw=true}
 {WINNER}{2018-04-04}{EVERYD4Y}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWINNER%5D%5B2018-04-04%5D%5BEVERYD4Y%5D%5BKR%5D.jfif?raw=true}
@@ -954,6 +959,8 @@
 {YOUNG POSSE}{2024-02-04}{YOUNG POSSE UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYOUNG POSSE%5D%5B2024-02-04%5D%5BYOUNG POSSE UP%5D%5BKR%5D.png?raw=true}
 {YOUNG POSSE}{2024-03-20}{XXL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYOUNG POSSE%5D%5B2024-03-20%5D%5BXXL%5D%5BKR%5D.jpg?raw=true}
 {Yuju}{2022-01-18}{REC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYuju%5D%5B2022-01-18%5D%5BREC%5D%5BKR%5D.jpg?raw=true}
+{YUQI ((G)I-DLE)}{2021-05-13}{A Page}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYUQI ((G)I-DLE)%5D%5B2021-05-13%5D%5BA Page%5D%5BKR%5D.jpg?raw=true}
+{YUQI ((G)I-DLE}{2024-04-23}{YUQ1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYUQI ((G)I-DLE%5D%5B2024-04-23%5D%5BYUQ1%5D%5BKR%5D.webp?raw=true}
 {ZEROBASEONE}{2023-07-10}{YOUTH IN THE SHADE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2023-07-10%5D%5BYOUTH IN THE SHADE%5D%5BKR%5D.jpg?raw=true}
 {ZEROBASEONE}{2023-11-06}{MELTING POINT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2023-11-06%5D%5BMELTING POINT%5D%5BKR%5D.jpg?raw=true}
 {ZEROBASEONE}{2024-04-24}{SWEAT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2024-04-24%5D%5BSWEAT%5D%5BKR%5D.jpg?raw=true}
