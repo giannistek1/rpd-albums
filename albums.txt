@@ -960,7 +960,7 @@
 {YOUNG POSSE}{2024-03-20}{XXL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYOUNG POSSE%5D%5B2024-03-20%5D%5BXXL%5D%5BKR%5D.jpg?raw=true}
 {Yuju}{2022-01-18}{REC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYuju%5D%5B2022-01-18%5D%5BREC%5D%5BKR%5D.jpg?raw=true}
 {YUQI ((G)I-DLE)}{2021-05-13}{A Page}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYUQI ((G)I-DLE)%5D%5B2021-05-13%5D%5BA Page%5D%5BKR%5D.jpg?raw=true}
-{YUQI ((G)I-DLE}{2024-04-23}{YUQ1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYUQI ((G)I-DLE%5D%5B2024-04-23%5D%5BYUQ1%5D%5BKR%5D.webp?raw=true}
+{YUQI ((G)I-DLE)}{2024-04-23}{YUQ1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BYUQI ((G)I-DLE)%5D%5B2024-04-23%5D%5BYUQ1%5D%5BKR%5D.webp?raw=true}
 {ZEROBASEONE}{2023-07-10}{YOUTH IN THE SHADE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2023-07-10%5D%5BYOUTH IN THE SHADE%5D%5BKR%5D.jpg?raw=true}
 {ZEROBASEONE}{2023-11-06}{MELTING POINT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2023-11-06%5D%5BMELTING POINT%5D%5BKR%5D.jpg?raw=true}
 {ZEROBASEONE}{2024-04-24}{SWEAT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2024-04-24%5D%5BSWEAT%5D%5BKR%5D.jpg?raw=true}
