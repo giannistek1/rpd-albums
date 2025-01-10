@@ -538,6 +538,7 @@
 {MONSTA X}{2021-06-01}{One of a Kind}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMONSTA X%5D%5B2021-06-01%5D%5BOne of a Kind%5D%5BKR%5D.png?raw=true}
 {MONSTA X}{2021-11-19}{No Limit}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMONSTA X%5D%5B2021-11-19%5D%5BNo Limit%5D%5BKR%5D.jfif?raw=true}
 {Moonbyul (Mamamoo)}{2018-05-23}{Selfish}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2018-05-23%5D%5BSelfish%5D%5BKR%5D.jpg?raw=true}
+{Moonbyul (Mamamoo)}{2020-02-14}{Dark Side of the Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2020-02-14%5D%5BDark Side of the Moon%5D%5BKR%5D.jpg?raw=true}
 {Moonbyul (Mamamoo)}{2022-01-19}{6equence}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2022-01-19%5D%5B6equence%5D%5BKR%5D.webp?raw=true}
 {Moonbyul (Mamamoo)}{2024-02-20}{Starlit of Muse}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2024-02-20%5D%5BStarlit of Muse%5D%5BKR%5D.jpg?raw=true}
 {Moonbyul (Mamamoo)}{2024-08-21}{Starlit of Twinkle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2024-08-21%5D%5BStarlit of Twinkle%5D%5BKR%5D.jpg?raw=true}
