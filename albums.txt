@@ -76,6 +76,8 @@
 {Apink}{2019-01-07}{Percent}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BApink%5D%5B2019-01-07%5D%5BPercent%5D%5BKR%5D.jpg?raw=true}
 {Apink}{2020-04-13}{Look}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BApink%5D%5B2020-04-13%5D%5BLook%5D%5BKR%5D.jpg?raw=true}
 {Apink}{2022-02-14}{Horn}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BApink%5D%5B2022-02-14%5D%5BHorn%5D%5BKR%5D.jfif?raw=true}
+{ARTMS}{2024-05-31}{Dall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BARTMS%5D%5B2024-05-31%5D%5BDall%5D%5BKR%5D.jpg?raw=true}
+{ARTMS}{2024-05-31}{Pre1 Birth}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BARTMS%5D%5B2024-05-31%5D%5BPre1 Birth%5D%5BKR%5D.jpg?raw=true}
 {ASTRO}{2017-05-29}{Dream Part.01}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BASTRO%5D%5B2017-05-29%5D%5BDream Part.01%5D%5BKR%5D.jpg?raw=true}
 {ASTRO}{2017-11-01}{Dream Part.02}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BASTRO%5D%5B2017-11-01%5D%5BDream Part.02%5D%5BKR%5D.jpg?raw=true}
 {ASTRO}{2018-06-24}{Rise up}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BASTRO%5D%5B2018-06-24%5D%5BRise up%5D%5BKR%5D.png?raw=true}
