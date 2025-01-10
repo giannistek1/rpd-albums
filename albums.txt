@@ -463,6 +463,7 @@
 {Kep1er}{2024-06-03}{Kep1going On}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2024-06-03%5D%5BKep1going On%5D%5BKR%5D.jpg?raw=true}
 {Kep1er}{2024-11-01}{TIPI-TAP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKep1er%5D%5B2024-11-01%5D%5BTIPI-TAP%5D%5BKR%5D.png?raw=true}
 {Key (SHINee)}{2024-09-23}{Pleasure Shop}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKey (SHINee)%5D%5B2024-09-23%5D%5BPleasure Shop%5D%5BKR%5D.jpg?raw=true}
+{Kim Lip (LOONA)}{2017-05-23}{Kim Lip}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKim Lip (LOONA)%5D%5B2017-05-23%5D%5BKim Lip%5D%5BKR%5D.jpg?raw=true}
 {KISS OF LIFE}{2023-07-05}{KISS OF LIFE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2023-07-05%5D%5BKISS OF LIFE%5D%5BKR%5D.webp?raw=true}
 {KISS OF LIFE}{2024-04-03}{Midas Touch}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2024-04-03%5D%5BMidas Touch%5D%5BKR%5D.webp?raw=true}
 {KISS OF LIFE}{2024-07-01}{Sticky}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKISS OF LIFE%5D%5B2024-07-01%5D%5BSticky%5D%5BKR%5D.jpg?raw=true}
@@ -536,6 +537,10 @@
 {MONSTA X}{2020-11-02}{Fatal Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMONSTA X%5D%5B2020-11-02%5D%5BFatal Love%5D%5BKR%5D.jpg?raw=true}
 {MONSTA X}{2021-06-01}{One of a Kind}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMONSTA X%5D%5B2021-06-01%5D%5BOne of a Kind%5D%5BKR%5D.png?raw=true}
 {MONSTA X}{2021-11-19}{No Limit}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMONSTA X%5D%5B2021-11-19%5D%5BNo Limit%5D%5BKR%5D.jfif?raw=true}
+{Moonbyul (Mamamoo)}{2018-05-23}{Selfish}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2018-05-23%5D%5BSelfish%5D%5BKR%5D.jpg?raw=true}
+{Moonbyul (Mamamoo)}{2022-01-19}{6equence}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2022-01-19%5D%5B6equence%5D%5BKR%5D.webp?raw=true}
+{Moonbyul (Mamamoo)}{2024-02-20}{Starlit of Muse}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2024-02-20%5D%5BStarlit of Muse%5D%5BKR%5D.jpg?raw=true}
+{Moonbyul (Mamamoo)}{2024-08-21}{Starlit of Twinkle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2024-08-21%5D%5BStarlit of Twinkle%5D%5BKR%5D.jpg?raw=true}
 {NAYEON (Twice)}{2022-06-24}{IM NAYEON}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNAYEON (Twice)%5D%5B2022-06-24%5D%5BIM NAYEON%5D%5BKR%5D.jpg?raw=true}
 {NAYEON (Twice)}{2024-06-24}{NA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNAYEON (Twice)%5D%5B2024-06-24%5D%5BNA%5D%5BKR%5D.jpg?raw=true}
 {NCT 127}{2016-07-10}{NCT 127}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT 127%5D%5B2016-07-10%5D%5BNCT 127%5D%5BKR%5D.png?raw=true}
