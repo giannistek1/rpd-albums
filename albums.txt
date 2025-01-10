@@ -817,6 +817,8 @@
 {TREASURE}{2023-07-28}{REBOOT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTREASURE%5D%5B2023-07-28%5D%5BREBOOT%5D%5BKR%5D.jpg?raw=true}
 {TREASURE}{2024-05-28}{KING KONG}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTREASURE%5D%5B2024-05-28%5D%5BKING KONG%5D%5BKR%5D.jpg?raw=true}
 {TREASURE}{2024-12-05}{LAST NIGHT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTREASURE%5D%5B2024-12-05%5D%5BLAST NIGHT%5D%5BKR%5D.jpg?raw=true}
+{TRI.BE}{2021-02-17}{Da Loca}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTRI.BE%5D%5B2021-02-17%5D%5BDa Loca%5D%5BKR%5D.jpg?raw=true}
+{TRI.BE}{2021-05-18}{CONMIGO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTRI.BE%5D%5B2021-05-18%5D%5BCONMIGO%5D%5BKR%5D.webp?raw=true}
 {Triple H}{2017-05-01}{199X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTriple H%5D%5B2017-05-01%5D%5B199X%5D%5BKR%5D.png?raw=true}
 {Triple H}{2018-07-18}{REtro Futurism}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTriple H%5D%5B2018-07-18%5D%5BREtro Futurism%5D%5BKR%5D.png?raw=true}
 {Trouble Maker}{2011-12-01}{Trouble Maker}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2011-12-01%5D%5BTrouble Maker%5D%5BKR%5D.jfif?raw=true}
