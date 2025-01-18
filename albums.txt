@@ -564,7 +564,9 @@
 {NCT 127}{2021-09-17}{Sticker}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT 127%5D%5B2021-09-17%5D%5BSticker%5D%5BKR%5D.jpg?raw=true}
 {NCT 127}{2021-10-25}{Favorite}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT 127%5D%5B2021-10-25%5D%5BFavorite%5D%5BKR%5D.jpg?raw=true}
 {NCT 127}{2022-09-16}{2 Baddies}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT 127%5D%5B2022-09-16%5D%5B2 Baddies%5D%5BKR%5D.webp?raw=true}
+{NCT 127}{2023-01-30}{Ay-Yo}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT 127%5D%5B2023-01-30%5D%5BAy-Yo%5D%5BKR%5D.jpg?raw=true}
 {NCT 127}{2023-09-06}{Fact Check}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT 127%5D%5B2023-09-06%5D%5BFact Check%5D%5BKR%5D.jpeg?raw=true}
+{NCT 127}{2024-05-22}{Walk}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT 127%5D%5B2024-05-22%5D%5BWalk%5D%5BKR%5D.jpg?raw=true}
 {NCT DOJAEJUNG}{2023-04-17}{PERFUME}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT DOJAEJUNG%5D%5B2023-04-17%5D%5BPERFUME%5D%5BKR%5D.jpg?raw=true}
 {NCT Dream}{2016-08-17}{Chewing Gum}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT Dream%5D%5B2016-08-17%5D%5BChewing Gum%5D%5BKR%5D.png?raw=true}
 {NCT Dream}{2017-02-09}{The First}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT Dream%5D%5B2017-02-09%5D%5BThe First%5D%5BKR%5D.png?raw=true}
