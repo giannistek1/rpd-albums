@@ -103,6 +103,7 @@
 {ATEEZ}{2023-06-16}{THE WORLD EP.2 OUTLAW}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BATEEZ%5D%5B2023-06-16%5D%5BTHE WORLD EP.2 OUTLAW%5D%5BKR%5D.jpg?raw=true}
 {ATEEZ}{2023-12-01}{THE WORLD EP.FIN WILL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BATEEZ%5D%5B2023-12-01%5D%5BTHE WORLD EP.FIN WILL%5D%5BKR%5D.png?raw=true}
 {ATEEZ}{2024-03-31}{GOLDEN HOUR Part.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BATEEZ%5D%5B2024-03-31%5D%5BGOLDEN HOUR Part.1%5D%5BKR%5D.jpg?raw=true}
+{ATEEZ}{2024-11-15}{GOLDEN HOUR Part.2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BATEEZ%5D%5B2024-11-15%5D%5BGOLDEN HOUR Part.2%5D%5BKR%5D.jpg?raw=true}
 {B.A.P}{2013-02-12}{One Shot}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BB.A.P%5D%5B2013-02-12%5D%5BOne Shot%5D%5BKR%5D.jpg?raw=true}
 {B.A.P}{2017-03-07}{Rose}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BB.A.P%5D%5B2017-03-07%5D%5BRose%5D%5BKR%5D.png?raw=true}
 {BABYMONSTER}{2023-11-27}{BATTER UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBABYMONSTER%5D%5B2023-11-27%5D%5BBATTER UP%5D%5BKR%5D.jpg?raw=true}
