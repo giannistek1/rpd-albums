@@ -289,6 +289,9 @@
 {fromis_9}{2020-09-16}{My Little Society}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Bfromis_9%5D%5B2020-09-16%5D%5BMy Little Society%5D%5BKR%5D.jpeg?raw=true}
 {fromis_9}{2021-05-17}{9 Way Ticket}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Bfromis_9%5D%5B2021-05-17%5D%5B9 Way Ticket%5D%5BKR%5D.jpeg?raw=true}
 {fromis_9}{2022-01-17}{Midnight Guest}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5Bfromis_9%5D%5B2022-01-17%5D%5BMidnight Guest%5D%5BKR%5D.jpeg?raw=true}
+{G-DRAGON (BIGBANG)}{2009-08-18}{Heartbreaker}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BG-DRAGON (BIGBANG)%5D%5B2009-08-18%5D%5BHeartbreaker%5D%5BKR%5D.jpg?raw=true}
+{G-DRAGON (BIGBANG)}{2013-09-13}{COUP DETAT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BG-DRAGON (BIGBANG)%5D%5B2013-09-13%5D%5BCOUP DETAT%5D%5BKR%5D.jpg?raw=true}
+{G-DRAGON (BIGBANG)}{2024-11-22}{HOME SWEET HOME}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BG-DRAGON (BIGBANG)%5D%5B2024-11-22%5D%5BHOME SWEET HOME%5D%5BKR%5D.jpg?raw=true}
 {GD X Taeyang (BIGBANG)}{2014-11-21}{Good Boy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGD X Taeyang (BIGBANG)%5D%5B2014-11-21%5D%5BGood Boy%5D%5BKR%5D.jpg?raw=true}
 {GFRIEND}{2015-07-23}{Flower Bud}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGFRIEND%5D%5B2015-07-23%5D%5BFlower Bud%5D%5BKR%5D.png?raw=true}
 {GFRIEND}{2016-07-11}{LOL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGFRIEND%5D%5B2016-07-11%5D%5BLOL%5D%5BKR%5D.png?raw=true}
