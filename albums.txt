@@ -327,6 +327,8 @@
 {GOT7}{2019-11-04}{Call My Name}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2019-11-04%5D%5BCall My Name%5D%5BKR%5D.png?raw=true}
 {GOT7}{2020-04-20}{DYE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2020-04-20%5D%5BDYE%5D%5BKR%5D.png?raw=true}
 {GOT7}{2020-11-30}{Breath of Love Last Piece}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2020-11-30%5D%5BBreath of Love Last Piece%5D%5BKR%5D.jfif?raw=true}
+{GYUBIN}{2024-01-17}{Really Like You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGYUBIN%5D%5B2024-01-17%5D%5BReally Like You%5D%5BKR%5D.jpg?raw=true}
+{GYUBIN}{2024-06-26}{Satellite}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGYUBIN%5D%5B2024-06-26%5D%5BSatellite%5D%5BKR%5D.jpg?raw=true}
 {H.I.N.P}{2018-08-18}{30 Girls 6 Concepts}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BH.I.N.P%5D%5B2018-08-18%5D%5B30 Girls 6 Concepts%5D%5BKR%5D.jfif?raw=true}
 {Highlight}{2017-10-16}{Celebrate}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHighlight%5D%5B2017-10-16%5D%5BCelebrate%5D%5BKR%5D.jfif?raw=true}
 {HINAPIA}{2019-11-03}{New Start}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHINAPIA%5D%5B2019-11-03%5D%5BNew Start%5D%5BKR%5D.jpg?raw=true}
