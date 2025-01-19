@@ -231,6 +231,7 @@
 {Dreamcatcher}{2023-05-24}{Apocalypse From us}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BDreamcatcher%5D%5B2023-05-24%5D%5BApocalypse From us%5D%5BKR%5D.jpg?raw=true}
 {Dreamcatcher}{2023-11-22}{VillainS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BDreamcatcher%5D%5B2023-11-22%5D%5BVillainS%5D%5BKR%5D.jpg?raw=true}
 {Dreamcatcher}{2024-07-10}{VirtuouS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BDreamcatcher%5D%5B2024-07-10%5D%5BVirtuouS%5D%5BKR%5D.jpg?raw=true}
+{Dynamic Duo}{2023-09-05}{Street Woman Fighter2 (SWF2) Class Mission}{krnb}{https://github.com/giannistek1/rpd-albums/blob/main/%5BDynamic Duo%5D%5B2023-09-05%5D%5BStreet Woman Fighter2 (SWF2) Class Mission%5D%5Bkrnb%5D.jpg?raw=true}
 {ENHYPEN}{2020-11-30}{Border Day One}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BENHYPEN%5D%5B2020-11-30%5D%5BBorder Day One%5D%5BKR%5D.jpg?raw=true}
 {ENHYPEN}{2021-04-26}{Border Carnival}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BENHYPEN%5D%5B2021-04-26%5D%5BBorder Carnival%5D%5BKR%5D.jpeg?raw=true}
 {ENHYPEN}{2021-07-29}{Hey Tayo}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BENHYPEN%5D%5B2021-07-29%5D%5BHey Tayo%5D%5BKR%5D.jpeg?raw=true}
@@ -409,7 +410,7 @@
 {J.Y. Park}{2020-08-12}{When We Disco}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJ.Y. Park%5D%5B2020-08-12%5D%5BWhen We Disco%5D%5BKR%5D.jpg?raw=true}
 {Jackson Wang (GOT7)}{2020-03-20}{100 Ways}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJackson Wang (GOT7)%5D%5B2020-03-20%5D%5B100 Ways%5D%5BKR%5D.jpg?raw=true}
 {Jackson Wang (GOT7)}{2020-09-04}{Pretty Please}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJackson Wang (GOT7)%5D%5B2020-09-04%5D%5BPretty Please%5D%5BKR%5D.jpg?raw=true}
-{Jay Park}{2015-05-22}{Mommae}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJay Park%5D%5B2015-05-22%5D%5BMommae%5D%5BKR%5D.png?raw=true}
+{Jay Park}{2015-05-22}{Mommae}{krnb}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJay Park%5D%5B2015-05-22%5D%5BMommae%5D%5Bkrnb%5D.png?raw=true}
 {JENNIE (Blackpink)}{2018-11-12}{SOLO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJENNIE (Blackpink)%5D%5B2018-11-12%5D%5BSOLO%5D%5BKR%5D.jpeg?raw=true}
 {JENNIE (Blackpink)}{2023-10-06}{You & Me}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJENNIE (Blackpink)%5D%5B2023-10-06%5D%5BYou & Me%5D%5BEN%5D.png?raw=true}
 {JENNIE (Blackpink)}{2024-10-11}{Mantra}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJENNIE (Blackpink)%5D%5B2024-10-11%5D%5BMantra%5D%5BKR%5D.jpg?raw=true}
