@@ -399,6 +399,7 @@
 {IVE}{2024-04-29}{IVE SWITCH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIVE%5D%5B2024-04-29%5D%5BIVE SWITCH%5D%5BKR%5D.webp?raw=true}
 {IVE}{2024-06-28}{SUMMER FESTA (IVE x PEPSI)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIVE%5D%5B2024-06-28%5D%5BSUMMER FESTA (IVE x PEPSI)%5D%5BKR%5D.jpg?raw=true}
 {IVE}{2024-08-07}{CRUSH}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIVE%5D%5B2024-08-07%5D%5BCRUSH%5D%5BJP%5D.jpg?raw=true}
+{IVE}{2025-01-13}{REBEL HEART}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIVE%5D%5B2025-01-13%5D%5BREBEL HEART%5D%5BKR%5D.jpg?raw=true}
 {IZ ONE}{2018-10-19}{COLOR IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIZ ONE%5D%5B2018-10-19%5D%5BCOLOR IZ%5D%5BKR%5D.jpg?raw=true}
 {IZ ONE}{2019-04-01}{HEART IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIZ ONE%5D%5B2019-04-01%5D%5BHEART IZ%5D%5BKR%5D.png?raw=true}
 {IZ ONE}{2020-02-17}{BLOOM IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIZ ONE%5D%5B2020-02-17%5D%5BBLOOM IZ%5D%5BKR%5D.png?raw=true}
@@ -499,9 +500,12 @@
 {Loossemble}{2024-04-16}{One of a Kind}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLoossemble%5D%5B2024-04-16%5D%5BOne of a Kind%5D%5BKR%5D.webp?raw=true}
 {Loossemble}{2024-09-02}{TTYL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLoossemble%5D%5B2024-09-02%5D%5BTTYL%5D%5BKR%5D.jpg?raw=true}
 {LUCAS (NCT)}{2024-04-01}{Renegade}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLUCAS (NCT)%5D%5B2024-04-01%5D%5BRenegade%5D%5BKR%5D.jpg?raw=true}
+{Mamamoo+}{2023-03-29}{ACT 1, SCENE 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo+%5D%5B2023-03-29%5D%5BACT 1, SCENE 1%5D%5BKR%5D.webp?raw=true}
+{Mamamoo+}{2023-08-03}{TWO RABBITS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo+%5D%5B2023-08-03%5D%5BTWO RABBITS%5D%5BKR%5D.webp?raw=true}
 {Mamamoo}{2014-06-18}{Hello}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2014-06-18%5D%5BHello%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2015-06-19}{Pink Funky}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2015-06-19%5D%5BPink Funky%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2016-11-07}{Memory}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2016-11-07%5D%5BMemory%5D%5BKR%5D.jpg?raw=true}
+{Mamamoo}{2017-06-22}{Purple}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2017-06-22%5D%5BPurple%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2018-03-07}{Yellow Flower}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2018-03-07%5D%5BYellow Flower%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2018-07-16}{Red Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2018-07-16%5D%5BRed Moon%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2018-11-29}{Blue;s}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2018-11-29%5D%5BBlue;s%5D%5BKR%5D.jpg?raw=true}
@@ -511,6 +515,7 @@
 {Mamamoo}{2020-10-20}{Dingga}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2020-10-20%5D%5BDingga%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2020-11-03}{Travel}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2020-11-03%5D%5BTravel%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2021-09-15}{I Say Mamamoo The Best}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2021-09-15%5D%5BI Say Mamamoo The Best%5D%5BKR%5D.jpg?raw=true}
+{Mamamoo}{2022-10-11}{Mic On}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2022-10-11%5D%5BMic On%5D%5BKR%5D.png?raw=true}
 {MCND}{2020-01-02}{TOP GANG}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMCND%5D%5B2020-01-02%5D%5BTOP GANG%5D%5BKR%5D.png?raw=true}
 {MCND}{2020-02-27}{into the ICE AGE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMCND%5D%5B2020-02-27%5D%5Binto the ICE AGE%5D%5BKR%5D.png?raw=true}
 {MCND}{2020-08-20}{EARTH AGE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMCND%5D%5B2020-08-20%5D%5BEARTH AGE%5D%5BKR%5D.png?raw=true}
