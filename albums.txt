@@ -441,6 +441,7 @@
 {KAI (EXO)}{2021-11-30}{Peaches}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKAI (EXO)%5D%5B2021-11-30%5D%5BPeaches%5D%5BKR%5D.jpg?raw=true}
 {KAI (EXO)}{2023-03-13}{ROVER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKAI (EXO)%5D%5B2023-03-13%5D%5BROVER%5D%5BKR%5D.jpg?raw=true}
 {KAI, SEULGI, JENO, KARINA}{2022-12-26}{2022 Winter SMTOWN SMCU PALACE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKAI, SEULGI, JENO, KARINA%5D%5B2022-12-26%5D%5B2022 Winter SMTOWN SMCU PALACE%5D%5BKR%5D.jpg?raw=true}
+{KARA}{2011-09-05}{Step}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARA%5D%5B2011-09-05%5D%5BStep%5D%5BKR%5D.jpeg?raw=true}
 {KARD}{2016-12-13}{Oh NaNa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARD%5D%5B2016-12-13%5D%5BOh NaNa%5D%5BKR%5D.png?raw=true}
 {KARD}{2017-02-16}{Dont Recall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARD%5D%5B2017-02-16%5D%5BDont Recall%5D%5BKR%5D.png?raw=true}
 {KARD}{2017-04-04}{Rumor}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARD%5D%5B2017-04-04%5D%5BRumor%5D%5BKR%5D.png?raw=true}
