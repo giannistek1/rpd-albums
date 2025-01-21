@@ -76,6 +76,7 @@
 {Apink}{2019-01-07}{Percent}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BApink%5D%5B2019-01-07%5D%5BPercent%5D%5BKR%5D.jpg?raw=true}
 {Apink}{2020-04-13}{Look}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BApink%5D%5B2020-04-13%5D%5BLook%5D%5BKR%5D.jpg?raw=true}
 {Apink}{2022-02-14}{Horn}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BApink%5D%5B2022-02-14%5D%5BHorn%5D%5BKR%5D.jfif?raw=true}
+{APRIL}{2020-04-22}{Da Capo}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BAPRIL%5D%5B2020-04-22%5D%5BDa Capo%5D%5BKR%5D.png?raw=true}
 {ARTMS}{2024-05-31}{Dall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BARTMS%5D%5B2024-05-31%5D%5BDall%5D%5BKR%5D.jpg?raw=true}
 {ARTMS}{2024-05-31}{Pre1 Birth}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BARTMS%5D%5B2024-05-31%5D%5BPre1 Birth%5D%5BKR%5D.jpg?raw=true}
 {ASTRO}{2017-05-29}{Dream Part.01}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BASTRO%5D%5B2017-05-29%5D%5BDream Part.01%5D%5BKR%5D.jpg?raw=true}
@@ -516,6 +517,8 @@
 {Mamamoo}{2020-11-03}{Travel}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2020-11-03%5D%5BTravel%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2021-09-15}{I Say Mamamoo The Best}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2021-09-15%5D%5BI Say Mamamoo The Best%5D%5BKR%5D.jpg?raw=true}
 {Mamamoo}{2022-10-11}{Mic On}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMamamoo%5D%5B2022-10-11%5D%5BMic On%5D%5BKR%5D.png?raw=true}
+{MAVE}{2023-01-25}{PANDORAS BOX}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMAVE%5D%5B2023-01-25%5D%5BPANDORAS BOX%5D%5BKR%5D.jpg?raw=true}
+{MAVE}{2023-11-30}{Whats My Name}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMAVE%5D%5B2023-11-30%5D%5BWhats My Name%5D%5BKR%5D.jpg?raw=true}
 {MCND}{2020-01-02}{TOP GANG}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMCND%5D%5B2020-01-02%5D%5BTOP GANG%5D%5BKR%5D.png?raw=true}
 {MCND}{2020-02-27}{into the ICE AGE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMCND%5D%5B2020-02-27%5D%5Binto the ICE AGE%5D%5BKR%5D.png?raw=true}
 {MCND}{2020-08-20}{EARTH AGE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMCND%5D%5B2020-08-20%5D%5BEARTH AGE%5D%5BKR%5D.png?raw=true}
@@ -841,6 +844,8 @@
 {tripleS}{2022-10-28}{ACCESS}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BtripleS%5D%5B2022-10-28%5D%5BACCESS%5D%5BKR%5D.webp?raw=true}
 {tripleS}{2023-02-13}{ASSEMBLE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BtripleS%5D%5B2023-02-13%5D%5BASSEMBLE%5D%5BKR%5D.webp?raw=true}
 {tripleS}{2024-05-08}{ASSEMBLE24}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BtripleS%5D%5B2024-05-08%5D%5BASSEMBLE24%5D%5BKR%5D.jpg?raw=true}
+{tripleS}{2024-10-23}{Performante}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BtripleS%5D%5B2024-10-23%5D%5BPerformante%5D%5BKR%5D.webp?raw=true}
+{tripleS}{2024-11-20}{Untitled}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BtripleS%5D%5B2024-11-20%5D%5BUntitled%5D%5BJP%5D.webp?raw=true}
 {Trouble Maker}{2011-12-01}{Trouble Maker}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2011-12-01%5D%5BTrouble Maker%5D%5BKR%5D.jfif?raw=true}
 {Trouble Maker}{2013-10-28}{Chemistry}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2013-10-28%5D%5BChemistry%5D%5BKR%5D.jpg?raw=true}
 {True Damage}{2019-11-10}{Giants}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrue Damage%5D%5B2019-11-10%5D%5BGiants%5D%5BKR%5D.jpeg?raw=true}
