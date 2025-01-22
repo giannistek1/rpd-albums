@@ -141,6 +141,10 @@
 {Blackpink}{2020-10-02}{The Album}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlackpink%5D%5B2020-10-02%5D%5BThe Album%5D%5BKR%5D.png?raw=true}
 {Blackpink}{2022-08-19}{Pink Venom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlackpink%5D%5B2022-08-19%5D%5BPink Venom%5D%5BKR%5D.jpg?raw=true}
 {Blackpink}{2022-09-16}{Born Pink}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlackpink%5D%5B2022-09-16%5D%5BBorn Pink%5D%5BKR%5D.jpeg?raw=true}
+{Block B}{2012-02-02}{Welcome to the BLOCK}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2012-02-02%5D%5BWelcome to the BLOCK%5D%5BKR%5D.jpg?raw=true}
+{Block B}{2012-10-17}{BLOCKBUSTER #1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2012-10-17%5D%5BBLOCKBUSTER #1%5D%5BKR%5D.jpg?raw=true}
+{Block B}{2013-10-02}{Very Good}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2013-10-02%5D%5BVery Good%5D%5BKR%5D.jpg?raw=true}
+{Block B}{2014-07-24}{HER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2014-07-24%5D%5BHER%5D%5BKR%5D.jpg?raw=true}
 {Block B}{2017-11-07}{Montage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2017-11-07%5D%5BMontage%5D%5BKR%5D.png?raw=true}
 {BoA}{2000-08-25}{ID; Peace B}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBoA%5D%5B2000-08-25%5D%5BID; Peace B%5D%5BKR%5D.jpg?raw=true}
 {BOYNEXTDOOR}{2023-05-30}{WHO!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBOYNEXTDOOR%5D%5B2023-05-30%5D%5BWHO!%5D%5BKR%5D.jpg?raw=true}
@@ -1001,5 +1005,5 @@
 {ZEROBASEONE}{2024-04-24}{SWEAT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2024-04-24%5D%5BSWEAT%5D%5BKR%5D.jpg?raw=true}
 {ZEROBASEONE}{2024-05-13}{You had me at HELLO}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2024-05-13%5D%5BYou had me at HELLO%5D%5BKR%5D.png?raw=true}
 {ZEROBASEONE}{2024-08-24}{Cinema Paradise}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZEROBASEONE%5D%5B2024-08-24%5D%5BCinema Paradise%5D%5BKR%5D.jpg?raw=true}
-{ZICO}{2020-01-13}{Any song}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZICO%5D%5B2020-01-13%5D%5BAny song%5D%5BKR%5D.jfif?raw=true}
-{ZICO}{2024-04-26}{SPOT!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZICO%5D%5B2024-04-26%5D%5BSPOT!%5D%5BKR%5D.jpg?raw=true}
+{ZICO (Block B)}{2020-01-13}{Any song}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZICO (Block B)%5D%5B2020-01-13%5D%5BAny song%5D%5BKR%5D.jfif?raw=true}
+{ZICO (Block B)}{2024-04-26}{SPOT!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BZICO (Block B)%5D%5B2024-04-26%5D%5BSPOT!%5D%5BKR%5D.jpg?raw=true}
