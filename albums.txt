@@ -142,7 +142,7 @@
 {Blackpink}{2022-08-19}{Pink Venom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlackpink%5D%5B2022-08-19%5D%5BPink Venom%5D%5BKR%5D.jpg?raw=true}
 {Blackpink}{2022-09-16}{Born Pink}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlackpink%5D%5B2022-09-16%5D%5BBorn Pink%5D%5BKR%5D.jpeg?raw=true}
 {Block B}{2012-02-02}{Welcome to the BLOCK}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2012-02-02%5D%5BWelcome to the BLOCK%5D%5BKR%5D.jpg?raw=true}
-{Block B}{2012-10-17}{BLOCKBUSTER #1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2012-10-17%5D%5BBLOCKBUSTER #1%5D%5BKR%5D.jpg?raw=true}
+{Block B}{2012-10-17}{BLOCKBUSTER 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2012-10-17%5D%5BBLOCKBUSTER 1%5D%5BKR%5D.jpg?raw=true}
 {Block B}{2013-10-02}{Very Good}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2013-10-02%5D%5BVery Good%5D%5BKR%5D.jpg?raw=true}
 {Block B}{2014-07-24}{HER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2014-07-24%5D%5BHER%5D%5BKR%5D.jpg?raw=true}
 {Block B}{2017-11-07}{Montage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2017-11-07%5D%5BMontage%5D%5BKR%5D.png?raw=true}
