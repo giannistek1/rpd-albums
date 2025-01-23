@@ -171,6 +171,7 @@
 {BTS}{2020-08-21}{Dynamite}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBTS%5D%5B2020-08-21%5D%5BDynamite%5D%5BEN%5D.jpg?raw=true}
 {BTS}{2021-05-21}{Butter}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBTS%5D%5B2021-05-21%5D%5BButter%5D%5BEN%5D.jpg?raw=true}
 {BTS}{2021-07-09}{Permission to Dance}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBTS%5D%5B2021-07-09%5D%5BPermission to Dance%5D%5BEN%5D.jfif?raw=true}
+{BTS}{2022-06-10}{Proof}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBTS%5D%5B2022-06-10%5D%5BProof%5D%5BKR%5D.jpg?raw=true}
 {Cherry Bullet}{2022-03-02}{Cherry Wish}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BCherry Bullet%5D%5B2022-03-02%5D%5BCherry Wish%5D%5BKR%5D.png?raw=true}
 {CHUNG HA (I.O.I)}{2017-06-07}{Hands on Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BCHUNG HA (I.O.I)%5D%5B2017-06-07%5D%5BHands on Me%5D%5BKR%5D.jpg?raw=true}
 {CHUNG HA (I.O.I)}{2018-01-17}{Offset}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BCHUNG HA (I.O.I)%5D%5B2018-01-17%5D%5BOffset%5D%5BKR%5D.jpg?raw=true}
@@ -532,7 +533,9 @@
 {MEOVV}{2024-09-06}{MEOW}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMEOVV%5D%5B2024-09-06%5D%5BMEOW%5D%5BKR%5D.jpg?raw=true}
 {MEOVV}{2024-11-18}{TOXIC}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMEOVV%5D%5B2024-11-18%5D%5BTOXIC%5D%5BKR%5D.jpg?raw=true}
 {MIRAE}{2021-08-25}{Splash}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMIRAE%5D%5B2021-08-25%5D%5BSplash%5D%5BKR%5D.jfif?raw=true}
-{MISAMO (Twice)}{2023-07-26}{Masterpiece}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMISAMO (Twice)%5D%5B2023-07-26%5D%5BMasterpiece%5D%5BKR%5D.jpg?raw=true}
+{MISAMO (Twice)}{2023-07-26}{Masterpiece}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMISAMO (Twice)%5D%5B2023-07-26%5D%5BMasterpiece%5D%5BJP%5D.jpg?raw=true}
+{MISAMO (Twice)}{2024-10-09}{NEW LOOK}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMISAMO (Twice)%5D%5B2024-10-09%5D%5BNEW LOOK%5D%5BJP%5D.jpg?raw=true}
+{MISAMO (Twice)}{2024-10-28}{Identity}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMISAMO (Twice)%5D%5B2024-10-28%5D%5BIdentity%5D%5BJP%5D.jpg?raw=true}
 {MOMOLAND & Natti Natasha}{2022-01-14}{Yummy Yummy Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMOMOLAND & Natti Natasha%5D%5B2022-01-14%5D%5BYummy Yummy Love%5D%5BKR%5D.jfif?raw=true}
 {MOMOLAND}{2016-11-10}{Welcome to MOMOLAND}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMOMOLAND%5D%5B2016-11-10%5D%5BWelcome to MOMOLAND%5D%5BKR%5D.png?raw=true}
 {MOMOLAND}{2017-04-26}{Wonderful Love}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMOMOLAND%5D%5B2017-04-26%5D%5BWonderful Love%5D%5BKR%5D.png?raw=true}
