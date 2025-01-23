@@ -312,9 +312,15 @@
 {Girls Generation (SNSD)}{2007-08-05}{Into the New World}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2007-08-05%5D%5BInto the New World%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2009-01-05}{Gee}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2009-01-05%5D%5BGee%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2009-06-25}{Tell Me Your Wish}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2009-06-25%5D%5BTell Me Your Wish%5D%5BKR%5D.jpg?raw=true}
+{Girls Generation (SNSD)}{2010-01-28}{Oh!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2010-01-28%5D%5BOh!%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2010-03-17}{Run Devil Run}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2010-03-17%5D%5BRun Devil Run%5D%5BKR%5D.jpg?raw=true}
+{Girls Generation (SNSD)}{2010-10-27}{Hoot}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2010-10-27%5D%5BHoot%5D%5BKR%5D.jpg?raw=true}
+{Girls Generation (SNSD)}{2011-04-23}{Mr. Taxi}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2011-04-23%5D%5BMr. Taxi%5D%5BJP%5D.png?raw=true}
+{Girls Generation (SNSD)}{2011-06-01}{Girls Generation (JP)}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2011-06-01%5D%5BGirls Generation (JP)%5D%5BJP%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2011-10-19}{The Boys}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2011-10-19%5D%5BThe Boys%5D%5BKR%5D.jpg?raw=true}
+{Girls Generation (SNSD)}{2012-11-07}{Flower Power}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2012-11-07%5D%5BFlower Power%5D%5BJP%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2013-01-01}{I Got a Boy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2013-01-01%5D%5BI Got a Boy%5D%5BKR%5D.jpg?raw=true}
+{Girls Generation (SNSD)}{2013-11-05}{My Oh My}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2013-11-05%5D%5BMy Oh My%5D%5BJP%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2014-02-24}{Mr.Mr.}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2014-02-24%5D%5BMr.Mr.%5D%5BKR%5D.png?raw=true}
 {Girls Generation (SNSD)}{2015-04-10}{Catch Me If You Can}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2015-04-10%5D%5BCatch Me If You Can%5D%5BKR%5D.png?raw=true}
 {Girls Generation (SNSD)}{2015-08-19}{Lion Heart}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2015-08-19%5D%5BLion Heart%5D%5BKR%5D.jpg?raw=true}
@@ -857,6 +863,7 @@
 {Trouble Maker}{2011-12-01}{Trouble Maker}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2011-12-01%5D%5BTrouble Maker%5D%5BKR%5D.jfif?raw=true}
 {Trouble Maker}{2013-10-28}{Chemistry}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2013-10-28%5D%5BChemistry%5D%5BKR%5D.jpg?raw=true}
 {True Damage}{2019-11-10}{Giants}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrue Damage%5D%5B2019-11-10%5D%5BGiants%5D%5BKR%5D.jpeg?raw=true}
+{TTS (Girls Generation)}{2014-09-18}{Holler}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTTS (Girls Generation)%5D%5B2014-09-18%5D%5BHoller%5D%5BKR%5D.jpg?raw=true}
 {TVXQ}{2008-09-26}{Mirotic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTVXQ%5D%5B2008-09-26%5D%5BMirotic%5D%5BKR%5D.png?raw=true}
 {Twice}{2015-10-20}{The Story Begins}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2015-10-20%5D%5BThe Story Begins%5D%5BKR%5D.jpg?raw=true}
 {Twice}{2016-04-25}{Page Two}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2016-04-25%5D%5BPage Two%5D%5BKR%5D.jpg?raw=true}
