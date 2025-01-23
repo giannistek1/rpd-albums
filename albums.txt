@@ -310,6 +310,7 @@
 {GFRIEND}{2020-07-13}{Song of the Sirens}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGFRIEND%5D%5B2020-07-13%5D%5BSong of the Sirens%5D%5BKR%5D.png?raw=true}
 {GFRIEND}{2020-11-09}{Walpurgis Night}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGFRIEND%5D%5B2020-11-09%5D%5BWalpurgis Night%5D%5BKR%5D.png?raw=true}
 {Girls Generation (SNSD)}{2007-08-05}{Into the New World}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2007-08-05%5D%5BInto the New World%5D%5BKR%5D.jpg?raw=true}
+{Girls Generation (SNSD)}{2007-11-01}{Girls Generation}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2007-11-01%5D%5BGirls Generation%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2009-01-05}{Gee}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2009-01-05%5D%5BGee%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2009-06-25}{Tell Me Your Wish}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2009-06-25%5D%5BTell Me Your Wish%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2010-01-28}{Oh!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2010-01-28%5D%5BOh!%5D%5BKR%5D.jpg?raw=true}
