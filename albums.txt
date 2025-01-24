@@ -319,6 +319,7 @@
 {Girls Generation (SNSD)}{2011-04-23}{Mr. Taxi}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2011-04-23%5D%5BMr. Taxi%5D%5BJP%5D.png?raw=true}
 {Girls Generation (SNSD)}{2011-06-01}{Girls Generation (JP)}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2011-06-01%5D%5BGirls Generation (JP)%5D%5BJP%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2011-10-19}{The Boys}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2011-10-19%5D%5BThe Boys%5D%5BKR%5D.jpg?raw=true}
+{Girls Generation (SNSD)}{2012-06-20}{Paparazzi}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2012-06-20%5D%5BPaparazzi%5D%5BJP%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2012-11-07}{Flower Power}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2012-11-07%5D%5BFlower Power%5D%5BJP%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2013-01-01}{I Got a Boy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2013-01-01%5D%5BI Got a Boy%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2013-11-05}{My Oh My}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2013-11-05%5D%5BMy Oh My%5D%5BJP%5D.jpg?raw=true}
@@ -355,6 +356,7 @@
 {HYOLYN (SISTAR)}{2018-04-23}{Dally}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOLYN (SISTAR)%5D%5B2018-04-23%5D%5BDally%5D%5BKR%5D.jpg?raw=true}
 {HYOLYN (SISTAR)}{2018-07-20}{See Sea}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOLYN (SISTAR)%5D%5B2018-07-20%5D%5BSee Sea%5D%5BKR%5D.jfif?raw=true}
 {HYOLYN (SISTAR)}{2022-01-12}{Layin Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOLYN (SISTAR)%5D%5B2022-01-12%5D%5BLayin Low%5D%5BKR%5D.jfif?raw=true}
+{HYOYEON (SNSD)}{2017-06-01}{Wannabe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON (SNSD)%5D%5B2017-06-01%5D%5BWannabe%5D%5BKR%5D.jpg?raw=true}
 {HYOYEON (SNSD)}{2020-07-22}{DESSERT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON (SNSD)%5D%5B2020-07-22%5D%5BDESSERT%5D%5BKR%5D.jpg?raw=true}
 {HyunA & Dawn}{2021-09-09}{1 1 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHyunA & Dawn%5D%5B2021-09-09%5D%5B1 1 1%5D%5BKR%5D.jpg?raw=true}
 {HyunA (4Minute)}{2011-07-05}{Bubble Pop!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHyunA (4Minute)%5D%5B2011-07-05%5D%5BBubble Pop!%5D%5BKR%5D.png?raw=true}
@@ -725,6 +727,7 @@
 {SECRET NUMBER}{2020-11-04}{Got That Boom}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSECRET NUMBER%5D%5B2020-11-04%5D%5BGot That Boom%5D%5BKR%5D.jpeg?raw=true}
 {SECRET NUMBER}{2021-10-07}{Fire Saturday}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSECRET NUMBER%5D%5B2021-10-07%5D%5BFire Saturday%5D%5BKR%5D.jpeg?raw=true}
 {SEO SOOJIN}{2024-05-23}{RIZZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSEO SOOJIN%5D%5B2024-05-23%5D%5BRIZZ%5D%5BKR%5D.jpg?raw=true}
+{Seohyun (SNSD)}{2017-01-17}{Dont Say No}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSeohyun (SNSD)%5D%5B2017-01-17%5D%5BDont Say No%5D%5BKR%5D.jpg?raw=true}
 {Seulgi (Red Velvet)}{2022-10-04}{28 Reasons}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSeulgi (Red Velvet)%5D%5B2022-10-04%5D%5B28 Reasons%5D%5BKR%5D.png?raw=true}
 {Seventeen}{2015-05-29}{17 Carat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSeventeen%5D%5B2015-05-29%5D%5B17 Carat%5D%5BKR%5D.png?raw=true}
 {Seventeen}{2015-09-10}{Boys Be}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BSeventeen%5D%5B2015-09-10%5D%5BBoys Be%5D%5BKR%5D.png?raw=true}
@@ -841,6 +844,7 @@
 {The Boyz}{2020-09-21}{Chase}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BThe Boyz%5D%5B2020-09-21%5D%5BChase%5D%5BKR%5D.png?raw=true}
 {The Boyz}{2021-08-09}{Thrill-ing}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BThe Boyz%5D%5B2021-08-09%5D%5BThrill-ing%5D%5BKR%5D.png?raw=true}
 {The Boyz}{2021-11-01}{Maverick}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BThe Boyz%5D%5B2021-11-01%5D%5BMaverick%5D%5BKR%5D.png?raw=true}
+{Tiffany (SNSD)}{2016-05-11}{I Just Wanna Dance}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTiffany (SNSD)%5D%5B2016-05-11%5D%5BI Just Wanna Dance%5D%5BKR%5D.jpg?raw=true}
 {TREASURE}{2020-01-30}{Going Crazy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTREASURE%5D%5B2020-01-30%5D%5BGoing Crazy%5D%5BKR%5D.jpg?raw=true}
 {TREASURE}{2020-08-07}{The First Step Chapter One}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTREASURE%5D%5B2020-08-07%5D%5BThe First Step Chapter One%5D%5BKR%5D.jpg?raw=true}
 {TREASURE}{2020-10-18}{The First Step Chapter Two}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTREASURE%5D%5B2020-10-18%5D%5BThe First Step Chapter Two%5D%5BKR%5D.jpg?raw=true}
@@ -865,6 +869,7 @@
 {Trouble Maker}{2013-10-28}{Chemistry}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2013-10-28%5D%5BChemistry%5D%5BKR%5D.jpg?raw=true}
 {True Damage}{2019-11-10}{Giants}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrue Damage%5D%5B2019-11-10%5D%5BGiants%5D%5BKR%5D.jpeg?raw=true}
 {TTS (Girls Generation)}{2014-09-18}{Holler}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTTS (Girls Generation)%5D%5B2014-09-18%5D%5BHoller%5D%5BKR%5D.jpg?raw=true}
+{TTS (SNSD)}{2012-04-29}{Twinkle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTTS (SNSD)%5D%5B2012-04-29%5D%5BTwinkle%5D%5BKR%5D.jpg?raw=true}
 {TVXQ}{2008-09-26}{Mirotic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTVXQ%5D%5B2008-09-26%5D%5BMirotic%5D%5BKR%5D.png?raw=true}
 {Twice}{2015-10-20}{The Story Begins}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2015-10-20%5D%5BThe Story Begins%5D%5BKR%5D.jpg?raw=true}
 {Twice}{2016-04-25}{Page Two}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2016-04-25%5D%5BPage Two%5D%5BKR%5D.jpg?raw=true}
