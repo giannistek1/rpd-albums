@@ -105,6 +105,7 @@
 {ATEEZ}{2023-12-01}{THE WORLD EP.FIN WILL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BATEEZ%5D%5B2023-12-01%5D%5BTHE WORLD EP.FIN WILL%5D%5BKR%5D.png?raw=true}
 {ATEEZ}{2024-03-31}{GOLDEN HOUR Part.1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BATEEZ%5D%5B2024-03-31%5D%5BGOLDEN HOUR Part.1%5D%5BKR%5D.jpg?raw=true}
 {ATEEZ}{2024-11-15}{GOLDEN HOUR Part.2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BATEEZ%5D%5B2024-11-15%5D%5BGOLDEN HOUR Part.2%5D%5BKR%5D.jpg?raw=true}
+{B.A.P}{2012-01-26}{Warrior}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BB.A.P%5D%5B2012-01-26%5D%5BWarrior%5D%5BKR%5D.jpg?raw=true}
 {B.A.P}{2013-02-12}{One Shot}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BB.A.P%5D%5B2013-02-12%5D%5BOne Shot%5D%5BKR%5D.jpg?raw=true}
 {B.A.P}{2017-03-07}{Rose}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BB.A.P%5D%5B2017-03-07%5D%5BRose%5D%5BKR%5D.png?raw=true}
 {BABYMONSTER}{2023-11-27}{BATTER UP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBABYMONSTER%5D%5B2023-11-27%5D%5BBATTER UP%5D%5BKR%5D.jpg?raw=true}
@@ -677,6 +678,7 @@
 {OnlyOneOf}{2022-01-14}{Instinct Pt 2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOnlyOneOf%5D%5B2022-01-14%5D%5BInstinct Pt 2%5D%5BKR%5D.jpg?raw=true}
 {OnlyOneOf}{2023-03-02}{Seoul Collection}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOnlyOneOf%5D%5B2023-03-02%5D%5BSeoul Collection%5D%5BKR%5D.jpg?raw=true}
 {OnlyOneOf}{2024-01-10}{Things I Cant Say LOve}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOnlyOneOf%5D%5B2024-01-10%5D%5BThings I Cant Say LOve%5D%5BKR%5D.jpg?raw=true}
+{Orange Caramel}{2011-10-13}{Shanghai Romance}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOrange Caramel%5D%5B2011-10-13%5D%5BShanghai Romance%5D%5BKR%5D.jpg?raw=true}
 {Orange Caramel}{2014-03-12}{Catallena}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOrange Caramel%5D%5B2014-03-12%5D%5BCatallena%5D%5BKR%5D.jpg?raw=true}
 {P1Harmony}{2022-01-03}{Disharmony Find Out}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BP1Harmony%5D%5B2022-01-03%5D%5BDisharmony Find Out%5D%5BKR%5D.webp?raw=true}
 {P1Harmony}{2024-02-05}{Killin It}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BP1Harmony%5D%5B2024-02-05%5D%5BKillin It%5D%5BKR%5D.png?raw=true}
@@ -688,6 +690,7 @@
 {PENTAGON}{2020-10-12}{We th}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BPENTAGON%5D%5B2020-10-12%5D%5BWe th%5D%5BKR%5D.png?raw=true}
 {PENTAGON}{2021-03-15}{Love or Take}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BPENTAGON%5D%5B2021-03-15%5D%5BLove or Take%5D%5BKR%5D.jpg?raw=true}
 {PENTAGON}{2022-01-24}{In vite U}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BPENTAGON%5D%5B2022-01-24%5D%5BIn vite U%5D%5BKR%5D.jpg?raw=true}
+{PIXY}{2021-02-24}{With my wings}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BPIXY%5D%5B2021-02-24%5D%5BWith my wings%5D%5BKR%5D.jpg?raw=true}
 {PLAYBACK}{2015-06-25}{Playback}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BPLAYBACK%5D%5B2015-06-25%5D%5BPlayback%5D%5BKR%5D.png?raw=true}
 {PLAYBACK}{2017-10-28}{Want You To Say}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BPLAYBACK%5D%5B2017-10-28%5D%5BWant You To Say%5D%5BKR%5D.png?raw=true}
 {PLEDIS Girlz}{2016-06-27}{We}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BPLEDIS Girlz%5D%5B2016-06-27%5D%5BWe%5D%5BKR%5D.png?raw=true}
@@ -993,6 +996,7 @@
 {WJSN}{2019-06-04}{For The Summer}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWJSN%5D%5B2019-06-04%5D%5BFor The Summer%5D%5BKR%5D.png?raw=true}
 {WJSN}{2021-03-31}{UNNATURAL}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWJSN%5D%5B2021-03-31%5D%5BUNNATURAL%5D%5BKR%5D.png?raw=true}
 {Wonder Girls}{2008-09-22}{The Wonder Years Trilogy}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWonder Girls%5D%5B2008-09-22%5D%5BThe Wonder Years Trilogy%5D%5BKR%5D.jpg?raw=true}
+{WONHO (MONSTA X)}{2022-02-16}{Obsession}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWONHO (MONSTA X)%5D%5B2022-02-16%5D%5BObsession%5D%5BKR%5D.jpg?raw=true}
 {WOOAH}{2024-04-08}{BLUSH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BWOOAH%5D%5B2024-04-08%5D%5BBLUSH%5D%5BKR%5D.jpg?raw=true}
 {X1}{2019-08-27}{Quantum Leap}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BX1%5D%5B2019-08-27%5D%5BQuantum Leap%5D%5BKR%5D.jpeg?raw=true}
 {XG}{2022-03-18}{Tippy Toes}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BXG%5D%5B2022-03-18%5D%5BTippy Toes%5D%5BJP%5D.jpg?raw=true}
