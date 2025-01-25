@@ -592,6 +592,9 @@
 {Moonbyul (Mamamoo)}{2022-01-19}{6equence}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2022-01-19%5D%5B6equence%5D%5BKR%5D.webp?raw=true}
 {Moonbyul (Mamamoo)}{2024-02-20}{Starlit of Muse}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2024-02-20%5D%5BStarlit of Muse%5D%5BKR%5D.jpg?raw=true}
 {Moonbyul (Mamamoo)}{2024-08-21}{Starlit of Twinkle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BMoonbyul (Mamamoo)%5D%5B2024-08-21%5D%5BStarlit of Twinkle%5D%5BKR%5D.jpg?raw=true}
+{NATTY (Kiss of Life)}{2020-05-07}{NINETEEN}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNATTY (Kiss of Life)%5D%5B2020-05-07%5D%5BNINETEEN%5D%5BKR%5D.jpg?raw=true}
+{NATTY (Kiss of Life)}{2020-11-12}{Teddy Bear}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNATTY (Kiss of Life)%5D%5B2020-11-12%5D%5BTeddy Bear%5D%5BKR%5D.jpg?raw=true}
+{NATTY (Kiss of Life)}{2023-06-18}{Sugarcoat}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNATTY (Kiss of Life)%5D%5B2023-06-18%5D%5BSugarcoat%5D%5BKR%5D.webp?raw=true}
 {NAYEON (Twice)}{2022-06-24}{IM NAYEON}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNAYEON (Twice)%5D%5B2022-06-24%5D%5BIM NAYEON%5D%5BKR%5D.jpg?raw=true}
 {NAYEON (Twice)}{2024-06-24}{NA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNAYEON (Twice)%5D%5B2024-06-24%5D%5BNA%5D%5BKR%5D.jpg?raw=true}
 {NCT 127}{2016-07-10}{NCT 127}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNCT 127%5D%5B2016-07-10%5D%5BNCT 127%5D%5BKR%5D.png?raw=true}
