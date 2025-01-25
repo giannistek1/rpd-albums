@@ -449,6 +449,9 @@
 {Jessi}{2021-03-17}{What Type of X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJessi%5D%5B2021-03-17%5D%5BWhat Type of X%5D%5BKR%5D.jfif?raw=true}
 {Jessi}{2021-10-12}{Cold Blooded}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJessi%5D%5B2021-10-12%5D%5BCold Blooded%5D%5BKR%5D.jfif?raw=true}
 {JIHYO (Twice)}{2023-08-18}{ZONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJIHYO (Twice)%5D%5B2023-08-18%5D%5BZONE%5D%5BKR%5D.png?raw=true}
+{Jimin (BTS)}{2023-03-24}{Face}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJimin (BTS)%5D%5B2023-03-24%5D%5BFace%5D%5BKR%5D.png?raw=true}
+{Jimin (BTS)}{2024-07-19}{Muse}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJimin (BTS)%5D%5B2024-07-19%5D%5BMuse%5D%5BKR%5D.png?raw=true}
+{Jimin (BTS}{2023-03-17}{Set Me Free Pt.2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJimin (BTS%5D%5B2023-03-17%5D%5BSet Me Free Pt.2%5D%5BKR%5D.png?raw=true}
 {JISOO (Blackpink)}{2023-03-31}{Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJISOO (Blackpink)%5D%5B2023-03-31%5D%5BMe%5D%5BKR%5D.jpg?raw=true}
 {Jo Yuri (IZ ONE)}{2021-10-07}{GLASSY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJo Yuri (IZ ONE)%5D%5B2021-10-07%5D%5BGLASSY%5D%5BKR%5D.jpg?raw=true}
 {Jo Yuri (IZ ONE)}{2022-06-02}{Op.22 Y-Waltz in Major}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJo Yuri (IZ ONE)%5D%5B2022-06-02%5D%5BOp.22 Y-Waltz in Major%5D%5BKR%5D.jpg?raw=true}
@@ -464,7 +467,10 @@
 {KAI (EXO)}{2021-11-30}{Peaches}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKAI (EXO)%5D%5B2021-11-30%5D%5BPeaches%5D%5BKR%5D.jpg?raw=true}
 {KAI (EXO)}{2023-03-13}{ROVER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKAI (EXO)%5D%5B2023-03-13%5D%5BROVER%5D%5BKR%5D.jpg?raw=true}
 {KAI, SEULGI, JENO, KARINA}{2022-12-26}{2022 Winter SMTOWN SMCU PALACE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKAI, SEULGI, JENO, KARINA%5D%5B2022-12-26%5D%5B2022 Winter SMTOWN SMCU PALACE%5D%5BKR%5D.jpg?raw=true}
+{KARA}{2010-02-17}{Lupin}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARA%5D%5B2010-02-17%5D%5BLupin%5D%5BKR%5D.jpg?raw=true}
 {KARA}{2011-09-05}{Step}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARA%5D%5B2011-09-05%5D%5BStep%5D%5BKR%5D.jpeg?raw=true}
+{KARA}{2012-08-22}{Pandora}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARA%5D%5B2012-08-22%5D%5BPandora%5D%5BKR%5D.jpeg?raw=true}
+{KARA}{2014-08-18}{Day & Night}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARA%5D%5B2014-08-18%5D%5BDay & Night%5D%5BKR%5D.jpg?raw=true}
 {KARD}{2016-12-13}{Oh NaNa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARD%5D%5B2016-12-13%5D%5BOh NaNa%5D%5BKR%5D.png?raw=true}
 {KARD}{2017-02-16}{Dont Recall}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARD%5D%5B2017-02-16%5D%5BDont Recall%5D%5BKR%5D.png?raw=true}
 {KARD}{2017-04-04}{Rumor}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BKARD%5D%5B2017-04-04%5D%5BRumor%5D%5BKR%5D.png?raw=true}
@@ -882,6 +888,7 @@
 {TTS (Girls Generation)}{2014-09-18}{Holler}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTTS (Girls Generation)%5D%5B2014-09-18%5D%5BHoller%5D%5BKR%5D.jpg?raw=true}
 {TTS (SNSD)}{2012-04-29}{Twinkle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTTS (SNSD)%5D%5B2012-04-29%5D%5BTwinkle%5D%5BKR%5D.jpg?raw=true}
 {TVXQ}{2008-09-26}{Mirotic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTVXQ%5D%5B2008-09-26%5D%5BMirotic%5D%5BKR%5D.png?raw=true}
+{TVXQ}{2012-09-24}{Catch Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTVXQ%5D%5B2012-09-24%5D%5BCatch Me%5D%5BKR%5D.jpg?raw=true}
 {Twice}{2015-10-20}{The Story Begins}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2015-10-20%5D%5BThe Story Begins%5D%5BKR%5D.jpg?raw=true}
 {Twice}{2016-04-25}{Page Two}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2016-04-25%5D%5BPage Two%5D%5BKR%5D.jpg?raw=true}
 {Twice}{2016-10-14}{TWICEcoaster Lane 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2016-10-14%5D%5BTWICEcoaster Lane 1%5D%5BKR%5D.jpg?raw=true}
