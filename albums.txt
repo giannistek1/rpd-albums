@@ -359,10 +359,10 @@
 {HYOLYN (SISTAR)}{2022-01-12}{Layin Low}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOLYN (SISTAR)%5D%5B2022-01-12%5D%5BLayin Low%5D%5BKR%5D.jfif?raw=true}
 {HYOYEON (SNSD)}{2016-12-02}{Mystery}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON (SNSD)%5D%5B2016-12-02%5D%5BMystery%5D%5BKR%5D.jpg?raw=true}
 {HYOYEON (SNSD)}{2017-06-01}{Wannabe}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON (SNSD)%5D%5B2017-06-01%5D%5BWannabe%5D%5BKR%5D.jpg?raw=true}
+{HYOYEON (SNSD)}{2018-11-13}{Punk Right Now}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON (SNSD)%5D%5B2018-11-13%5D%5BPunk Right Now%5D%5BKR%5D.jpg?raw=true}
 {HYOYEON (SNSD)}{2020-07-22}{DESSERT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON (SNSD)%5D%5B2020-07-22%5D%5BDESSERT%5D%5BKR%5D.jpg?raw=true}
 {HYOYEON (SNSD)}{2022-05-16}{DEEP}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON (SNSD)%5D%5B2022-05-16%5D%5BDEEP%5D%5BKR%5D.png?raw=true}
 {HYOYEON (SNSD)}{2023-08-22}{Picture}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON (SNSD)%5D%5B2023-08-22%5D%5BPicture%5D%5BKR%5D.webp?raw=true}
-{HYOYEON}{2018-11-13}{Punk Right Now}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHYOYEON%5D%5B2018-11-13%5D%5BPunk Right Now%5D%5BKR%5D.jpg?raw=true}
 {HyunA & Dawn}{2021-09-09}{1 1 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHyunA & Dawn%5D%5B2021-09-09%5D%5B1 1 1%5D%5BKR%5D.jpg?raw=true}
 {HyunA (4Minute)}{2011-07-05}{Bubble Pop!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHyunA (4Minute)%5D%5B2011-07-05%5D%5BBubble Pop!%5D%5BKR%5D.png?raw=true}
 {HyunA (4Minute)}{2014-07-28}{A Talk}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BHyunA (4Minute)%5D%5B2014-07-28%5D%5BA Talk%5D%5BKR%5D.png?raw=true}
