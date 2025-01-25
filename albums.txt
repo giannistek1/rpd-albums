@@ -663,6 +663,7 @@
 {NMIXX}{2024-08-19}{Fe3O4 STICK OUT}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNMIXX%5D%5B2024-08-19%5D%5BFe3O4 STICK OUT%5D%5BKR%5D.jpg?raw=true}
 {NSYNC}{2000-01-17}{Bye Bye Bye}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNSYNC%5D%5B2000-01-17%5D%5BBye Bye Bye%5D%5BEN%5D.jpg?raw=true}
 {NSYNC}{2000-05-16}{Its Gonna Be Me}{EN}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNSYNC%5D%5B2000-05-16%5D%5BIts Gonna Be Me%5D%5BEN%5D.jpg?raw=true}
+{NU EST}{2012-03-15}{Face}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BNU EST%5D%5B2012-03-15%5D%5BFace%5D%5BKR%5D.jpg?raw=true}
 {OH MY GIRL}{2015-10-08}{CLOSER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOH MY GIRL%5D%5B2015-10-08%5D%5BCLOSER%5D%5BKR%5D.jpeg?raw=true}
 {OH MY GIRL}{2019-05-08}{The Fifth Season}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOH MY GIRL%5D%5B2019-05-08%5D%5BThe Fifth Season%5D%5BKR%5D.png?raw=true}
 {OH MY GIRL}{2020-04-27}{Nonstop}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BOH MY GIRL%5D%5B2020-04-27%5D%5BNonstop%5D%5BKR%5D.png?raw=true}
