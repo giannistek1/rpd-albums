@@ -520,7 +520,10 @@
 {LE SSERAFIM}{2023-10-27}{Perfect Night}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLE SSERAFIM%5D%5B2023-10-27%5D%5BPerfect Night%5D%5BKR%5D.jpg?raw=true}
 {LE SSERAFIM}{2024-02-19}{EASY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLE SSERAFIM%5D%5B2024-02-19%5D%5BEASY%5D%5BKR%5D.webp?raw=true}
 {LE SSERAFIM}{2024-08-30}{CRAZY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLE SSERAFIM%5D%5B2024-08-30%5D%5BCRAZY%5D%5BKR%5D.jpg?raw=true}
+{Lee Chae Yeon (IZ ONE)}{2022-10-12}{HUSH RUSH}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5B2022-10-12%5D%5BHUSH RUSH%5D%5BKR%5D.jpg?raw=true}
 {Lee Chae Yeon (IZ ONE)}{2023-04-12}{Over The Moon}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5B2023-04-12%5D%5BOver The Moon%5D%5BKR%5D.jpg?raw=true}
+{Lee Chae Yeon (IZ ONE)}{2023-09-06}{The Move Street}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5B2023-09-06%5D%5BThe Move Street%5D%5BKR%5D.jpg?raw=true}
+{Lee Chae Yeon (IZ ONE)}{2024-07-03}{SHOWDOWN}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLee Chae Yeon (IZ ONE)%5D%5B2024-07-03%5D%5BSHOWDOWN%5D%5BKR%5D.jpg?raw=true}
 {Lee Jinhyuk (UP10TION)}{2019-11-04}{S.O.L}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLee Jinhyuk (UP10TION)%5D%5B2019-11-04%5D%5BS.O.L%5D%5BKR%5D.jpg?raw=true}
 {LISA (Blackpink)}{2021-09-10}{LALISA}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLISA (Blackpink)%5D%5B2021-09-10%5D%5BLALISA%5D%5BKR%5D.jpg?raw=true}
 {LISA (Blackpink)}{2024-06-27}{ROCKSTAR}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BLISA (Blackpink)%5D%5B2024-06-27%5D%5BROCKSTAR%5D%5BKR%5D.jpg?raw=true}
