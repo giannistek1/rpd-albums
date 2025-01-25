@@ -148,6 +148,8 @@
 {Block B}{2014-07-24}{HER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2014-07-24%5D%5BHER%5D%5BKR%5D.jpg?raw=true}
 {Block B}{2017-11-07}{Montage}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBlock B%5D%5B2017-11-07%5D%5BMontage%5D%5BKR%5D.png?raw=true}
 {BoA}{2000-08-25}{ID; Peace B}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBoA%5D%5B2000-08-25%5D%5BID; Peace B%5D%5BKR%5D.jpg?raw=true}
+{BoA}{2012-02-20}{One Shot, Two Shot}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBoA%5D%5B2012-02-20%5D%5BOne Shot, Two Shot%5D%5BKR%5D.jpg?raw=true}
+{BoA}{2012-05-13}{Only One}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBoA%5D%5B2012-05-13%5D%5BOnly One%5D%5BKR%5D.jpg?raw=true}
 {BOYNEXTDOOR}{2023-05-30}{WHO!}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBOYNEXTDOOR%5D%5B2023-05-30%5D%5BWHO!%5D%5BKR%5D.jpg?raw=true}
 {BOYNEXTDOOR}{2023-09-04}{WHY..}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBOYNEXTDOOR%5D%5B2023-09-04%5D%5BWHY..%5D%5BKR%5D.jpg?raw=true}
 {BOYNEXTDOOR}{2024-04-15}{HOW}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BBOYNEXTDOOR%5D%5B2024-04-15%5D%5BHOW%5D%5BKR%5D.jpg?raw=true}
@@ -310,6 +312,7 @@
 {GFRIEND}{2020-02-03}{Labyrinth}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGFRIEND%5D%5B2020-02-03%5D%5BLabyrinth%5D%5BKR%5D.png?raw=true}
 {GFRIEND}{2020-07-13}{Song of the Sirens}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGFRIEND%5D%5B2020-07-13%5D%5BSong of the Sirens%5D%5BKR%5D.png?raw=true}
 {GFRIEND}{2020-11-09}{Walpurgis Night}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGFRIEND%5D%5B2020-11-09%5D%5BWalpurgis Night%5D%5BKR%5D.png?raw=true}
+{Girls Day}{2014-01-03}{Everyday 3}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Day%5D%5B2014-01-03%5D%5BEveryday 3%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2007-08-05}{Into the New World}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2007-08-05%5D%5BInto the New World%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2007-11-01}{Girls Generation}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2007-11-01%5D%5BGirls Generation%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2009-01-05}{Gee}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2009-01-05%5D%5BGee%5D%5BKR%5D.jpg?raw=true}
