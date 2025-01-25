@@ -383,6 +383,9 @@
 {iKON}{2021-03-03}{Why Why Why}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BiKON%5D%5B2021-03-03%5D%5BWhy Why Why%5D%5BKR%5D.png?raw=true}
 {ILLIT}{2024-03-27}{SUPER REAL ME}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BILLIT%5D%5B2024-03-27%5D%5BSUPER REAL ME%5D%5BKR%5D.png?raw=true}
 {ILLIT}{2024-10-21}{Ill Like You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BILLIT%5D%5B2024-10-21%5D%5BIll Like You%5D%5BKR%5D.jpg?raw=true}
+{Infinite}{2011-07-21}{Over the Top}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2011-07-21%5D%5BOver the Top%5D%5BKR%5D.jpg?raw=true}
+{Infinite}{2012-05-15}{Infinitize}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2012-05-15%5D%5BInfinitize%5D%5BKR%5D.jpeg?raw=true}
+{Infinite}{2014-07-22}{Be Back}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2014-07-22%5D%5BBe Back%5D%5BKR%5D.jpg?raw=true}
 {Infinite}{2015-06-13}{Reality}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2015-06-13%5D%5BReality%5D%5BKR%5D.jpg?raw=true}
 {Infinite}{2016-09-19}{Infinite Only}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BInfinite%5D%5B2016-09-19%5D%5BInfinite Only%5D%5BKR%5D.jpg?raw=true}
 {Irene & Seulgi (Red Velvet)}{2020-07-06}{MONSTER}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIrene & Seulgi (Red Velvet)%5D%5B2020-07-06%5D%5BMONSTER%5D%5BKR%5D.png?raw=true}
