@@ -330,6 +330,9 @@
 {Girls Generation (SNSD)}{2015-08-19}{Lion Heart}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2015-08-19%5D%5BLion Heart%5D%5BKR%5D.jpg?raw=true}
 {Girls Generation (SNSD)}{2022-08-05}{Forever 1}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGirls Generation (SNSD)%5D%5B2022-08-05%5D%5BForever 1%5D%5BKR%5D.png?raw=true}
 {GISELLE (aespa)}{2020-11-17}{aespa}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGISELLE (aespa)%5D%5B2020-11-17%5D%5Baespa%5D%5BKR%5D.jpg?raw=true}
+{Golden Child}{2018-07-04}{Goldenness}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGolden Child%5D%5B2018-07-04%5D%5BGoldenness%5D%5BKR%5D.jpg?raw=true}
+{Golden Child}{2019-11-18}{Re-Boot}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGolden Child%5D%5B2019-11-18%5D%5BRe-Boot%5D%5BKR%5D.jpg?raw=true}
+{Golden Child}{2021-08-02}{Game Changer}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGolden Child%5D%5B2021-08-02%5D%5BGame Changer%5D%5BKR%5D.jpg?raw=true}
 {GOT The Beat}{2022-01-03}{Step Back}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT The Beat%5D%5B2022-01-03%5D%5BStep Back%5D%5BKR%5D.png?raw=true}
 {GOT7}{2014-01-20}{Got it}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2014-01-20%5D%5BGot it%5D%5BKR%5D.jpg?raw=true}
 {GOT7}{2014-06-23}{Got Heart}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2014-06-23%5D%5BGot Heart%5D%5BKR%5D.jpg?raw=true}
