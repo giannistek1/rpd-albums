@@ -458,9 +458,9 @@
 {Jessi}{2021-03-17}{What Type of X}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJessi%5D%5B2021-03-17%5D%5BWhat Type of X%5D%5BKR%5D.jfif?raw=true}
 {Jessi}{2021-10-12}{Cold Blooded}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJessi%5D%5B2021-10-12%5D%5BCold Blooded%5D%5BKR%5D.jfif?raw=true}
 {JIHYO (Twice)}{2023-08-18}{ZONE}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJIHYO (Twice)%5D%5B2023-08-18%5D%5BZONE%5D%5BKR%5D.png?raw=true}
+{Jimin (BTS)}{2023-03-17}{Set Me Free Pt.2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJimin (BTS)%5D%5B2023-03-17%5D%5BSet Me Free Pt.2%5D%5BKR%5D.png?raw=true}
 {Jimin (BTS)}{2023-03-24}{Face}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJimin (BTS)%5D%5B2023-03-24%5D%5BFace%5D%5BKR%5D.png?raw=true}
 {Jimin (BTS)}{2024-07-19}{Muse}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJimin (BTS)%5D%5B2024-07-19%5D%5BMuse%5D%5BKR%5D.png?raw=true}
-{Jimin (BTS}{2023-03-17}{Set Me Free Pt.2}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJimin (BTS%5D%5B2023-03-17%5D%5BSet Me Free Pt.2%5D%5BKR%5D.png?raw=true}
 {JISOO (Blackpink)}{2023-03-31}{Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJISOO (Blackpink)%5D%5B2023-03-31%5D%5BMe%5D%5BKR%5D.jpg?raw=true}
 {Jo Yuri (IZ ONE)}{2021-10-07}{GLASSY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJo Yuri (IZ ONE)%5D%5B2021-10-07%5D%5BGLASSY%5D%5BKR%5D.jpg?raw=true}
 {Jo Yuri (IZ ONE)}{2022-06-02}{Op.22 Y-Waltz in Major}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BJo Yuri (IZ ONE)%5D%5B2022-06-02%5D%5BOp.22 Y-Waltz in Major%5D%5BKR%5D.jpg?raw=true}
