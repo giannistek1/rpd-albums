@@ -342,6 +342,7 @@
 {GOT7}{2014-11-18}{Identify}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2014-11-18%5D%5BIdentify%5D%5BKR%5D.jpg?raw=true}
 {GOT7}{2015-07-13}{Just Right}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2015-07-13%5D%5BJust Right%5D%5BKR%5D.jpg?raw=true}
 {GOT7}{2015-09-29}{MAD}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2015-09-29%5D%5BMAD%5D%5BKR%5D.jpg?raw=true}
+{GOT7}{2016-03-21}{Flight Log Departure}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2016-03-21%5D%5BFlight Log Departure%5D%5BKR%5D.jpg?raw=true}
 {GOT7}{2016-09-27}{Flight Log Turbulence}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2016-09-27%5D%5BFlight Log Turbulence%5D%5BKR%5D.jpg?raw=true}
 {GOT7}{2017-03-13}{Flight Log Arrival}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2017-03-13%5D%5BFlight Log Arrival%5D%5BKR%5D.png?raw=true}
 {GOT7}{2018-03-12}{Eyes On You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2018-03-12%5D%5BEyes On You%5D%5BKR%5D.png?raw=true}
@@ -352,7 +353,6 @@
 {GOT7}{2020-11-30}{Breath of Love Last Piece}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2020-11-30%5D%5BBreath of Love Last Piece%5D%5BKR%5D.jfif?raw=true}
 {GOT7}{2022-05-23}{GOT7}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2022-05-23%5D%5BGOT7%5D%5BKR%5D.webp?raw=true}
 {GOT7}{2025-01-20}{WINTER HEPTAGON}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2025-01-20%5D%5BWINTER HEPTAGON%5D%5BKR%5D.jpg?raw=true}
-{GOT7}{2026-03-21}{Flight Log Departure}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGOT7%5D%5B2026-03-21%5D%5BFlight Log Departure%5D%5BKR%5D.jpg?raw=true}
 {GYUBIN}{2024-01-17}{Really Like You}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGYUBIN%5D%5B2024-01-17%5D%5BReally Like You%5D%5BKR%5D.jpg?raw=true}
 {GYUBIN}{2024-06-26}{Satellite}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BGYUBIN%5D%5B2024-06-26%5D%5BSatellite%5D%5BKR%5D.jpg?raw=true}
 {H.I.N.P}{2018-08-18}{30 Girls 6 Concepts}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BH.I.N.P%5D%5B2018-08-18%5D%5B30 Girls 6 Concepts%5D%5BKR%5D.jfif?raw=true}
@@ -902,8 +902,8 @@
 {Trouble Maker}{2011-12-01}{Trouble Maker}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2011-12-01%5D%5BTrouble Maker%5D%5BKR%5D.jfif?raw=true}
 {Trouble Maker}{2013-10-28}{Chemistry}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrouble Maker%5D%5B2013-10-28%5D%5BChemistry%5D%5BKR%5D.jpg?raw=true}
 {True Damage}{2019-11-10}{Giants}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTrue Damage%5D%5B2019-11-10%5D%5BGiants%5D%5BKR%5D.jpeg?raw=true}
+{TTS (Girls Generation)}{2012-04-29}{Twinkle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTTS (Girls Generation)%5D%5B2012-04-29%5D%5BTwinkle%5D%5BKR%5D.jpg?raw=true}
 {TTS (Girls Generation)}{2014-09-18}{Holler}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTTS (Girls Generation)%5D%5B2014-09-18%5D%5BHoller%5D%5BKR%5D.jpg?raw=true}
-{TTS (SNSD)}{2012-04-29}{Twinkle}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTTS (SNSD)%5D%5B2012-04-29%5D%5BTwinkle%5D%5BKR%5D.jpg?raw=true}
 {TVXQ}{2008-09-26}{Mirotic}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTVXQ%5D%5B2008-09-26%5D%5BMirotic%5D%5BKR%5D.png?raw=true}
 {TVXQ}{2012-09-24}{Catch Me}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTVXQ%5D%5B2012-09-24%5D%5BCatch Me%5D%5BKR%5D.jpg?raw=true}
 {Twice}{2015-10-20}{The Story Begins}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BTwice%5D%5B2015-10-20%5D%5BThe Story Begins%5D%5BKR%5D.jpg?raw=true}
