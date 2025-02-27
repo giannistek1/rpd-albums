@@ -433,6 +433,7 @@
 {IVE}{2024-06-28}{SUMMER FESTA (IVE x PEPSI)}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIVE%5D%5B2024-06-28%5D%5BSUMMER FESTA (IVE x PEPSI)%5D%5BKR%5D.jpg?raw=true}
 {IVE}{2024-08-07}{CRUSH}{JP}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIVE%5D%5B2024-08-07%5D%5BCRUSH%5D%5BJP%5D.jpg?raw=true}
 {IVE}{2025-01-13}{REBEL HEART}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIVE%5D%5B2025-01-13%5D%5BREBEL HEART%5D%5BKR%5D.jpg?raw=true}
+{IVE}{2025-02-03}{IVE EMPATHY}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIVE%5D%5B2025-02-03%5D%5BIVE EMPATHY%5D%5BKR%5D.webp?raw=true}
 {IZ ONE}{2018-10-19}{COLOR IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIZ ONE%5D%5B2018-10-19%5D%5BCOLOR IZ%5D%5BKR%5D.jpg?raw=true}
 {IZ ONE}{2019-04-01}{HEART IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIZ ONE%5D%5B2019-04-01%5D%5BHEART IZ%5D%5BKR%5D.png?raw=true}
 {IZ ONE}{2020-02-17}{BLOOM IZ}{KR}{https://github.com/giannistek1/rpd-albums/blob/main/%5BIZ ONE%5D%5B2020-02-17%5D%5BBLOOM IZ%5D%5BKR%5D.png?raw=true}
